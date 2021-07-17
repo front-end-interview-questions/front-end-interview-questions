@@ -68,6 +68,6 @@
 ![gh_b0d44513cddc_258.jpg](https://i.loli.net/2021/07/17/ufMo1H3pqy8zV4h.jpg)
 ## 赞赏码
 
-![341626515489_.pic.jpg](https://i.loli.net/2021/07/17/fw54q2AZVN13tL9.jpg)
+<img src="https://i.loli.net/2021/07/17/fw54q2AZVN13tL9.jpg" width="400">
 
 面试题收集不易，如果觉得上面的题目对自己的面试有所帮助，可以进行打赏
