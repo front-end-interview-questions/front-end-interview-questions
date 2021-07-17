@@ -1,0 +1,92 @@
+name: "rewriteReadme"
+on:
+  issues:
+    types: [labeled, unlabeled]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Update Recent 10 Issues in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- recentUpdateIssueTable -->"
+          state: "open"
+          sort: "created"
+          direction: "desc"
+          labels: "exercise"
+          creator: "front-end-interview-questions"
+          per_page: 10
+      - name: Top 100 Questions in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- top100IssueList -->"
+          state: "open"
+          labels: "exercise"
+          direction: "asc"
+          sort: "created"
+          creator: "front-end-interview-questions"
+          per_page: 100
+          page: 1
+      - name: Top 101-200 Questions in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- top200IssueList -->"
+          state: "open"
+          labels: "exercise"
+          direction: "asc"
+          sort: "created"
+          creator: "front-end-interview-questions"
+          per_page: 100
+          page: 2
+      - name: Top 201-300 Questions in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- top300IssueList -->"
+          state: "open"
+          labels: "exercise"
+          direction: "asc"
+          sort: "created"
+          creator: "front-end-interview-questions"
+          per_page: 100
+          page: 3
+      - name: Top 301-400 Questions in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- top400IssueList -->"
+          state: "open"
+          labels: "exercise"
+          direction: "asc"
+          sort: "created"
+          creator: "front-end-interview-questions"
+          per_page: 100
+          page: 4
+      - name: Top 401-500 Questions in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- top500IssueList -->"
+          state: "open"
+          labels: "exercise"
+          direction: "asc"
+          sort: "created"
+          creator: "front-end-interview-questions"
+          per_page: 100
+          page: 5
+      - name: add-and-commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: README.md has been re-written
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
