@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第513题：实现柯里化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/504)
-2. [第512题：JS代码中的use strict是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/503)
-3. [第511题：common.js和es6中模块引入的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/502)
-4. [第510题：什么是变量提升](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/501)
-5. [第509题：箭头函数和普通函数有啥区别？箭头函数能当构造函数吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/500)
-6. [第508题：WebSocket 中的心跳是为了解决什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/499)
-7. [第507题：说说对 WebSocket 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/498)
-8. [第506题：Service worker是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/497)
-9. [第505题：什么是 PWA？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/496)
-10. [第504题：如何判断一个对象是不是空对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/495)
+1. [第514题：什么是 let 的临时性死区？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/505)
+2. [第513题：实现柯里化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/504)
+3. [第512题：JS代码中的use strict是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/503)
+4. [第511题：common.js和es6中模块引入的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/502)
+5. [第510题：什么是变量提升](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/501)
+6. [第509题：箭头函数和普通函数有啥区别？箭头函数能当构造函数吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/500)
+7. [第508题：WebSocket 中的心跳是为了解决什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/499)
+8. [第507题：说说对 WebSocket 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/498)
+9. [第506题：Service worker是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/497)
+10. [第505题：什么是 PWA？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/496)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
