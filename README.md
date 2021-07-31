@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第554题：如何实现jwt鉴权机制？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/506)
-2. [第514题：什么是 let 的临时性死区？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/505)
-3. [第513题：实现柯里化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/504)
-4. [第512题：JS代码中的use strict是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/503)
-5. [第511题：common.js和es6中模块引入的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/502)
-6. [第510题：什么是变量提升](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/501)
-7. [第509题：箭头函数和普通函数有啥区别？箭头函数能当构造函数吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/500)
-8. [第508题：WebSocket 中的心跳是为了解决什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/499)
-9. [第507题：说说对 WebSocket 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/498)
-10. [第506题：Service worker是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/497)
+1. [第560题：Object.create 和 new 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/507)
+2. [第554题：如何实现jwt鉴权机制？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/506)
+3. [第514题：什么是 let 的临时性死区？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/505)
+4. [第513题：实现柯里化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/504)
+5. [第512题：JS代码中的use strict是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/503)
+6. [第511题：common.js和es6中模块引入的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/502)
+7. [第510题：什么是变量提升](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/501)
+8. [第509题：箭头函数和普通函数有啥区别？箭头函数能当构造函数吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/500)
+9. [第508题：WebSocket 中的心跳是为了解决什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/499)
+10. [第507题：说说对 WebSocket 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/498)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
