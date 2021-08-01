@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第564题：简单介绍下 ES6 中的 Iterator 迭代器](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/513)
-2. [第563题：js对象中，可枚举性（enumerable）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/512)
-3. [第562题：forEach 中能否使用 await ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/511)
-4. [第561题：如何中断Promise？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/510)
-5. [第559题：堆与栈有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/509)
-6. [第558题：“严格模式”是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/508)
-7. [第560题：Object.create 和 new 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/507)
-8. [第554题：如何实现jwt鉴权机制？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/506)
-9. [第514题：什么是 let 的临时性死区？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/505)
-10. [第513题：实现柯里化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/504)
+1. [第570题：html文档渲染过程，css文件和js文件的下载，是否会阻塞渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/519)
+2. [第569题：谈谈你对浏览器中进程和线程的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/518)
+3. [第568题：为什么JavaScript是单线程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/517)
+4. [第567题：说说你对 Object.defineProperty 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/516)
+5. [第566题：ES6中的 Reflect 对象有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/515)
+6. [第565题：什么是尾调用优化和尾递归？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/514)
+7. [第564题：简单介绍下 ES6 中的 Iterator 迭代器](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/513)
+8. [第563题：js对象中，可枚举性（enumerable）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/512)
+9. [第562题：forEach 中能否使用 await ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/511)
+10. [第561题：如何中断Promise？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/510)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
