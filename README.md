@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第560题：Object.create 和 new 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/507)
-2. [第554题：如何实现jwt鉴权机制？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/506)
-3. [第514题：什么是 let 的临时性死区？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/505)
-4. [第513题：实现柯里化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/504)
-5. [第512题：JS代码中的use strict是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/503)
-6. [第511题：common.js和es6中模块引入的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/502)
-7. [第510题：什么是变量提升](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/501)
-8. [第509题：箭头函数和普通函数有啥区别？箭头函数能当构造函数吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/500)
-9. [第508题：WebSocket 中的心跳是为了解决什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/499)
-10. [第507题：说说对 WebSocket 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/498)
+1. [第564题：简单介绍下 ES6 中的 Iterator 迭代器](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/513)
+2. [第563题：js对象中，可枚举性（enumerable）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/512)
+3. [第562题：forEach 中能否使用 await ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/511)
+4. [第561题：如何中断Promise？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/510)
+5. [第559题：堆与栈有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/509)
+6. [第558题：“严格模式”是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/508)
+7. [第560题：Object.create 和 new 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/507)
+8. [第554题：如何实现jwt鉴权机制？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/506)
+9. [第514题：什么是 let 的临时性死区？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/505)
+10. [第513题：实现柯里化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/504)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
