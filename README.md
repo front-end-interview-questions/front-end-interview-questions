@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第576题：谈谈 Object.defineProperty 与 Proxy 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/525)
-2. [第575题：base64编码图片，为什么会让数据量变大？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/524)
-3. [第574题：html和css中的图片加载与渲染规则是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/523)
-4. [第573题：虚拟DOM一定更快吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/522)
-5. [第572题：mete标签中的viewport 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/521)
-6. [第571题：CSS中的 “flex:1;” 是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/520)
-7. [第570题：html文档渲染过程，css文件和js文件的下载，是否会阻塞渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/519)
-8. [第569题：谈谈你对浏览器中进程和线程的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/518)
-9. [第568题：为什么JavaScript是单线程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/517)
-10. [第567题：说说你对 Object.defineProperty 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/516)
+1. [第577题：不同版本的 React 都做过哪些优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/526)
+2. [第576题：谈谈 Object.defineProperty 与 Proxy 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/525)
+3. [第575题：base64编码图片，为什么会让数据量变大？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/524)
+4. [第574题：html和css中的图片加载与渲染规则是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/523)
+5. [第573题：虚拟DOM一定更快吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/522)
+6. [第572题：mete标签中的viewport 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/521)
+7. [第571题：CSS中的 “flex:1;” 是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/520)
+8. [第570题：html文档渲染过程，css文件和js文件的下载，是否会阻塞渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/519)
+9. [第569题：谈谈你对浏览器中进程和线程的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/518)
+10. [第568题：为什么JavaScript是单线程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/517)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
