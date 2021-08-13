@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第582题：浏览器和 Node 中的事件循环有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/531)
-2. [第581题：谈谈对 window.requestAnimationFrame 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/530)
-3. [第580题：React Fiber 是如何实现更新过程可控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/529)
-4. [第579题：Fiber 为什么是 React 性能的一个飞跃？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/528)
-5. [第578题：浏览器一帧都会干些什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/527)
-6. [第577题：不同版本的 React 都做过哪些优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/526)
-7. [第576题：谈谈 Object.defineProperty 与 Proxy 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/525)
-8. [第575题：base64编码图片，为什么会让数据量变大？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/524)
-9. [第574题：html和css中的图片加载与渲染规则是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/523)
-10. [第573题：虚拟DOM一定更快吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/522)
+1. [第589题：介绍一下 tree shaking 及其工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/532)
+2. [第582题：浏览器和 Node 中的事件循环有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/531)
+3. [第581题：谈谈对 window.requestAnimationFrame 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/530)
+4. [第580题：React Fiber 是如何实现更新过程可控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/529)
+5. [第579题：Fiber 为什么是 React 性能的一个飞跃？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/528)
+6. [第578题：浏览器一帧都会干些什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/527)
+7. [第577题：不同版本的 React 都做过哪些优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/526)
+8. [第576题：谈谈 Object.defineProperty 与 Proxy 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/525)
+9. [第575题：base64编码图片，为什么会让数据量变大？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/524)
+10. [第574题：html和css中的图片加载与渲染规则是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/523)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
