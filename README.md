@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第589题：介绍一下 tree shaking 及其工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/532)
-2. [第582题：浏览器和 Node 中的事件循环有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/531)
-3. [第581题：谈谈对 window.requestAnimationFrame 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/530)
-4. [第580题：React Fiber 是如何实现更新过程可控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/529)
-5. [第579题：Fiber 为什么是 React 性能的一个飞跃？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/528)
-6. [第578题：浏览器一帧都会干些什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/527)
-7. [第577题：不同版本的 React 都做过哪些优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/526)
-8. [第576题：谈谈 Object.defineProperty 与 Proxy 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/525)
-9. [第575题：base64编码图片，为什么会让数据量变大？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/524)
-10. [第574题：html和css中的图片加载与渲染规则是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/523)
+1. [第588题：使用Promise实现每隔1秒输出1,2,3](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/539)
+2. [第587题：Promise中的值穿透是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/538)
+3. [第586题：如何使用js计算一个html页面有多少种标签？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/537)
+4. [第585题：协商缓存中，有了 Last-Modified，为什么还会出现 ETag？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/536)
+5. [第584题：React有哪些性能优化的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/535)
+6. [第583题：bind() 连续调用多次，this的绑定值是什么呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/534)
+7. [第590题：React中的路由懒加载是什么？原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/533)
+8. [第589题：介绍一下 tree shaking 及其工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/532)
+9. [第582题：浏览器和 Node 中的事件循环有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/531)
+10. [第581题：谈谈对 window.requestAnimationFrame 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/530)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
