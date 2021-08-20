@@ -80,6 +80,18 @@ jobs:
           creator: "front-end-interview-questions"
           per_page: 100
           page: 5
+      - name: Top 501-600 Questions in README
+        uses: zhang0ZGC/issue-list-readme@master
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          pattern: "<!-- top600IssueList -->"
+          state: "open"
+          labels: "exercise"
+          direction: "asc"
+          sort: "created"
+          creator: "front-end-interview-questions"
+          per_page: 100
+          page: 6
       - name: add-and-commit
         uses: EndBug/add-and-commit@v4
         with:

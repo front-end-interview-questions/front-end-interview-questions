@@ -62,12 +62,12 @@
 <!-- top600IssueList -->
 ## 官方订阅号
 
-![qrcode_for_gh_52ace799f478_258 _1_ _1_.jpg](https://i.loli.net/2021/07/17/hVWHjuz1SsfE5qb.jpg)
+![订阅号](./assets/订阅号.jpeg)
 ## 小程序码
 
-![gh_b0d44513cddc_258.jpg](https://i.loli.net/2021/07/17/ufMo1H3pqy8zV4h.jpg)
+![小程序码](./assets/小程序码.jpeg)
 ## 赞赏码
 
-<img src="https://i.loli.net/2021/07/17/fw54q2AZVN13tL9.jpg" width="400">
+<img src="./assets/赞赏码.jpeg" width="400">
 
 面试题收集不易，如果觉得上面的题目对自己的面试有所帮助，可以进行打赏
