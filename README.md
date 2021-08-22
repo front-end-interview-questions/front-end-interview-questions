@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第598题：null 和 undefined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/547)
-2. [第597题：数据类型检测的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/546)
-3. [第596题：Object.is() 与比较操作符 “===”、“==” 的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/545)
-4. [第595题：isNaN 和 Number.isNaN 函数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/544)
-5. [第594题：使用ts实现一个判断入参是否是数组类型的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/543)
-6. [第593题：react中懒加载的实现原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/542)
-7. [第592题：说说你对以下几个页面生命周期事件的理解：DOMContentLoaded，load，beforeunload，unload](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/541)
-8. [第591题：一台设备的dpr，是否是可变的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/540)
-9. [第588题：使用Promise实现每隔1秒输出1,2,3](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/539)
-10. [第587题：Promise中的值穿透是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/538)
+1. [第603题：JavaScript脚本延迟加载的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/552)
+2. [第602题：箭头函数的 this 指向哪⾥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/551)
+3. [第601题：如果new一个箭头函数会怎么样？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/550)
+4. [第600题：object.assign和扩展运算法是深拷贝还是浅拷贝，两者区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/549)
+5. [第599题：typeof NaN 的结果是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/548)
+6. [第598题：null 和 undefined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/547)
+7. [第597题：数据类型检测的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/546)
+8. [第596题：Object.is() 与比较操作符 “===”、“==” 的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/545)
+9. [第595题：isNaN 和 Number.isNaN 函数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/544)
+10. [第594题：使用ts实现一个判断入参是否是数组类型的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/543)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -622,6 +622,10 @@
 44. [第597题：数据类型检测的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/546)
 45. [第598题：null 和 undefined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/547)
 46. [第599题：typeof NaN 的结果是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/548)
+47. [第600题：object.assign和扩展运算法是深拷贝还是浅拷贝，两者区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/549)
+48. [第601题：如果new一个箭头函数会怎么样？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/550)
+49. [第602题：箭头函数的 this 指向哪⾥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/551)
+50. [第603题：JavaScript脚本延迟加载的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/552)
 <!-- top600IssueList -->
 ## 官方订阅号
 
