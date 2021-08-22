@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第603题：JavaScript脚本延迟加载的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/552)
-2. [第602题：箭头函数的 this 指向哪⾥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/551)
-3. [第601题：如果new一个箭头函数会怎么样？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/550)
-4. [第600题：object.assign和扩展运算法是深拷贝还是浅拷贝，两者区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/549)
-5. [第599题：typeof NaN 的结果是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/548)
-6. [第598题：null 和 undefined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/547)
-7. [第597题：数据类型检测的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/546)
-8. [第596题：Object.is() 与比较操作符 “===”、“==” 的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/545)
-9. [第595题：isNaN 和 Number.isNaN 函数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/544)
-10. [第594题：使用ts实现一个判断入参是否是数组类型的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/543)
+1. [第606题：for...in和for...of有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/555)
+2. [第605题：什么是 DOM 和 BOM？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/554)
+3. [第604题：什么是类数组对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/553)
+4. [第603题：JavaScript脚本延迟加载的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/552)
+5. [第602题：箭头函数的 this 指向哪⾥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/551)
+6. [第601题：如果new一个箭头函数会怎么样？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/550)
+7. [第600题：object.assign和扩展运算法是深拷贝还是浅拷贝，两者区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/549)
+8. [第599题：typeof NaN 的结果是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/548)
+9. [第598题：null 和 undefined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/547)
+10. [第597题：数据类型检测的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/546)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -626,6 +626,9 @@
 48. [第601题：如果new一个箭头函数会怎么样？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/550)
 49. [第602题：箭头函数的 this 指向哪⾥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/551)
 50. [第603题：JavaScript脚本延迟加载的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/552)
+51. [第604题：什么是类数组对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/553)
+52. [第605题：什么是 DOM 和 BOM？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/554)
+53. [第606题：for...in和for...of有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/555)
 <!-- top600IssueList -->
 ## 官方订阅号
 
