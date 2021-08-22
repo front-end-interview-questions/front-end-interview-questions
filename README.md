@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第588题：使用Promise实现每隔1秒输出1,2,3](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/539)
-2. [第587题：Promise中的值穿透是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/538)
-3. [第586题：如何使用js计算一个html页面有多少种标签？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/537)
-4. [第585题：协商缓存中，有了 Last-Modified，为什么还会出现 ETag？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/536)
-5. [第584题：React有哪些性能优化的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/535)
-6. [第583题：bind() 连续调用多次，this的绑定值是什么呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/534)
-7. [第590题：React中的路由懒加载是什么？原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/533)
-8. [第589题：介绍一下 tree shaking 及其工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/532)
-9. [第582题：浏览器和 Node 中的事件循环有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/531)
-10. [第581题：谈谈对 window.requestAnimationFrame 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/530)
+1. [第593题：react中懒加载的实现原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/542)
+2. [第592题：说说你对以下几个页面生命周期事件的理解：DOMContentLoaded，load，beforeunload，unload](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/541)
+3. [第591题：一台设备的dpr，是否是可变的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/540)
+4. [第588题：使用Promise实现每隔1秒输出1,2,3](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/539)
+5. [第587题：Promise中的值穿透是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/538)
+6. [第586题：如何使用js计算一个html页面有多少种标签？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/537)
+7. [第585题：协商缓存中，有了 Last-Modified，为什么还会出现 ETag？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/536)
+8. [第584题：React有哪些性能优化的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/535)
+9. [第583题：bind() 连续调用多次，this的绑定值是什么呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/534)
+10. [第590题：React中的路由懒加载是什么？原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/533)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -575,6 +575,48 @@
 ### 500题+
 
 <!-- top600IssueList -->
+
+1. [第512题：JS代码中的use strict是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/503)
+2. [第513题：实现柯里化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/504)
+3. [第514题：什么是 let 的临时性死区？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/505)
+4. [第554题：如何实现jwt鉴权机制？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/506)
+5. [第560题：Object.create 和 new 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/507)
+6. [第558题：“严格模式”是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/508)
+7. [第559题：堆与栈有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/509)
+8. [第561题：如何中断Promise？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/510)
+9. [第562题：forEach 中能否使用 await ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/511)
+10. [第563题：js对象中，可枚举性（enumerable）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/512)
+11. [第564题：简单介绍下 ES6 中的 Iterator 迭代器](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/513)
+12. [第565题：什么是尾调用优化和尾递归？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/514)
+13. [第566题：ES6中的 Reflect 对象有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/515)
+14. [第567题：说说你对 Object.defineProperty 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/516)
+15. [第568题：为什么JavaScript是单线程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/517)
+16. [第569题：谈谈你对浏览器中进程和线程的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/518)
+17. [第570题：html文档渲染过程，css文件和js文件的下载，是否会阻塞渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/519)
+18. [第571题：CSS中的 “flex:1;” 是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/520)
+19. [第572题：mete标签中的viewport 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/521)
+20. [第573题：虚拟DOM一定更快吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/522)
+21. [第574题：html和css中的图片加载与渲染规则是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/523)
+22. [第575题：base64编码图片，为什么会让数据量变大？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/524)
+23. [第576题：谈谈 Object.defineProperty 与 Proxy 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/525)
+24. [第577题：不同版本的 React 都做过哪些优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/526)
+25. [第578题：浏览器一帧都会干些什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/527)
+26. [第579题：Fiber 为什么是 React 性能的一个飞跃？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/528)
+27. [第580题：React Fiber 是如何实现更新过程可控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/529)
+28. [第581题：谈谈对 window.requestAnimationFrame 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/530)
+29. [第582题：浏览器和 Node 中的事件循环有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/531)
+30. [第589题：介绍一下 tree shaking 及其工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/532)
+31. [第590题：React中的路由懒加载是什么？原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/533)
+32. [第583题：bind() 连续调用多次，this的绑定值是什么呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/534)
+33. [第584题：React有哪些性能优化的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/535)
+34. [第585题：协商缓存中，有了 Last-Modified，为什么还会出现 ETag？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/536)
+35. [第586题：如何使用js计算一个html页面有多少种标签？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/537)
+36. [第587题：Promise中的值穿透是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/538)
+37. [第588题：使用Promise实现每隔1秒输出1,2,3](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/539)
+38. [第591题：一台设备的dpr，是否是可变的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/540)
+39. [第592题：说说你对以下几个页面生命周期事件的理解：DOMContentLoaded，load，beforeunload，unload](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/541)
+40. [第593题：react中懒加载的实现原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/542)
+41. [第594题：使用ts实现一个判断入参是否是数组类型的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/543)
 <!-- top600IssueList -->
 ## 官方订阅号
 
