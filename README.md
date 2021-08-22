@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第593题：react中懒加载的实现原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/542)
-2. [第592题：说说你对以下几个页面生命周期事件的理解：DOMContentLoaded，load，beforeunload，unload](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/541)
-3. [第591题：一台设备的dpr，是否是可变的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/540)
-4. [第588题：使用Promise实现每隔1秒输出1,2,3](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/539)
-5. [第587题：Promise中的值穿透是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/538)
-6. [第586题：如何使用js计算一个html页面有多少种标签？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/537)
-7. [第585题：协商缓存中，有了 Last-Modified，为什么还会出现 ETag？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/536)
-8. [第584题：React有哪些性能优化的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/535)
-9. [第583题：bind() 连续调用多次，this的绑定值是什么呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/534)
-10. [第590题：React中的路由懒加载是什么？原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/533)
+1. [第598题：null 和 undefined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/547)
+2. [第597题：数据类型检测的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/546)
+3. [第596题：Object.is() 与比较操作符 “===”、“==” 的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/545)
+4. [第595题：isNaN 和 Number.isNaN 函数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/544)
+5. [第594题：使用ts实现一个判断入参是否是数组类型的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/543)
+6. [第593题：react中懒加载的实现原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/542)
+7. [第592题：说说你对以下几个页面生命周期事件的理解：DOMContentLoaded，load，beforeunload，unload](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/541)
+8. [第591题：一台设备的dpr，是否是可变的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/540)
+9. [第588题：使用Promise实现每隔1秒输出1,2,3](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/539)
+10. [第587题：Promise中的值穿透是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/538)
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -617,6 +617,11 @@
 39. [第592题：说说你对以下几个页面生命周期事件的理解：DOMContentLoaded，load，beforeunload，unload](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/541)
 40. [第593题：react中懒加载的实现原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/542)
 41. [第594题：使用ts实现一个判断入参是否是数组类型的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/543)
+42. [第595题：isNaN 和 Number.isNaN 函数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/544)
+43. [第596题：Object.is() 与比较操作符 “===”、“==” 的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/545)
+44. [第597题：数据类型检测的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/546)
+45. [第598题：null 和 undefined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/547)
+46. [第599题：typeof NaN 的结果是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/548)
 <!-- top600IssueList -->
 ## 官方订阅号
 
