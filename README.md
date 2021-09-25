@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第622题：document.write和innerHTML有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/571) 
-2. [第621题：使用原生js给一个按钮绑定两个onclick事件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/570) 
-3. [第620题：IconFont 的原理是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/569) 
-4. [第619题：iconfont是什么？有什么优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/568) 
-5. [第618题：css sprites是什么，怎么使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/567) 
-6. [第617题：display:none与visibility:hidden 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/566) 
-7. [第616题：123['toString'].length + 123 的输出值是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/565) 
-8. [第615题：webpack treeShaking机制的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/564) 
-9. [第614题：无重复字符的最长子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/563) 
-10. [第613题：两数相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/562) 
+1. [第627题：如何检查Javascript中的内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/576) 
+2. [第626题：浏览器的同源策略是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/575) 
+3. [第625题：浏览器的垃圾回收机制有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/574) 
+4. [第624题：什么是内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/573) 
+5. [第623题：xml和json有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/572) 
+6. [第622题：document.write和innerHTML有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/571) 
+7. [第621题：使用原生js给一个按钮绑定两个onclick事件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/570) 
+8. [第620题：IconFont 的原理是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/569) 
+9. [第619题：iconfont是什么？有什么优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/568) 
+10. [第618题：css sprites是什么，怎么使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/567) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -646,6 +646,11 @@
 68. [第621题：使用原生js给一个按钮绑定两个onclick事件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/570) 
 69. [第622题：document.write和innerHTML有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/571) 
 70. [第623题：xml和json有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/572) 
+71. [第624题：什么是内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/573) 
+72. [第625题：浏览器的垃圾回收机制有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/574) 
+73. [第626题：浏览器的同源策略是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/575) 
+74. [第627题：如何检查Javascript中的内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/576) 
+75. [第628题：浏览器为什么要有跨域限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/577) 
 <!-- top600IssueList -->
 ## 官方订阅号
 
