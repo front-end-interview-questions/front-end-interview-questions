@@ -18,16 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第635题：JS中怎么阻止事件冒泡和默认事件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/584) 
-2. [第634题：什么是”事件代理“](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/583) 
-3. [第633题：谈谈你对事件冒泡和捕获的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/582) 
-4. [第632题：Cookie 的 SameSite 属性有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/581) 
-5. [第631题：cookie中的 HttpOnly 属性有什么用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/580) 
-6. [第630题：使用cookie、session维持登录状态的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/579) 
-7. [第629题：js中如何判断一个值是否是数组类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/578) 
-8. [第628题：浏览器为什么要有跨域限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/577) 
-9. [第627题：如何检查Javascript中的内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/576) 
-10. [第626题：浏览器的同源策略是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/575) 
+1. [第637题：Promise.all 和 Promise.allSettled 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/586) 
+2. [第636题：能否使用自闭合script标签引入脚本文件?
+](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/585) 
+3. [第635题：JS中怎么阻止事件冒泡和默认事件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/584) 
+4. [第634题：什么是”事件代理“](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/583) 
+5. [第633题：谈谈你对事件冒泡和捕获的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/582) 
+6. [第632题：Cookie 的 SameSite 属性有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/581) 
+7. [第631题：cookie中的 HttpOnly 属性有什么用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/580) 
+8. [第630题：使用cookie、session维持登录状态的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/579) 
+9. [第629题：js中如何判断一个值是否是数组类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/578) 
+10. [第628题：浏览器为什么要有跨域限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/577) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -658,6 +659,9 @@
 80. [第633题：谈谈你对事件冒泡和捕获的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/582) 
 81. [第634题：什么是”事件代理“](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/583) 
 82. [第635题：JS中怎么阻止事件冒泡和默认事件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/584) 
+83. [第636题：能否使用自闭合script标签引入脚本文件?
+](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/585) 
+84. [第637题：Promise.all 和 Promise.allSettled 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/586) 
 <!-- top600IssueList -->
 ## 官方订阅号
 
