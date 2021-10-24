@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第647题：说说你对git reset 和 git revert 的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/595) 
-2. [第645题：说说你对git rebase 和 git merge的理解？以及它们的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/594) 
-3. [第644题：说说你对git stash 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/593) 
-4. [第643题：说说对git pull 和 git fetch 的理解？有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/592) 
-5. [第642题：说说Git 中 HEAD、工作树和索引之间的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/591) 
-6. [第641题：说说Git常用的命令有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/590) 
-7. [第640题：说说Git中 fork, clone,branch这三个概念，有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/589) 
-8. [第639题：说说你对Git的理解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/588) 
-9. [第638题：说说你对版本管理的理解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/587) 
-10. [第637题：Promise.all 和 Promise.allSettled 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/586) 
+1. [第646题：说说 git 发生冲突的场景？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/598) 
+2. [第648题：说说你对操作系统的理解？核心概念有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/597) 
+3. [第649题：说说你对 typescript 的理解？与 javascript 的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/596) 
+4. [第647题：说说你对git reset 和 git revert 的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/595) 
+5. [第645题：说说你对git rebase 和 git merge的理解？以及它们的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/594) 
+6. [第644题：说说你对git stash 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/593) 
+7. [第643题：说说对git pull 和 git fetch 的理解？有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/592) 
+8. [第642题：说说Git 中 HEAD、工作树和索引之间的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/591) 
+9. [第641题：说说Git常用的命令有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/590) 
+10. [第640题：说说Git中 fork, clone,branch这三个概念，有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/589) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -671,6 +671,8 @@
 92. [第645题：说说你对git rebase 和 git merge的理解？以及它们的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/594) 
 93. [第647题：说说你对git reset 和 git revert 的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/595) 
 94. [第649题：说说你对 typescript 的理解？与 javascript 的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/596) 
+95. [第648题：说说你对操作系统的理解？核心概念有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/597) 
+96. [第646题：说说 git 发生冲突的场景？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/598) 
 <!-- top600IssueList -->
 ## 官方订阅号
 
