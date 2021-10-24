@@ -18,17 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第637题：Promise.all 和 Promise.allSettled 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/586) 
-2. [第636题：能否使用自闭合script标签引入脚本文件?
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/585) 
-3. [第635题：JS中怎么阻止事件冒泡和默认事件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/584) 
-4. [第634题：什么是”事件代理“](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/583) 
-5. [第633题：谈谈你对事件冒泡和捕获的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/582) 
-6. [第632题：Cookie 的 SameSite 属性有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/581) 
-7. [第631题：cookie中的 HttpOnly 属性有什么用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/580) 
-8. [第630题：使用cookie、session维持登录状态的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/579) 
-9. [第629题：js中如何判断一个值是否是数组类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/578) 
-10. [第628题：浏览器为什么要有跨域限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/577) 
+1. [第647题：说说你对git reset 和 git revert 的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/595) 
+2. [第645题：说说你对git rebase 和 git merge的理解？以及它们的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/594) 
+3. [第644题：说说你对git stash 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/593) 
+4. [第643题：说说对git pull 和 git fetch 的理解？有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/592) 
+5. [第642题：说说Git 中 HEAD、工作树和索引之间的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/591) 
+6. [第641题：说说Git常用的命令有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/590) 
+7. [第640题：说说Git中 fork, clone,branch这三个概念，有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/589) 
+8. [第639题：说说你对Git的理解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/588) 
+9. [第638题：说说你对版本管理的理解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/587) 
+10. [第637题：Promise.all 和 Promise.allSettled 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/586) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -657,11 +656,21 @@
 78. [第631题：cookie中的 HttpOnly 属性有什么用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/580) 
 79. [第632题：Cookie 的 SameSite 属性有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/581) 
 80. [第633题：谈谈你对事件冒泡和捕获的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/582) 
-81. [第634题：什么是”事件代理“](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/583) 
+81. [第634题：什么是“事件代理”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/583) 
 82. [第635题：JS中怎么阻止事件冒泡和默认事件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/584) 
 83. [第636题：能否使用自闭合script标签引入脚本文件?
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/585) 
 84. [第637题：Promise.all 和 Promise.allSettled 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/586) 
+85. [第638题：说说你对版本管理的理解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/587) 
+86. [第639题：说说你对Git的理解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/588) 
+87. [第640题：说说Git中 fork, clone,branch这三个概念，有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/589) 
+88. [第641题：说说Git常用的命令有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/590) 
+89. [第642题：说说Git 中 HEAD、工作树和索引之间的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/591) 
+90. [第643题：说说对git pull 和 git fetch 的理解？有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/592) 
+91. [第644题：说说你对git stash 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/593) 
+92. [第645题：说说你对git rebase 和 git merge的理解？以及它们的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/594) 
+93. [第647题：说说你对git reset 和 git revert 的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/595) 
+94. [第649题：说说你对 typescript 的理解？与 javascript 的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/596) 
 <!-- top600IssueList -->
 ## 官方订阅号
 
