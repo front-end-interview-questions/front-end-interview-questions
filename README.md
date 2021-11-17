@@ -18,17 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1569题：如何确定页面的可用性时间，什么是 Performance API？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/645) 
-2. [第1570题：Math.ceil 和 Math.floor 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/644) 
-3. [第1565题：如何检测浏览器所支持的最小字体大小？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/643) 
-4. [第1564题：怎么使用 setTimeout 实现 setInterval？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/642) 
-5. [第1563题：怎么使用 js 实现拖拽功能？
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/641) 
-6. [第1562题：mouseover 和 mouseenter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/640) 
-7. [第1560题：get 请求是否限制了传参长度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/639) 
-8. [第1559题：Js 动画与 CSS 动画区别及相应实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/638) 
-9. [第1558题：异步编程有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/637) 
-10. [第1556题：什么是 MVVM？比之 MVC 有什么区别？什么又是 MVP ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/636) 
+1. [第1568题：手写一个 jsonp](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/651) 
+2. [第1573题：如何查找一篇英文文章中出现频率最高的单词？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/650) 
+3. [第1572题：js 中的倒计时，怎么实现纠正偏差？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/649) 
+4. [第1571题：如果一个列表有 100000 个数据，这个该怎么进行展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/648) 
+5. [第1561题：get 和 post 请求在缓存方面有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/647) 
+6. [第1566题：封装一个 javascript 的类型判断函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/646) 
+7. [第1569题：如何确定页面的可用性时间，什么是 Performance API？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/645) 
+8. [第1570题：Math.ceil 和 Math.floor 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/644) 
+9. [第1565题：如何检测浏览器所支持的最小字体大小？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/643) 
+10. [第1564题：怎么使用 setTimeout 实现 setInterval？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/642) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
