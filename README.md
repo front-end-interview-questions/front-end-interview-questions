@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1538题：['10', '10', '10', '10', '10'].map(parseInt)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/617) 
-2. [第1537题：使用 useState （const [test, setTest] = useState([])）是，为什么连续调用 setTest({...test, newValue}) 会出现值的丢失？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/616) 
-3. [第666题：JavaScript中的错误有哪几种类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/615) 
-4. [第665题：说说对 TypeScript 中命名空间与模块的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/614) 
-5. [第664题：说说对受控组件和非受控组件的理解，以及应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/613) 
-6. [第663题：说说React render方法的原理？在什么时候会被触发？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/612) 
-7. [第662题：说说React Router有几种模式，以及实现原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/611) 
-8. [第661题：说说你对React Router的理解？常用的Router组件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/610) 
-9. [第660题：你在React项目中是如何使用Redux的? 项目结构是如何划分的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/609) 
-10. [第659题：说说对Redux中间件的理解？常用的中间件有哪些？实现原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/608) 
+1. [第1540题：如何将 unknown 类型指定为一个更具体的类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/619) 
+2. [第1539题：ts中any和unknown有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/618) 
+3. [第1538题：['10', '10', '10', '10', '10'].map(parseInt)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/617) 
+4. [第1537题：使用 useState （const [test, setTest] = useState([])）是，为什么连续调用 setTest({...test, newValue}) 会出现值的丢失？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/616) 
+5. [第666题：JavaScript中的错误有哪几种类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/615) 
+6. [第665题：说说对 TypeScript 中命名空间与模块的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/614) 
+7. [第664题：说说对受控组件和非受控组件的理解，以及应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/613) 
+8. [第663题：说说React render方法的原理？在什么时候会被触发？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/612) 
+9. [第662题：说说React Router有几种模式，以及实现原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/611) 
+10. [第661题：说说你对React Router的理解？常用的Router组件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/610) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
