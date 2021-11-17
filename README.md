@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第666题：JavaScript中的错误有哪几种类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/615) 
-2. [第665题：说说对 TypeScript 中命名空间与模块的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/614) 
-3. [第664题：说说对受控组件和非受控组件的理解，以及应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/613) 
-4. [第663题：说说React render方法的原理？在什么时候会被触发？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/612) 
-5. [第662题：说说React Router有几种模式，以及实现原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/611) 
-6. [第661题：说说你对React Router的理解？常用的Router组件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/610) 
-7. [第660题：你在React项目中是如何使用Redux的? 项目结构是如何划分的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/609) 
-8. [第659题：说说对Redux中间件的理解？常用的中间件有哪些？实现原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/608) 
-9. [第658题：说说你对Redux的理解？其工作原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/607) 
-10. [第657题：在react中怎么实现组件间的过渡动画？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/606) 
+1. [第1537题：使用 useState （const [test, setTest] = useState([])）是，为什么连续调用 setTest({...test, newValue}) 会出现值的丢失？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/616) 
+2. [第666题：JavaScript中的错误有哪几种类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/615) 
+3. [第665题：说说对 TypeScript 中命名空间与模块的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/614) 
+4. [第664题：说说对受控组件和非受控组件的理解，以及应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/613) 
+5. [第663题：说说React render方法的原理？在什么时候会被触发？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/612) 
+6. [第662题：说说React Router有几种模式，以及实现原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/611) 
+7. [第661题：说说你对React Router的理解？常用的Router组件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/610) 
+8. [第660题：你在React项目中是如何使用Redux的? 项目结构是如何划分的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/609) 
+9. [第659题：说说对Redux中间件的理解？常用的中间件有哪些？实现原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/608) 
+10. [第658题：说说你对Redux的理解？其工作原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/607) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
