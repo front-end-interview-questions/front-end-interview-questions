@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1542题：setTimeout 为什么不能保证能够及时执行？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/622) 
-2. [第1541题：介绍些 setTimeout 的运行机制](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/621) 
-3. [第1543题：实现一个对象的 flatten 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/620) 
-4. [第1540题：如何将 unknown 类型指定为一个更具体的类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/619) 
-5. [第1539题：ts中any和unknown有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/618) 
-6. [第1538题：['10', '10', '10', '10', '10'].map(parseInt)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/617) 
-7. [第1537题：使用 useState （const [test, setTest] = useState([])）是，为什么连续调用 setTest({...test, newValue}) 会出现值的丢失？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/616) 
-8. [第666题：JavaScript中的错误有哪几种类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/615) 
-9. [第665题：说说对 TypeScript 中命名空间与模块的理解？区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/614) 
-10. [第664题：说说对受控组件和非受控组件的理解，以及应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/613) 
+1. [第1550题：什么是 Polyfill ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/628) 
+2. [第1549题：怎么检测浏览器版本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/627) 
+3. [第1548题：什么是“前端路由”？什么时候适合使用“前端路由”？“前端路由”有哪些优点和缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/626) 
+4. [第1547题：什么是点击穿透，怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/625) 
+5. [第1546题：移动端的点击事件的有延迟，时间是多久，为什么会有？ 怎么解决这个延时？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/624) 
+6. [第1545题：如何判断当前脚本运行在浏览器还是 node 环境中？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/623) 
+7. [第1542题：setTimeout 为什么不能保证能够及时执行？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/622) 
+8. [第1541题：介绍些 setTimeout 的运行机制](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/621) 
+9. [第1543题：实现一个对象的 flatten 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/620) 
+10. [第1540题：如何将 unknown 类型指定为一个更具体的类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/619) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
