@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1586题：使用js生成1-10000的数组。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/665) 
-2. [第1585题：解释下如下代码的意图：Array.prototype.slice.apply(arguments)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/664) 
-3. [第1584题：js中数组是如何在内存中存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/663) 
-4. [第1583题：input上传文件可以同时选择多张吗？怎么设置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/662) 
-5. [第1582题：直接在script标签中写 export 为什么会报错？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/661) 
-6. [第1581题：为什么说HTTP是无状态的协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/660) 
-7. [第1580题：如何禁止input展示输入的历史记录？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/659) 
-8. [第1579题：如何从html元素继承box-sizing？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/658) 
-9. [第1578题：如何使用css来实现禁止移动端页面的左右划动手势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/657) 
-10. [第1578题：如何使用css来实现禁止移动端页面的左右划动手势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/656) 
+1. [第1591题：怎么实现一个扫描二维码登录PC网站的需求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/671) 
+2. [第1590题：a == 1 && a == 2 && a == 3 可能为 true 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/670) 
+3. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/669) 
+4. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/668) 
+5. [第1588题：Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/667) 
+6. [第1587题：使用input标签上传图片时，怎样触发默认拍照功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/666) 
+7. [第1586题：使用js生成1-10000的数组。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/665) 
+8. [第1585题：解释下如下代码的意图：Array.prototype.slice.apply(arguments)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/664) 
+9. [第1584题：js中数组是如何在内存中存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/663) 
+10. [第1583题：input上传文件可以同时选择多张吗？怎么设置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/662) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
