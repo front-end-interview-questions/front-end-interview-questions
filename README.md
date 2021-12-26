@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1574题：app中常提到的webview是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/654) 
-2. [第1536题：最长回文子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/653) 
-3. [第1535题：寻找两个正序数组的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/652) 
-4. [第1568题：手写一个 jsonp](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/651) 
-5. [第1573题：如何查找一篇英文文章中出现频率最高的单词？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/650) 
-6. [第1572题：js 中的倒计时，怎么实现纠正偏差？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/649) 
-7. [第1571题：如果一个列表有 100000 个数据，这个该怎么进行展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/648) 
-8. [第1561题：get 和 post 请求在缓存方面有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/647) 
-9. [第1566题：封装一个 javascript 的类型判断函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/646) 
-10. [第1569题：如何确定页面的可用性时间，什么是 Performance API？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/645) 
+1. [第1580题：如何禁止input展示输入的历史记录？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/659) 
+2. [第1579题：如何从html元素继承box-sizing？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/658) 
+3. [第1578题：如何使用css来实现禁止移动端页面的左右划动手势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/657) 
+4. [第1578题：如何使用css来实现禁止移动端页面的左右划动手势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/656) 
+5. [第1577题：如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/655) 
+6. [第1574题：app中常提到的webview是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/654) 
+7. [第1536题：最长回文子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/653) 
+8. [第1535题：寻找两个正序数组的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/652) 
+9. [第1568题：手写一个 jsonp](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/651) 
+10. [第1573题：如何查找一篇英文文章中出现频率最高的单词？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/650) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
