@@ -18,17 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1600题：【Promise第八题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/683) 
-2. [第1599题：【Promise第七题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/682) 
-3. [第1598题：【Promise第六题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/681) 
-4. [第1575题：【Promise第五题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/680) 
-5. [第1597题：【Promise第四题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/679) 
-6. [第1576题：【Promise第三题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/678) 
-7. [第1576题：【Promise第三题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/677) 
-8. [第1596题：【Promise第二题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/676) 
-9. [第1595题：【Promise第一题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/675) 
-10. [第1594题：在点击p标签时，会输出什么？
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/674) 
+1. [第1608题：【Promise第16题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/691) 
+2. [第1607题：【Promise第15题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/690) 
+3. [第1606题：【Promise第14题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/689) 
+4. [第1605题：【Promise第13题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/688) 
+5. [第1604题：【Promise第12题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/687) 
+6. [第1603题：【Promise第11题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/686) 
+7. [第1602题：【Promise第10题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/685) 
+8. [第1601题：【Promise第九题】下面两段代码分别输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/684) 
+9. [第1600题：【Promise第八题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/683) 
+10. [第1599题：【Promise第七题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/682) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
