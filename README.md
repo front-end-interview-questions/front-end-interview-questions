@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1594题：在点击p标签时，会输出什么？
+1. [第1596题：【Promise第二题】下面代码的输出是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/676) 
+2. [第1595题：【Promise第一题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/675) 
+3. [第1594题：在点击p标签时，会输出什么？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/674) 
-2. [第1593题：在点击 button 时，触发的 event.target 是哪个？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/673) 
-3. [第1592题：Z 字形变换](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/672) 
-4. [第1591题：怎么实现一个扫描二维码登录PC网站的需求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/671) 
-5. [第1590题：a == 1 && a == 2 && a == 3 可能为 true 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/670) 
-6. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/669) 
-7. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/668) 
-8. [第1588题：Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/667) 
-9. [第1587题：使用input标签上传图片时，怎样触发默认拍照功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/666) 
-10. [第1586题：使用js生成1-10000的数组](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/665) 
+4. [第1593题：在点击 button 时，触发的 event.target 是哪个？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/673) 
+5. [第1592题：Z 字形变换](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/672) 
+6. [第1591题：怎么实现一个扫描二维码登录PC网站的需求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/671) 
+7. [第1590题：a == 1 && a == 2 && a == 3 可能为 true 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/670) 
+8. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/669) 
+9. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/668) 
+10. [第1588题：Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/667) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -55,12 +55,12 @@
 16. [第27题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/18) 
 17. [第28题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/19) 
 18. [第29题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/20) 
-19. [第30题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/21) 
+19. [第30题：下面代码中，sum 的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/21) 
 20. [第31题：cool_secret 可访问多长时间？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/22) 
 21. [第32题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/23) 
 22. [第33题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/24) 
 23. [第34题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/25) 
-24. [第35题：JavaScript 全局执行上下文为你做了两件事：全局对象和 this 关键字。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/26) 
+24. [第35题：下面的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/26) 
 25. [第36题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/27) 
 26. [第37题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/28) 
 27. [第38题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/29) 
@@ -70,7 +70,7 @@
 31. [第42题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/33) 
 32. [第43题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/34) 
 33. [第44题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/35) 
-34. [第45题：JavaScript 中的一切都是？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/36) 
+34. [第45题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/36) 
 35. [第46题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/37) 
 36. [第47题：setInterval 方法的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/38) 
 37. [第48题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/39) 
