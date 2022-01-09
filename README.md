@@ -18,16 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1593题：在点击 button 时，触发的 event.target 是哪个？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/673) 
-2. [第1592题：Z 字形变换](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/672) 
-3. [第1591题：怎么实现一个扫描二维码登录PC网站的需求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/671) 
-4. [第1590题：a == 1 && a == 2 && a == 3 可能为 true 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/670) 
-5. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/669) 
-6. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/668) 
-7. [第1588题：Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/667) 
-8. [第1587题：使用input标签上传图片时，怎样触发默认拍照功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/666) 
-9. [第1586题：使用js生成1-10000的数组](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/665) 
-10. [第1585题：解释下如下代码的意图：Array.prototype.slice.apply(arguments)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/664) 
+1. [第1594题：在点击p标签时，会输出什么？
+](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/674) 
+2. [第1593题：在点击 button 时，触发的 event.target 是哪个？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/673) 
+3. [第1592题：Z 字形变换](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/672) 
+4. [第1591题：怎么实现一个扫描二维码登录PC网站的需求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/671) 
+5. [第1590题：a == 1 && a == 2 && a == 3 可能为 true 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/670) 
+6. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/669) 
+7. [第1589题：js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/668) 
+8. [第1588题：Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/667) 
+9. [第1587题：使用input标签上传图片时，怎样触发默认拍照功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/666) 
+10. [第1586题：使用js生成1-10000的数组](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/665) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
