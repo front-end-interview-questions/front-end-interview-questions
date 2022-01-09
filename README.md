@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1597题：【Promise第四题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/679) 
-2. [第1576题：【Promise第三题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/678) 
-3. [第1576题：【Promise第三题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/677) 
-4. [第1596题：【Promise第二题】下面代码的输出是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/676) 
-5. [第1595题：【Promise第一题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/675) 
-6. [第1594题：在点击p标签时，会输出什么？
+1. [第1575题：【Promise第五题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/680) 
+2. [第1597题：【Promise第四题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/679) 
+3. [第1576题：【Promise第三题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/678) 
+4. [第1576题：【Promise第三题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/677) 
+5. [第1596题：【Promise第二题】下面代码的输出是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/676) 
+6. [第1595题：【Promise第一题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/675) 
+7. [第1594题：在点击p标签时，会输出什么？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/674) 
-7. [第1593题：在点击 button 时，触发的 event.target 是哪个？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/673) 
-8. [第1592题：Z 字形变换](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/672) 
-9. [第1591题：怎么实现一个扫描二维码登录PC网站的需求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/671) 
-10. [第1590题：a == 1 && a == 2 && a == 3 可能为 true 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/670) 
+8. [第1593题：在点击 button 时，触发的 event.target 是哪个？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/673) 
+9. [第1592题：Z 字形变换](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/672) 
+10. [第1591题：怎么实现一个扫描二维码登录PC网站的需求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/671) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
