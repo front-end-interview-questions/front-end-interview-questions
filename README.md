@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1626题：【Promise第34题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/709) 
-2. [第1625题：【Promise第33题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/708) 
-3. [第1624题：【Promise第32题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/707) 
-4. [第1623题：【Promise第31题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/706) 
-5. [第1622题：【Promise第30题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/705) 
-6. [第1621题：【Promise第29题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/704) 
-7. [第1620题：【Promise第28题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/703) 
-8. [第1619题：【Promise第27题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/702) 
-9. [第1618题：【Promise第26题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/701) 
-10. [第1617题：【Promise第25题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/700) 
+1. [第1632题：【Promise第40题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/715) 
+2. [第1631题：【Promise第39题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/714) 
+3. [第1630题：【Promise第38题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/713) 
+4. [第1629题：【Promise第37题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/712) 
+5. [第1628题：【Promise第36题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/711) 
+6. [第1627题：【Promise第35题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/710) 
+7. [第1626题：【Promise第34题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/709) 
+8. [第1625题：【Promise第33题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/708) 
+9. [第1624题：【Promise第32题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/707) 
+10. [第1623题：【Promise第31题】下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/706) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
