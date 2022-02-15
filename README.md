@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1671题：display 有哪些取值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/755) 
-2. [第1670题：TLS 1.3 做了哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/754) 
-3. [第1668题：如何理解 HTTP 代理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/753) 
-4. [第1667题：说说你对cookie的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/752) 
-5. [第1666题：HTTP1.1 中如何解决 HTTP 的队头阻塞问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/751) 
-6. [第1665题：HTTP 中如何处理表单数据的提交？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/750) 
-7. [第1664题：对于定长和不定长的数据，HTTP 是怎么传输的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/749) 
-8. [第1663题：HTTP 报文结构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/748) 
-9. [第1669题：TLS1.2 握手的过程是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/747) 
-10. [第1662题：过桥问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/746) 
+1. [第1672题：相邻的两个inline-block节点为什么会出现间隔，该如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/756) 
+2. [第1671题：display 有哪些取值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/755) 
+3. [第1670题：TLS 1.3 做了哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/754) 
+4. [第1668题：如何理解 HTTP 代理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/753) 
+5. [第1667题：说说你对cookie的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/752) 
+6. [第1666题：HTTP1.1 中如何解决 HTTP 的队头阻塞问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/751) 
+7. [第1665题：HTTP 中如何处理表单数据的提交？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/750) 
+8. [第1664题：对于定长和不定长的数据，HTTP 是怎么传输的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/749) 
+9. [第1663题：HTTP 报文结构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/748) 
+10. [第1669题：TLS1.2 握手的过程是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/747) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
