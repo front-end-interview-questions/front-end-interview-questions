@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1679题：vuex中的辅助函数怎么使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/763) 
-2. [第1678题：Vuex有几种属性，它们存在的意义分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/762) 
-3. [第1677题：Vuex 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/761) 
-4. [第1676题：写一个 repeat 方法，实现字符串的复制拼接](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/760) 
-5. [第1675题：怎么让CSS flex布局最后一行列表左对齐？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/759) 
-6. [第1674题：npm 和 yarn有哪些不一样的地方？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/758) 
-7. [第1673题：下面函数组件的输出分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/757) 
-8. [第1672题：相邻的两个inline-block节点为什么会出现间隔，该如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/756) 
-9. [第1671题：display 有哪些取值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/755) 
-10. [第1670题：TLS 1.3 做了哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/754) 
+1. [第1680题：Vue 中，假设 data 中有一个数组对象，修改数组元素时，是否会触发视图更新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/764) 
+2. [第1679题：vuex中的辅助函数怎么使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/763) 
+3. [第1678题：Vuex有几种属性，它们存在的意义分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/762) 
+4. [第1677题：Vuex 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/761) 
+5. [第1676题：写一个 repeat 方法，实现字符串的复制拼接](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/760) 
+6. [第1675题：怎么让CSS flex布局最后一行列表左对齐？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/759) 
+7. [第1674题：npm 和 yarn有哪些不一样的地方？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/758) 
+8. [第1673题：下面函数组件的输出分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/757) 
+9. [第1672题：相邻的两个inline-block节点为什么会出现间隔，该如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/756) 
+10. [第1671题：display 有哪些取值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/755) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
