@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1681题：CSS 垂直居中有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/766) 
-2. [第1544题：根据运算优先级添加括号](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/765) 
-3. [第1680题：Vue 中，假设 data 中有一个数组对象，修改数组元素时，是否会触发视图更新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/764) 
-4. [第1679题：vuex中的辅助函数怎么使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/763) 
-5. [第1678题：Vuex有几种属性，它们存在的意义分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/762) 
-6. [第1677题：Vuex 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/761) 
-7. [第1676题：写一个 repeat 方法，实现字符串的复制拼接](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/760) 
-8. [第1675题：怎么让CSS flex布局最后一行列表左对齐？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/759) 
-9. [第1674题：npm 和 yarn有哪些不一样的地方？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/758) 
-10. [第1673题：下面函数组件的输出分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/757) 
+1. [第1685题：全排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/767) 
+2. [第1681题：CSS 垂直居中有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/766) 
+3. [第1544题：根据运算优先级添加括号](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/765) 
+4. [第1680题：Vue 中，假设 data 中有一个数组对象，修改数组元素时，是否会触发视图更新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/764) 
+5. [第1679题：vuex中的辅助函数怎么使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/763) 
+6. [第1678题：Vuex有几种属性，它们存在的意义分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/762) 
+7. [第1677题：Vuex 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/761) 
+8. [第1676题：写一个 repeat 方法，实现字符串的复制拼接](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/760) 
+9. [第1675题：怎么让CSS flex布局最后一行列表左对齐？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/759) 
+10. [第1674题：npm 和 yarn有哪些不一样的地方？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/758) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
