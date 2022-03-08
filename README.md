@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1688题：怎么解决canvas中获取跨域图片数据的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/770) 
-2. [第1687题：es5 中的类和es6中的class有什么区别？
+1. [第1689题：我现在有一个canvas，上面随机布着一些黑块，请实现方法，计算canvas上有多少个黑块。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/771) 
+2. [第1688题：怎么解决canvas中获取跨域图片数据的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/770) 
+3. [第1687题：es5 中的类和es6中的class有什么区别？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/769) 
-3. [第1686题：背包问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/768) 
-4. [第1685题：全排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/767) 
-5. [第1681题：CSS 垂直居中有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/766) 
-6. [第1544题：根据运算优先级添加括号](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/765) 
-7. [第1680题：Vue 中，假设 data 中有一个数组对象，修改数组元素时，是否会触发视图更新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/764) 
-8. [第1679题：vuex中的辅助函数怎么使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/763) 
-9. [第1678题：Vuex有几种属性，它们存在的意义分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/762) 
-10. [第1677题：Vuex 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/761) 
+4. [第1686题：背包问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/768) 
+5. [第1685题：全排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/767) 
+6. [第1681题：CSS 垂直居中有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/766) 
+7. [第1544题：根据运算优先级添加括号](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/765) 
+8. [第1680题：Vue 中，假设 data 中有一个数组对象，修改数组元素时，是否会触发视图更新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/764) 
+9. [第1679题：vuex中的辅助函数怎么使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/763) 
+10. [第1678题：Vuex有几种属性，它们存在的意义分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/762) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
