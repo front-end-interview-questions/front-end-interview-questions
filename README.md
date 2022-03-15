@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1693题：行内元素和块级元素有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/776) 
-2. [第1692题：两个 Node.js 进程如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/775) 
-3. [第1691题：怎么实现图片懒加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/774) 
-4. [第1691题：怎么实现图片懒加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/773) 
-5. [第1690题：浏览器为什么要请求并发数限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/772) 
-6. [第1689题：我现在有一个canvas，上面随机布着一些黑块，请实现方法，计算canvas上有多少个黑块。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/771) 
-7. [第1688题：怎么解决canvas中获取跨域图片数据的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/770) 
-8. [第1687题：es5 中的类和es6中的class有什么区别？
+1. [第1694题：301、302、303、307、308 这些状态码有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/777) 
+2. [第1693题：行内元素和块级元素有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/776) 
+3. [第1692题：两个 Node.js 进程如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/775) 
+4. [第1691题：怎么实现图片懒加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/774) 
+5. [第1691题：怎么实现图片懒加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/773) 
+6. [第1690题：浏览器为什么要请求并发数限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/772) 
+7. [第1689题：我现在有一个canvas，上面随机布着一些黑块，请实现方法，计算canvas上有多少个黑块。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/771) 
+8. [第1688题：怎么解决canvas中获取跨域图片数据的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/770) 
+9. [第1687题：es5 中的类和es6中的class有什么区别？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/769) 
-9. [第1686题：背包问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/768) 
-10. [第1685题：全排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/767) 
+10. [第1686题：背包问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/768) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
