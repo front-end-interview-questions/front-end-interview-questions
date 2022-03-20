@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1700题：回文子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/784) 
-2. [第1699题：爱吃香蕉的珂珂](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/783) 
-3. [第1698题：爬楼梯](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/782) 
-4. [第1684题：ES6有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/781) 
-5. [第1683题：jquery的链式调用是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/780) 
-6. [第1697题：cookie、localStorage和sessionStorage 三者之间有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/779) 
-7. [第1695题：前端怎么实现跨域请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/778) 
-8. [第1694题：301、302、303、307、308 这些状态码有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/777) 
-9. [第1693题：行内元素和块级元素有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/776) 
-10. [第1692题：两个 Node.js 进程如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/775) 
+1. [第1701题：JavaScript中的 sort 方法是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/785) 
+2. [第1700题：回文子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/784) 
+3. [第1699题：爱吃香蕉的珂珂](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/783) 
+4. [第1698题：爬楼梯](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/782) 
+5. [第1684题：ES6有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/781) 
+6. [第1683题：jquery的链式调用是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/780) 
+7. [第1697题：cookie、localStorage和sessionStorage 三者之间有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/779) 
+8. [第1695题：前端怎么实现跨域请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/778) 
+9. [第1694题：301、302、303、307、308 这些状态码有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/777) 
+10. [第1693题：行内元素和块级元素有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/776) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
