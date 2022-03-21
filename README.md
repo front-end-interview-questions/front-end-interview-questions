@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1704题：AST语法树是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/790) 
-2. [第1705题：vue-loader做了哪些事情？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/789) 
-3. [第1709题：时钟指针的夹角](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/788) 
-4. [第1703题：什么是DNS劫持？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/787) 
-5. [第1702题：flexible.js实现移动端适配的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/786) 
-6. [第1701题：JavaScript中的 sort 方法是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/785) 
-7. [第1700题：回文子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/784) 
-8. [第1699题：爱吃香蕉的珂珂](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/783) 
-9. [第1698题：爬楼梯](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/782) 
-10. [第1684题：ES6有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/781) 
+1. [第1706题：​vue中computed和watch区别 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/791) 
+2. [第1704题：AST语法树是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/790) 
+3. [第1705题：vue-loader做了哪些事情？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/789) 
+4. [第1709题：时钟指针的夹角](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/788) 
+5. [第1703题：什么是DNS劫持？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/787) 
+6. [第1702题：flexible.js实现移动端适配的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/786) 
+7. [第1701题：JavaScript中的 sort 方法是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/785) 
+8. [第1700题：回文子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/784) 
+9. [第1699题：爱吃香蕉的珂珂](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/783) 
+10. [第1698题：爬楼梯](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/782) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
