@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1738题：如何获取到一个实例对象的原型对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/812) 
-2. [第1737题：下面代码会输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/811) 
-3. [第1736题：react中，父子组件的生命周期执行顺序是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/810) 
-4. [第1735题：为什么推荐将静态资源放到cdn上？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/809) 
-5. [第1734题：position：absolute绝对定位，是相对于谁的定位？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/808) 
-6. [第1716题：restful 接口规范是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/807) 
-7. [第1715题：ES5怎么实现继承](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/806) 
-8. [第1733题：说说React事件和原生事件的执行顺序](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/805) 
-9. [第1732题：VNode 有哪些属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/804) 
-10. [第1731题：Vue2.0为什么不能检查数组的变化，该怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/803) 
+1. [第1739题：如何确保你的构造函数只能被new调用，而不能被普通调用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/813) 
+2. [第1738题：如何获取到一个实例对象的原型对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/812) 
+3. [第1737题：下面代码会输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/811) 
+4. [第1736题：react中，父子组件的生命周期执行顺序是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/810) 
+5. [第1735题：为什么推荐将静态资源放到cdn上？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/809) 
+6. [第1734题：position：absolute绝对定位，是相对于谁的定位？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/808) 
+7. [第1716题：restful 接口规范是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/807) 
+8. [第1715题：ES5怎么实现继承](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/806) 
+9. [第1733题：说说React事件和原生事件的执行顺序](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/805) 
+10. [第1732题：VNode 有哪些属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/804) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
