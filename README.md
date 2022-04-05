@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1741题：前端性能优化指标有哪些？怎么进行性能检测？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/815) 
-2. [第1740题：请按以下要求实现 compose 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/814) 
-3. [第1739题：如何确保你的构造函数只能被new调用，而不能被普通调用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/813) 
-4. [第1738题：如何获取到一个实例对象的原型对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/812) 
-5. [第1737题：下面代码会输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/811) 
-6. [第1736题：react中，父子组件的生命周期执行顺序是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/810) 
-7. [第1735题：为什么推荐将静态资源放到cdn上？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/809) 
-8. [第1734题：position：absolute绝对定位，是相对于谁的定位？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/808) 
-9. [第1716题：restful 接口规范是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/807) 
-10. [第1715题：ES5怎么实现继承](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/806) 
+1. [第1742题：怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/816) 
+2. [第1741题：前端性能优化指标有哪些？怎么进行性能检测？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/815) 
+3. [第1740题：请按以下要求实现 compose 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/814) 
+4. [第1739题：如何确保你的构造函数只能被new调用，而不能被普通调用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/813) 
+5. [第1738题：如何获取到一个实例对象的原型对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/812) 
+6. [第1737题：下面代码会输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/811) 
+7. [第1736题：react中，父子组件的生命周期执行顺序是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/810) 
+8. [第1735题：为什么推荐将静态资源放到cdn上？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/809) 
+9. [第1734题：position：absolute绝对定位，是相对于谁的定位？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/808) 
+10. [第1716题：restful 接口规范是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/807) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
