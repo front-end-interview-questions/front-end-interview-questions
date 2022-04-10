@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1760题：CSSOM树和DOM树是同时解析的吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/827) 
-2. [第1759题：从存储位置看，浏览器缓存分为哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/826) 
-3. [第1758题：Cache-Control 有哪些常见配置值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/825) 
-4. [第1744题：说说你对“三次握手”、“四次挥手”的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/824) 
-5. [第1757题：说说对TCP/IP协议的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/823) 
-6. [第1745题：给一个dom同时绑定两个点击事件，一个用捕获，一个用冒泡，说下会执行几次事件，然后会先执行冒泡还是捕获？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/822) 
-7. [第1756题：翻转二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/821) 
-8. [第1755题：说说 vue3 中的响应式设计原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/820) 
-9. [第1746题：vue路由中，history和hash两种模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/819) 
-10. [第1754题：实现斐波那契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/818) 
+1. [第1761题：js和css是如何影响DOM树构建的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/828) 
+2. [第1760题：CSSOM树和DOM树是同时解析的吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/827) 
+3. [第1759题：从存储位置看，浏览器缓存分为哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/826) 
+4. [第1758题：Cache-Control 有哪些常见配置值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/825) 
+5. [第1744题：说说你对“三次握手”、“四次挥手”的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/824) 
+6. [第1757题：说说对TCP/IP协议的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/823) 
+7. [第1745题：给一个dom同时绑定两个点击事件，一个用捕获，一个用冒泡，说下会执行几次事件，然后会先执行冒泡还是捕获？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/822) 
+8. [第1756题：翻转二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/821) 
+9. [第1755题：说说 vue3 中的响应式设计原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/820) 
+10. [第1746题：vue路由中，history和hash两种模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/819) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
