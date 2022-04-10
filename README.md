@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1767题：第二个子元素的高度是多少](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/834) 
-2. [第1766题：最大子序和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/833) 
-3. [第1765题：说说 https 的握手过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/832) 
-4. [第1764题：HTTP2中，多路复用的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/831) 
-5. [第1763题：岛屿数量](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/830) 
-6. [第1762题：以下代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/829) 
-7. [第1761题：js和css是如何影响DOM树构建的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/828) 
-8. [第1760题：CSSOM树和DOM树是同时解析的吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/827) 
-9. [第1759题：从存储位置看，浏览器缓存分为哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/826) 
-10. [第1758题：Cache-Control 有哪些常见配置值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/825) 
+1. [第1768题：实现lodash中的get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/835) 
+2. [第1767题：第二个子元素的高度是多少](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/834) 
+3. [第1766题：最大子序和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/833) 
+4. [第1765题：说说 https 的握手过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/832) 
+5. [第1764题：HTTP2中，多路复用的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/831) 
+6. [第1763题：岛屿数量](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/830) 
+7. [第1762题：以下代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/829) 
+8. [第1761题：js和css是如何影响DOM树构建的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/828) 
+9. [第1760题：CSSOM树和DOM树是同时解析的吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/827) 
+10. [第1759题：从存储位置看，浏览器缓存分为哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/826) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
