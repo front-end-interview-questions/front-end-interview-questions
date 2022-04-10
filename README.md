@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1755题：说说 vue3 中的响应式设计原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/820) 
-2. [第1746题：vue路由中，history和hash两种模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/819) 
-3. [第1754题：实现斐波那契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/818) 
-4. [第1743题：promise.catch后面的.then还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/817) 
-5. [第1742题：怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/816) 
-6. [第1741题：前端性能优化指标有哪些？怎么进行性能检测？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/815) 
-7. [第1740题：请按以下要求实现 compose 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/814) 
-8. [第1739题：如何确保你的构造函数只能被new调用，而不能被普通调用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/813) 
-9. [第1738题：如何获取到一个实例对象的原型对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/812) 
-10. [第1737题：下面代码会输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/811) 
+1. [第1756题：翻转二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/821) 
+2. [第1755题：说说 vue3 中的响应式设计原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/820) 
+3. [第1746题：vue路由中，history和hash两种模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/819) 
+4. [第1754题：实现斐波那契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/818) 
+5. [第1743题：promise.catch后面的.then还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/817) 
+6. [第1742题：怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/816) 
+7. [第1741题：前端性能优化指标有哪些？怎么进行性能检测？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/815) 
+8. [第1740题：请按以下要求实现 compose 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/814) 
+9. [第1739题：如何确保你的构造函数只能被new调用，而不能被普通调用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/813) 
+10. [第1738题：如何获取到一个实例对象的原型对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/812) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
