@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1744题：说说你对“三次握手”、“四次挥手”的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/824) 
-2. [第1757题：说说对TCP/IP协议的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/823) 
-3. [第1745题：给一个dom同时绑定两个点击事件，一个用捕获，一个用冒泡，说下会执行几次事件，然后会先执行冒泡还是捕获？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/822) 
-4. [第1756题：翻转二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/821) 
-5. [第1755题：说说 vue3 中的响应式设计原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/820) 
-6. [第1746题：vue路由中，history和hash两种模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/819) 
-7. [第1754题：实现斐波那契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/818) 
-8. [第1743题：promise.catch后面的.then还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/817) 
-9. [第1742题：怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/816) 
-10. [第1741题：前端性能优化指标有哪些？怎么进行性能检测？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/815) 
+1. [第1758题：Cache-Control 有哪些常见配置值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/825) 
+2. [第1744题：说说你对“三次握手”、“四次挥手”的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/824) 
+3. [第1757题：说说对TCP/IP协议的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/823) 
+4. [第1745题：给一个dom同时绑定两个点击事件，一个用捕获，一个用冒泡，说下会执行几次事件，然后会先执行冒泡还是捕获？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/822) 
+5. [第1756题：翻转二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/821) 
+6. [第1755题：说说 vue3 中的响应式设计原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/820) 
+7. [第1746题：vue路由中，history和hash两种模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/819) 
+8. [第1754题：实现斐波那契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/818) 
+9. [第1743题：promise.catch后面的.then还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/817) 
+10. [第1742题：怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/816) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
