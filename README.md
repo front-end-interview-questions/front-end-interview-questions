@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1773题：vue 中 $route 和 $router 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/840) 
-2. [第1772题：async、await 实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/839) 
-3. [第1771题：说说DOS及DDOS的原理及防御方式](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/838) 
-4. [第1770题：TCP和HTTP请求之间有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/837) 
-5. [第1769题：说说对 ES6 中rest参数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/836) 
-6. [第1768题：实现lodash中的get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/835) 
-7. [第1767题：第二个子元素的高度是多少](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/834) 
-8. [第1766题：最大子序和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/833) 
-9. [第1765题：说说 https 的握手过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/832) 
-10. [第1764题：HTTP2中，多路复用的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/831) 
+1. [第1774题：删除排序链表中的重复元素](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/842) 
+2. [第1775题：如何区分数组和对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/841) 
+3. [第1773题：vue 中 $route 和 $router 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/840) 
+4. [第1772题：async、await 实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/839) 
+5. [第1771题：说说DOS及DDOS的原理及防御方式](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/838) 
+6. [第1770题：TCP和HTTP请求之间有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/837) 
+7. [第1769题：说说对 ES6 中rest参数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/836) 
+8. [第1768题：实现lodash中的get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/835) 
+9. [第1767题：第二个子元素的高度是多少](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/834) 
+10. [第1766题：最大子序和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/833) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
