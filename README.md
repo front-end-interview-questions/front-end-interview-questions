@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1776题：​const声明了数组，还能push元素吗，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/843) 
-2. [第1774题：删除排序链表中的重复元素](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/842) 
-3. [第1775题：如何区分数组和对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/841) 
-4. [第1773题：vue 中 $route 和 $router 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/840) 
-5. [第1772题：async、await 实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/839) 
-6. [第1771题：说说DOS及DDOS的原理及防御方式](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/838) 
-7. [第1770题：TCP和HTTP请求之间有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/837) 
-8. [第1769题：说说对 ES6 中rest参数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/836) 
-9. [第1768题：实现lodash中的get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/835) 
-10. [第1767题：第二个子元素的高度是多少](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/834) 
+1. [第1777题：Map 和 Set 的用法以及区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/844) 
+2. [第1776题：​const声明了数组，还能push元素吗，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/843) 
+3. [第1774题：删除排序链表中的重复元素](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/842) 
+4. [第1775题：如何区分数组和对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/841) 
+5. [第1773题：vue 中 $route 和 $router 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/840) 
+6. [第1772题：async、await 实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/839) 
+7. [第1771题：说说DOS及DDOS的原理及防御方式](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/838) 
+8. [第1770题：TCP和HTTP请求之间有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/837) 
+9. [第1769题：说说对 ES6 中rest参数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/836) 
+10. [第1768题：实现lodash中的get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/835) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
