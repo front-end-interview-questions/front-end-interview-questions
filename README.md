@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1782题：说下Vite的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/849) 
-2. [第1781题：e.target 和 e.currentTarget  有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/848) 
-3. [第1780题：TCP是怎么判断丢包的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/847) 
-4. [第1779题：说说你对计算机网络模型的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/846) 
-5. [第1778题：脱离文档流有哪些方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/845) 
-6. [第1777题：Map 和 Set 的用法以及区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/844) 
-7. [第1776题：​const声明了数组，还能push元素吗，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/843) 
-8. [第1774题：删除排序链表中的重复元素](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/842) 
-9. [第1775题：如何区分数组和对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/841) 
-10. [第1773题：vue 中 $route 和 $router 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/840) 
+1. [第1784题：为何CSS不支持父选择器？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/850) 
+2. [第1782题：说下Vite的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/849) 
+3. [第1781题：e.target 和 e.currentTarget  有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/848) 
+4. [第1780题：TCP是怎么判断丢包的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/847) 
+5. [第1779题：说说你对计算机网络模型的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/846) 
+6. [第1778题：脱离文档流有哪些方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/845) 
+7. [第1777题：Map 和 Set 的用法以及区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/844) 
+8. [第1776题：​const声明了数组，还能push元素吗，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/843) 
+9. [第1774题：删除排序链表中的重复元素](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/842) 
+10. [第1775题：如何区分数组和对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/841) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
