@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1791题：前端实现动画有哪些方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/857) 
-2. [第1790题：下面代码中，p标签的背景色是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/856) 
-3. [第1789题：假设下面样式都作用于同一个节点元素`span`，判断下面哪个样式会生效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/855) 
-4. [第1788题：搜索二维矩阵](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/854) 
-5. [第1787题：说说你对低代码的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/853) 
-6. [第1786题：说说WebSocket和HTTP的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/852) 
-7. [第1785题：你知道哪些应用层协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/851) 
-8. [第1784题：为何CSS不支持父选择器？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/850) 
-9. [第1782题：说下Vite的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/849) 
-10. [第1781题：e.target 和 e.currentTarget  有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/848) 
+1. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/858) 
+2. [第1791题：前端实现动画有哪些方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/857) 
+3. [第1790题：下面代码中，p标签的背景色是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/856) 
+4. [第1789题：假设下面样式都作用于同一个节点元素`span`，判断下面哪个样式会生效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/855) 
+5. [第1788题：搜索二维矩阵](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/854) 
+6. [第1787题：说说你对低代码的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/853) 
+7. [第1786题：说说WebSocket和HTTP的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/852) 
+8. [第1785题：你知道哪些应用层协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/851) 
+9. [第1784题：为何CSS不支持父选择器？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/850) 
+10. [第1782题：说下Vite的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/849) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
