@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1793题：什么是硬件加速？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/859) 
-2. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/858) 
-3. [第1791题：前端实现动画有哪些方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/857) 
-4. [第1790题：下面代码中，p标签的背景色是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/856) 
-5. [第1789题：假设下面样式都作用于同一个节点元素`span`，判断下面哪个样式会生效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/855) 
-6. [第1788题：搜索二维矩阵](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/854) 
-7. [第1787题：说说你对低代码的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/853) 
-8. [第1786题：说说WebSocket和HTTP的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/852) 
-9. [第1785题：你知道哪些应用层协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/851) 
-10. [第1784题：为何CSS不支持父选择器？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/850) 
+1. [第1795题：实现 Promise.race 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/860) 
+2. [第1793题：什么是硬件加速？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/859) 
+3. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/858) 
+4. [第1791题：前端实现动画有哪些方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/857) 
+5. [第1790题：下面代码中，p标签的背景色是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/856) 
+6. [第1789题：假设下面样式都作用于同一个节点元素`span`，判断下面哪个样式会生效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/855) 
+7. [第1788题：搜索二维矩阵](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/854) 
+8. [第1787题：说说你对低代码的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/853) 
+9. [第1786题：说说WebSocket和HTTP的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/852) 
+10. [第1785题：你知道哪些应用层协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/851) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
