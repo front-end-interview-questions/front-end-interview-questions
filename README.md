@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
-2. [第1798题：刷新浏览器后，Vuex的数据是否存在？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/863) 
-3. [第1797题：数据流中的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/862) 
-4. [第1796题：最小的k个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/861) 
-5. [第1795题：实现 Promise.race 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/860) 
-6. [第1793题：什么是硬件加速？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/859) 
-7. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/858) 
-8. [第1791题：前端实现动画有哪些方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/857) 
-9. [第1790题：下面代码中，p标签的背景色是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/856) 
-10. [第1789题：假设下面样式都作用于同一个节点元素`span`，判断下面哪个样式会生效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/855) 
+1. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
+2. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
+3. [第1798题：刷新浏览器后，Vuex的数据是否存在？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/863) 
+4. [第1797题：数据流中的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/862) 
+5. [第1796题：最小的k个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/861) 
+6. [第1795题：实现 Promise.race 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/860) 
+7. [第1793题：什么是硬件加速？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/859) 
+8. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/858) 
+9. [第1791题：前端实现动画有哪些方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/857) 
+10. [第1790题：下面代码中，p标签的背景色是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/856) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
