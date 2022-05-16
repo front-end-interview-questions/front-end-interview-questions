@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1794题：硬件加速的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/867) 
-2. [第1801题：字符串相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/866) 
-3. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
-4. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
-5. [第1798题：刷新浏览器后，Vuex的数据是否存在？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/863) 
-6. [第1797题：数据流中的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/862) 
-7. [第1796题：最小的k个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/861) 
-8. [第1795题：实现 Promise.race 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/860) 
-9. [第1793题：什么是硬件加速？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/859) 
-10. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/858) 
+1. [第1802题：用es5如何实现 let 和 const ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/868) 
+2. [第1794题：硬件加速的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/867) 
+3. [第1801题：字符串相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/866) 
+4. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
+5. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
+6. [第1798题：刷新浏览器后，Vuex的数据是否存在？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/863) 
+7. [第1797题：数据流中的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/862) 
+8. [第1796题：最小的k个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/861) 
+9. [第1795题：实现 Promise.race 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/860) 
+10. [第1793题：什么是硬件加速？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/859) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
