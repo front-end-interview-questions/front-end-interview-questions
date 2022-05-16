@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1813题：有效的括号](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/879) 
-2. [第1811题：二叉树的层序遍历](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/878) 
-3. [第1810题：cookie 的有效时间设置为 0 会怎么样](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/877) 
-4. [第1809题：说说对 HTTP3 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/876) 
-5. [第1808题：postMessage 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/875) 
-6. [第1807题：webpack loader 和 plugin 实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/874) 
-7. [第1806题：说说 Vue 中 CSS scoped 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/873) 
-8. [第1805题：Vue 模板是如何编译的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/872) 
-9. [第1804题：async/await 怎么进行错误处理？
+1. [第1814题：合并两个有序数组](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/880) 
+2. [第1813题：有效的括号](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/879) 
+3. [第1811题：二叉树的层序遍历](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/878) 
+4. [第1810题：cookie 的有效时间设置为 0 会怎么样](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/877) 
+5. [第1809题：说说对 HTTP3 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/876) 
+6. [第1808题：postMessage 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/875) 
+7. [第1807题：webpack loader 和 plugin 实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/874) 
+8. [第1806题：说说 Vue 中 CSS scoped 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/873) 
+9. [第1805题：Vue 模板是如何编译的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/872) 
+10. [第1804题：async/await 怎么进行错误处理？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/871) 
-10. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/870) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
