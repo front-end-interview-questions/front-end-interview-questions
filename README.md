@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1802题：用es5如何实现 let 和 const ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/868) 
-2. [第1794题：硬件加速的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/867) 
-3. [第1801题：字符串相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/866) 
-4. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
-5. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
-6. [第1798题：刷新浏览器后，Vuex的数据是否存在？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/863) 
-7. [第1797题：数据流中的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/862) 
-8. [第1796题：最小的k个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/861) 
-9. [第1795题：实现 Promise.race 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/860) 
-10. [第1793题：什么是硬件加速？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/859) 
+1. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/870) 
+2. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/869) 
+3. [第1802题：用es5如何实现 let 和 const ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/868) 
+4. [第1794题：硬件加速的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/867) 
+5. [第1801题：字符串相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/866) 
+6. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
+7. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
+8. [第1798题：刷新浏览器后，Vuex的数据是否存在？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/863) 
+9. [第1797题：数据流中的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/862) 
+10. [第1796题：最小的k个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/861) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
