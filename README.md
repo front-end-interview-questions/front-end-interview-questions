@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1806题：说说 Vue 中 CSS scoped 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/873) 
-2. [第1805题：Vue 模板是如何编译的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/872) 
-3. [第1804题：async/await 怎么进行错误处理？
+1. [第1807题：webpack loader 和 plugin 实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/874) 
+2. [第1806题：说说 Vue 中 CSS scoped 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/873) 
+3. [第1805题：Vue 模板是如何编译的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/872) 
+4. [第1804题：async/await 怎么进行错误处理？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/871) 
-4. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/870) 
-5. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/869) 
-6. [第1802题：用es5如何实现 let 和 const ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/868) 
-7. [第1794题：硬件加速的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/867) 
-8. [第1801题：字符串相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/866) 
-9. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
-10. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
+5. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/870) 
+6. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/869) 
+7. [第1802题：用es5如何实现 let 和 const ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/868) 
+8. [第1794题：硬件加速的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/867) 
+9. [第1801题：字符串相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/866) 
+10. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
