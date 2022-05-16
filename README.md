@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1804题：async/await 怎么进行错误处理？
+1. [第1805题：Vue 模板是如何编译的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/872) 
+2. [第1804题：async/await 怎么进行错误处理？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/871) 
-2. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/870) 
-3. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/869) 
-4. [第1802题：用es5如何实现 let 和 const ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/868) 
-5. [第1794题：硬件加速的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/867) 
-6. [第1801题：字符串相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/866) 
-7. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
-8. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
-9. [第1798题：刷新浏览器后，Vuex的数据是否存在？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/863) 
-10. [第1797题：数据流中的中位数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/862) 
+3. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/870) 
+4. [第1803题：实现一个类，其实例可以链式调用，它有一个 sleep 方法，可以 sleep 一段时间后再后续调用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/869) 
+5. [第1802题：用es5如何实现 let 和 const ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/868) 
+6. [第1794题：硬件加速的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/867) 
+7. [第1801题：字符串相加](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/866) 
+8. [第1800题：将数组的length设置为0，取第一个元素会返回什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/865) 
+9. [第1799题：vue3中怎么设置全局变量？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/864) 
+10. [第1798题：刷新浏览器后，Vuex的数据是否存在？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/863) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
