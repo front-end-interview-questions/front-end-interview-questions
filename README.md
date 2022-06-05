@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1820题：new fn与new fn()有什么区别吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/887) 
-2. [第1819题：说说你对自定义hook的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/886) 
-3. [第1818题：说说你对 useMemo 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/885) 
-4. [第1817题：说说你对 useContext 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/884) 
-5. [第1816题：为什么不能在循环、条件或嵌套函数中调用 Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/883) 
-6. [第1815题：Object与Map有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/882) 
-7. [第1812题： 二叉树中和为某一值的路径](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/881) 
-8. [第1814题：合并两个有序数组](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/880) 
-9. [第1813题：有效的括号](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/879) 
-10. [第1811题：二叉树的层序遍历](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/878) 
+1. [第1821题：连续 bind()多次，输出的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/888) 
+2. [第1820题：new fn与new fn()有什么区别吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/887) 
+3. [第1819题：说说你对自定义hook的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/886) 
+4. [第1818题：说说你对 useMemo 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/885) 
+5. [第1817题：说说你对 useContext 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/884) 
+6. [第1816题：为什么不能在循环、条件或嵌套函数中调用 Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/883) 
+7. [第1815题：Object与Map有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/882) 
+8. [第1812题： 二叉树中和为某一值的路径](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/881) 
+9. [第1814题：合并两个有序数组](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/880) 
+10. [第1813题：有效的括号](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/879) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
