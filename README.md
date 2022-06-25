@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1824题：说说你对 new.target 的理解
+1. [第1830题：说说对 CSS 工程化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/898) 
+2. [第1829题：Sass、Less 是什么？为什么要使用他们？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/897) 
+3. [第1828题：怎么实现单行、多行文本溢出隐藏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/896) 
+4. [第1827题：CSS预处理器/后处理器是什么？为什么要使用它们？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/895) 
+5. [第1826题：为什么有时候⽤translate来改变位置⽽不是使用position进行定位？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/894) 
+6. [第1825题：transition和animation的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/893) 
+7. [第1824题：说说你对 new.target 的理解
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/892) 
-2. [第1783题：写一个返回数据类型的函数，要求自定义的类实例化的对象返回定义的类名](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/891) 
-3. [第1823题：如何让 useEffect 支持 async/await？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/890) 
-4. [第1822题：​arguments 这种类数组，如何遍历类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/889) 
-5. [第1821题：连续 bind()多次，输出的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/888) 
-6. [第1820题：new fn与new fn()有什么区别吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/887) 
-7. [第1819题：说说你对自定义hook的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/886) 
-8. [第1818题：说说你对 useMemo 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/885) 
-9. [第1817题：说说你对 useContext 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/884) 
-10. [第1816题：为什么不能在循环、条件或嵌套函数中调用 Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/883) 
+8. [第1783题：写一个返回数据类型的函数，要求自定义的类实例化的对象返回定义的类名](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/891) 
+9. [第1823题：如何让 useEffect 支持 async/await？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/890) 
+10. [第1822题：​arguments 这种类数组，如何遍历类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/889) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
