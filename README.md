@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1830题：说说对 CSS 工程化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/898) 
-2. [第1829题：Sass、Less 是什么？为什么要使用他们？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/897) 
-3. [第1828题：怎么实现单行、多行文本溢出隐藏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/896) 
-4. [第1827题：CSS预处理器/后处理器是什么？为什么要使用它们？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/895) 
-5. [第1826题：为什么有时候⽤translate来改变位置⽽不是使用position进行定位？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/894) 
-6. [第1825题：transition和animation的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/893) 
-7. [第1824题：说说你对 new.target 的理解
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/892) 
-8. [第1783题：写一个返回数据类型的函数，要求自定义的类实例化的对象返回定义的类名](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/891) 
-9. [第1823题：如何让 useEffect 支持 async/await？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/890) 
-10. [第1822题：​arguments 这种类数组，如何遍历类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/889) 
+1. [第1840题：HTML5 有哪些 drag 相关的 API ？
+](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/908) 
+2. [第1839题：浏览器乱码的原因是什么？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/907) 
+3. [第1838题：Canvas和SVG有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/906) 
+4. [第1837题：title与h1的区别、b与strong的区别、i与em的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/905) 
+5. [第1836题：浏览器是如何对 HTML5 的离线储存资源进行管理和加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/904) 
+6. [第1835题：HTML5的离线储存怎么使用，它的工作原理是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/903) 
+7. [第1834题：说说对  web worker  的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/902) 
+8. [第1833题：img的srcset属性的作⽤？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/901) 
+9. [第1832题：怎么实现一个宽高自适应的正方形？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/900) 
+10. [第1831题：z-index属性在什么情况下会失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/899) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
