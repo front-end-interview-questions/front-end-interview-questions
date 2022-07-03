@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1844题：说说你对flutter的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/912) 
-2. [第1843题：说说你对React Native的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/911) 
-3. [第1842题：前端领域有哪些跨端方案？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/910) 
-4. [第1841题：说说你对跨平台的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/909) 
-5. [第1840题：HTML5 有哪些 drag 相关的 API ？
+1. [第1845题：说说你对 Electron 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/913) 
+2. [第1844题：说说你对flutter的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/912) 
+3. [第1843题：说说你对React Native的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/911) 
+4. [第1842题：前端领域有哪些跨端方案？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/910) 
+5. [第1841题：说说你对跨平台的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/909) 
+6. [第1840题：HTML5 有哪些 drag 相关的 API ？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/908) 
-6. [第1839题：浏览器乱码的原因是什么？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/907) 
-7. [第1838题：Canvas和SVG有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/906) 
-8. [第1837题：title与h1的区别、b与strong的区别、i与em的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/905) 
-9. [第1836题：浏览器是如何对 HTML5 的离线储存资源进行管理和加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/904) 
-10. [第1835题：HTML5的离线储存怎么使用，它的工作原理是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/903) 
+7. [第1839题：浏览器乱码的原因是什么？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/907) 
+8. [第1838题：Canvas和SVG有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/906) 
+9. [第1837题：title与h1的区别、b与strong的区别、i与em的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/905) 
+10. [第1836题：浏览器是如何对 HTML5 的离线储存资源进行管理和加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/904) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
