@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1848题：说说你对JS的模块化方案的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/916) 
-2. [第1847题：你常用的 React Hooks 有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/915) 
-3. [第1846题：遍历数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/914) 
-4. [第1845题：说说你对 Electron 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/913) 
-5. [第1844题：说说你对flutter的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/912) 
-6. [第1843题：说说你对React Native的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/911) 
-7. [第1842题：前端领域有哪些跨端方案？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/910) 
-8. [第1841题：说说你对跨平台的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/909) 
-9. [第1840题：HTML5 有哪些 drag 相关的 API ？
+1. [第1849题：DNS 预解析是什么？怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/917) 
+2. [第1848题：说说你对JS的模块化方案的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/916) 
+3. [第1847题：你常用的 React Hooks 有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/915) 
+4. [第1846题：遍历数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/914) 
+5. [第1845题：说说你对 Electron 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/913) 
+6. [第1844题：说说你对flutter的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/912) 
+7. [第1843题：说说你对React Native的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/911) 
+8. [第1842题：前端领域有哪些跨端方案？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/910) 
+9. [第1841题：说说你对跨平台的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/909) 
+10. [第1840题：HTML5 有哪些 drag 相关的 API ？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/908) 
-10. [第1839题：浏览器乱码的原因是什么？如何解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/907) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
