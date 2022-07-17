@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1851题：洗牌算法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/920) 
-2. [第1851题：洗牌算法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/919) 
-3. [第1850题：HTTP1.0，HTTP1.1，HTTP2.0之间有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/918) 
-4. [第1849题：DNS 预解析是什么？怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/917) 
-5. [第1848题：说说你对JS的模块化方案的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/916) 
-6. [第1847题：你常用的 React Hooks 有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/915) 
-7. [第1846题：遍历数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/914) 
-8. [第1845题：说说你对 Electron 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/913) 
-9. [第1844题：说说你对flutter的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/912) 
-10. [第1843题：说说你对React Native的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/911) 
+1. [第1852题：数组中的第 k 大的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/921) 
+2. [第1851题：洗牌算法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/920) 
+3. [第1851题：洗牌算法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/919) 
+4. [第1850题：HTTP1.0，HTTP1.1，HTTP2.0之间有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/918) 
+5. [第1849题：DNS 预解析是什么？怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/917) 
+6. [第1848题：说说你对JS的模块化方案的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/916) 
+7. [第1847题：你常用的 React Hooks 有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/915) 
+8. [第1846题：遍历数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/914) 
+9. [第1845题：说说你对 Electron 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/913) 
+10. [第1844题：说说你对flutter的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/912) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
