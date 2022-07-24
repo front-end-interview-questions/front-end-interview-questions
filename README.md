@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1858题：开发的过程中你用到过哪些设计模式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/928) 
-2. [第1857题：路径总和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/927) 
-3. [第1856题：怎么实现大型文件上传？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/926) 
-4. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/925) 
-5. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/924) 
-6. [第1854题：跨域时怎么处理 cookie？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/923) 
-7. [第1853题：说说 webpack-dev-server 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/922) 
-8. [第1852题：数组中的第 k 大的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/921) 
-9. [第1851题：洗牌算法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/920) 
-10. [第1851题：洗牌算法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/919) 
+1. [第1859题：说说你对前端鉴权的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/929) 
+2. [第1858题：开发的过程中你用到过哪些设计模式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/928) 
+3. [第1857题：路径总和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/927) 
+4. [第1856题：怎么实现大型文件上传？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/926) 
+5. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/925) 
+6. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/924) 
+7. [第1854题：跨域时怎么处理 cookie？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/923) 
+8. [第1853题：说说 webpack-dev-server 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/922) 
+9. [第1852题：数组中的第 k 大的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/921) 
+10. [第1851题：洗牌算法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/920) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
