@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
-2. [第1863题：POST请求的 Content-Type 有哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/933) 
-3. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
-4. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
-5. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
-6. [第1859题：说说你对前端鉴权的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/929) 
-7. [第1858题：开发的过程中你用到过哪些设计模式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/928) 
-8. [第1857题：路径总和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/927) 
-9. [第1856题：怎么实现大型文件上传？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/926) 
-10. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/925) 
+1. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
+2. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
+3. [第1863题：POST请求的 Content-Type 有哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/933) 
+4. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
+5. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
+6. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
+7. [第1859题：说说你对前端鉴权的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/929) 
+8. [第1858题：开发的过程中你用到过哪些设计模式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/928) 
+9. [第1857题：路径总和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/927) 
+10. [第1856题：怎么实现大型文件上传？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/926) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
