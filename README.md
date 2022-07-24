@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
-2. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
-3. [第1859题：说说你对前端鉴权的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/929) 
-4. [第1858题：开发的过程中你用到过哪些设计模式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/928) 
-5. [第1857题：路径总和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/927) 
-6. [第1856题：怎么实现大型文件上传？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/926) 
-7. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/925) 
-8. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/924) 
-9. [第1854题：跨域时怎么处理 cookie？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/923) 
-10. [第1853题：说说 webpack-dev-server 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/922) 
+1. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
+2. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
+3. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
+4. [第1859题：说说你对前端鉴权的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/929) 
+5. [第1858题：开发的过程中你用到过哪些设计模式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/928) 
+6. [第1857题：路径总和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/927) 
+7. [第1856题：怎么实现大型文件上传？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/926) 
+8. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/925) 
+9. [第1855题：编辑距离](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/924) 
+10. [第1854题：跨域时怎么处理 cookie？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/923) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
