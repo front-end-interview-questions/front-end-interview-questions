@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1866题：说说你的ES7-ES12的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/936) 
-2. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
-3. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
-4. [第1863题：POST请求的 Content-Type 有哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/933) 
-5. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
-6. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
-7. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
-8. [第1859题：说说你对前端鉴权的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/929) 
-9. [第1858题：开发的过程中你用到过哪些设计模式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/928) 
-10. [第1857题：路径总和](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/927) 
+1. [第1880题：请对以下数组，根据 `born` 的值降序排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/937) 
+2. [第1866题：说说你的ES7-ES12的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/936) 
+3. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
+4. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
+5. [第1863题：POST请求的 Content-Type 有哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/933) 
+6. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
+7. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
+8. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
+9. [第1859题：说说你对前端鉴权的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/929) 
+10. [第1858题：开发的过程中你用到过哪些设计模式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/928) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
