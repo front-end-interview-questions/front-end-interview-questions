@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1867题：什么是同步和异步？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/938) 
-2. [第1880题：请对以下数组，根据 `born` 的值降序排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/937) 
-3. [第1866题：说说你的ES7-ES12的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/936) 
-4. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
-5. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
-6. [第1863题：POST请求的 Content-Type 有哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/933) 
-7. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
-8. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
-9. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
-10. [第1859题：说说你对前端鉴权的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/929) 
+1. [第1873题：如何让Promise.all在抛出异常后依然有效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/939) 
+2. [第1867题：什么是同步和异步？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/938) 
+3. [第1880题：请对以下数组，根据 `born` 的值降序排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/937) 
+4. [第1866题：说说你的ES7-ES12的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/936) 
+5. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
+6. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
+7. [第1863题：POST请求的 Content-Type 有哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/933) 
+8. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
+9. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
+10. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
