@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1882题：SEO是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/943) 
-2. [第1883题：SEO的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/942) 
-3. [第1876题：arguments如何转成数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/941) 
-4. [第1881题：前端跨页面通信，你知道哪些方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/940) 
-5. [第1873题：如何让Promise.all在抛出异常后依然有效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/939) 
-6. [第1867题：什么是同步和异步？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/938) 
-7. [第1880题：请对以下数组，根据 `born` 的值降序排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/937) 
-8. [第1866题：说说你的ES7-ES12的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/936) 
-9. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
-10. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
+1. [第1874题：如何实现SEO优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/944) 
+2. [第1882题：SEO是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/943) 
+3. [第1883题：SEO的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/942) 
+4. [第1876题：arguments如何转成数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/941) 
+5. [第1881题：前端跨页面通信，你知道哪些方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/940) 
+6. [第1873题：如何让Promise.all在抛出异常后依然有效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/939) 
+7. [第1867题：什么是同步和异步？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/938) 
+8. [第1880题：请对以下数组，根据 `born` 的值降序排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/937) 
+9. [第1866题：说说你的ES7-ES12的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/936) 
+10. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
