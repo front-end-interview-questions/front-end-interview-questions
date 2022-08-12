@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1873题：如何让Promise.all在抛出异常后依然有效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/939) 
-2. [第1867题：什么是同步和异步？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/938) 
-3. [第1880题：请对以下数组，根据 `born` 的值降序排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/937) 
-4. [第1866题：说说你的ES7-ES12的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/936) 
-5. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
-6. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
-7. [第1863题：POST请求的 Content-Type 有哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/933) 
-8. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
-9. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
-10. [第1860题：JavaScript 中如何取消请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/930) 
+1. [第1881题：前端跨页面通信，你知道哪些方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/940) 
+2. [第1873题：如何让Promise.all在抛出异常后依然有效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/939) 
+3. [第1867题：什么是同步和异步？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/938) 
+4. [第1880题：请对以下数组，根据 `born` 的值降序排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/937) 
+5. [第1866题：说说你的ES7-ES12的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/936) 
+6. [第1865题：怎么进行站点内的图片性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/935) 
+7. [第1864题：['1','2','3'].map(parseInt) 的返回值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/934) 
+8. [第1863题：POST请求的 Content-Type 有哪几种？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/933) 
+9. [第1862题：怎么触发BFC，BFC有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/932) 
+10. [第1861题：怎么预防按钮的重复点击？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/931) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
