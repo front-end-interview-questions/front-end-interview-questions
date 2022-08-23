@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1870题：用css写无限循环动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/946) 
-2. [第1872题：实现一个数字转中文的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/945) 
-3. [第1874题：如何实现SEO优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/944) 
-4. [第1882题：SEO是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/943) 
-5. [第1883题：SEO的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/942) 
-6. [第1876题：arguments如何转成数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/941) 
-7. [第1881题：前端跨页面通信，你知道哪些方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/940) 
-8. [第1873题：如何让Promise.all在抛出异常后依然有效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/939) 
-9. [第1867题：什么是同步和异步？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/938) 
-10. [第1880题：请对以下数组，根据 `born` 的值降序排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/937) 
+1. [第1886题：说说你对 dangerouslySetInnerHTML 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/947) 
+2. [第1870题：使用css实现一个无限循环动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/946) 
+3. [第1872题：实现一个数字转中文的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/945) 
+4. [第1874题：如何实现SEO优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/944) 
+5. [第1882题：SEO是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/943) 
+6. [第1883题：SEO的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/942) 
+7. [第1876题：arguments如何转成数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/941) 
+8. [第1881题：前端跨页面通信，你知道哪些方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/940) 
+9. [第1873题：如何让Promise.all在抛出异常后依然有效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/939) 
+10. [第1867题：什么是同步和异步？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/938) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
