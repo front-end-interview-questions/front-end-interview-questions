@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1884题：SPA应用怎么进行SEO？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/950) 
-2. [第1885题：单行文本怎么实现两端对齐？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/949) 
-3. [第1887题：script标签放在header里和放在body底部里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/948) 
-4. [第1886题：说说你对 dangerouslySetInnerHTML 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/947) 
-5. [第1870题：使用css实现一个无限循环动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/946) 
-6. [第1872题：实现一个数字转中文的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/945) 
-7. [第1874题：如何实现SEO优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/944) 
-8. [第1882题：SEO是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/943) 
-9. [第1883题：SEO的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/942) 
-10. [第1876题：arguments如何转成数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/941) 
+1. [第1877题：如何实现一个轮播图组件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/951) 
+2. [第1884题：SPA应用怎么进行SEO？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/950) 
+3. [第1885题：单行文本怎么实现两端对齐？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/949) 
+4. [第1887题：script标签放在header里和放在body底部里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/948) 
+5. [第1886题：说说你对 dangerouslySetInnerHTML 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/947) 
+6. [第1870题：使用css实现一个无限循环动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/946) 
+7. [第1872题：实现一个数字转中文的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/945) 
+8. [第1874题：如何实现SEO优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/944) 
+9. [第1882题：SEO是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/943) 
+10. [第1883题：SEO的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/942) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
