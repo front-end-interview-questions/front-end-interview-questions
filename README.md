@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1892题：实现以下转换，合并连续的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/957) 
-2. [第1890题：JQuery中的$(​document).ready与window.onload有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/956) 
-3. [第1891题：渐进式jpg有了解过吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/955) 
-4. [第1893题：假设我要上传图片，怎么在选择图片后，通过浏览器预览待上传的图片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/954) 
-5. [第1889题：cookie 怎么设置只在 https 时携带？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/953) 
-6. [第1888题：怎么实现“点击回到顶部”的功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/952) 
-7. [第1877题：如何实现一个轮播图组件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/951) 
-8. [第1884题：SPA应用怎么进行SEO？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/950) 
-9. [第1885题：单行文本怎么实现两端对齐？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/949) 
-10. [第1887题：script标签放在header里和放在body底部里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/948) 
+1. [第1879题：遍历一个任意长度的list中的元素并依次创建异步任务，如何获取所有任务的执行结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/958) 
+2. [第1892题：实现以下转换，合并连续的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/957) 
+3. [第1890题：JQuery中的$(​document).ready与window.onload有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/956) 
+4. [第1891题：渐进式jpg有了解过吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/955) 
+5. [第1893题：假设我要上传图片，怎么在选择图片后，通过浏览器预览待上传的图片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/954) 
+6. [第1889题：cookie 怎么设置只在 https 时携带？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/953) 
+7. [第1888题：怎么实现“点击回到顶部”的功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/952) 
+8. [第1877题：如何实现一个轮播图组件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/951) 
+9. [第1884题：SPA应用怎么进行SEO？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/950) 
+10. [第1885题：单行文本怎么实现两端对齐？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/949) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
