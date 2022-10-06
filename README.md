@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
-2. [第1878题：如何顺序执行10个异步任务？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/959) 
-3. [第1879题：遍历一个任意长度的list中的元素并依次创建异步任务，如何获取所有任务的执行结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/958) 
-4. [第1892题：实现以下转换，合并连续的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/957) 
-5. [第1890题：JQuery中的$(​document).ready与window.onload有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/956) 
-6. [第1891题：渐进式jpg有了解过吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/955) 
-7. [第1893题：假设我要上传图片，怎么在选择图片后，通过浏览器预览待上传的图片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/954) 
-8. [第1889题：cookie 怎么设置只在 https 时携带？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/953) 
-9. [第1888题：怎么实现“点击回到顶部”的功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/952) 
-10. [第1877题：如何实现一个轮播图组件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/951) 
+1. [第1894题：我们什么时候应该使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
+2. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
+3. [第1878题：如何顺序执行10个异步任务？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/959) 
+4. [第1879题：遍历一个任意长度的list中的元素并依次创建异步任务，如何获取所有任务的执行结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/958) 
+5. [第1892题：实现以下转换，合并连续的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/957) 
+6. [第1890题：JQuery中的$(​document).ready与window.onload有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/956) 
+7. [第1891题：渐进式jpg有了解过吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/955) 
+8. [第1893题：假设我要上传图片，怎么在选择图片后，通过浏览器预览待上传的图片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/954) 
+9. [第1889题：cookie 怎么设置只在 https 时携带？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/953) 
+10. [第1888题：怎么实现“点击回到顶部”的功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/952) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
