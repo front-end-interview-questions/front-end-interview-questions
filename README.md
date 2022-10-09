@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1897题：怎么把十进制的 0.2 转换成二进制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/964) 
-2. [第1896题：map和 filter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/963) 
-3. [第1895题：map 和 forEach 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/962) 
-4. [第1894题：我们应该在什么场景下使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
-5. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
-6. [第1878题：如何顺序执行10个异步任务？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/959) 
-7. [第1879题：遍历一个任意长度的list中的元素并依次创建异步任务，如何获取所有任务的执行结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/958) 
-8. [第1892题：实现以下转换，合并连续的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/957) 
-9. [第1890题：JQuery中的$(​document).ready与window.onload有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/956) 
-10. [第1891题：渐进式jpg有了解过吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/955) 
+1. [第1898题：怎么使用 js 动态生成海报？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/965) 
+2. [第1897题：怎么把十进制的 0.2 转换成二进制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/964) 
+3. [第1896题：map和 filter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/963) 
+4. [第1895题：map 和 forEach 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/962) 
+5. [第1894题：我们应该在什么场景下使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
+6. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
+7. [第1878题：如何顺序执行10个异步任务？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/959) 
+8. [第1879题：遍历一个任意长度的list中的元素并依次创建异步任务，如何获取所有任务的执行结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/958) 
+9. [第1892题：实现以下转换，合并连续的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/957) 
+10. [第1890题：JQuery中的$(​document).ready与window.onload有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/956) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
