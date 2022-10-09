@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1904题：中奖概率使用 Math.random() 会有什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/967) 
-2. [第1900题：如何判断页面是通过PC端还是移动端访问？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/966) 
-3. [第1898题：怎么使用 js 动态生成海报？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/965) 
-4. [第1897题：怎么把十进制的 0.2 转换成二进制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/964) 
-5. [第1896题：map和 filter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/963) 
-6. [第1895题：map 和 forEach 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/962) 
-7. [第1894题：我们应该在什么场景下使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
-8. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
-9. [第1878题：如何顺序执行10个异步任务？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/959) 
-10. [第1879题：遍历一个任意长度的list中的元素并依次创建异步任务，如何获取所有任务的执行结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/958) 
+1. [第1903题：怎么预防用户快速连续点击，造成数据多次提交？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/968) 
+2. [第1904题：如果使用 Math.random() 计算中奖概率会有什么问题吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/967) 
+3. [第1900题：如何判断页面是通过PC端还是移动端访问？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/966) 
+4. [第1898题：怎么使用 js 动态生成海报？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/965) 
+5. [第1897题：怎么把十进制的 0.2 转换成二进制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/964) 
+6. [第1896题：map和 filter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/963) 
+7. [第1895题：map 和 forEach 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/962) 
+8. [第1894题：我们应该在什么场景下使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
+9. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
+10. [第1878题：如何顺序执行10个异步任务？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/959) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
