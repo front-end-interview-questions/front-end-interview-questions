@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1900题：如何判断设备是通过PC端还是移动端访问？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/966) 
-2. [第1898题：怎么使用 js 动态生成海报？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/965) 
-3. [第1897题：怎么把十进制的 0.2 转换成二进制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/964) 
-4. [第1896题：map和 filter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/963) 
-5. [第1895题：map 和 forEach 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/962) 
-6. [第1894题：我们应该在什么场景下使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
-7. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
-8. [第1878题：如何顺序执行10个异步任务？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/959) 
-9. [第1879题：遍历一个任意长度的list中的元素并依次创建异步任务，如何获取所有任务的执行结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/958) 
-10. [第1892题：实现以下转换，合并连续的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/957) 
+1. [第1904题：中奖概率使用 Math.random() 会有什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/967) 
+2. [第1900题：如何判断页面是通过PC端还是移动端访问？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/966) 
+3. [第1898题：怎么使用 js 动态生成海报？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/965) 
+4. [第1897题：怎么把十进制的 0.2 转换成二进制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/964) 
+5. [第1896题：map和 filter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/963) 
+6. [第1895题：map 和 forEach 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/962) 
+7. [第1894题：我们应该在什么场景下使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
+8. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
+9. [第1878题：如何顺序执行10个异步任务？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/959) 
+10. [第1879题：遍历一个任意长度的list中的元素并依次创建异步任务，如何获取所有任务的执行结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/958) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
