@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1919题：如何控制 input 输入框的输入字数？
+1. [第1901题：说说你对 pnpm 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/970) 
+2. [第1919题：如何控制 input 输入框的输入字数？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/969) 
-2. [第1903题：怎么预防用户快速连续点击，造成数据多次提交？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/968) 
-3. [第1904题：如果使用 Math.random() 计算中奖概率会有什么问题吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/967) 
-4. [第1900题：如何判断页面是通过PC端还是移动端访问？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/966) 
-5. [第1898题：怎么使用 js 动态生成海报？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/965) 
-6. [第1897题：怎么把十进制的 0.2 转换成二进制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/964) 
-7. [第1896题：map和 filter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/963) 
-8. [第1895题：map 和 forEach 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/962) 
-9. [第1894题：我们应该在什么场景下使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
-10. [第1875题：如何获取页面的滚动距离值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/960) 
+3. [第1903题：怎么预防用户快速连续点击，造成数据多次提交？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/968) 
+4. [第1904题：如果使用 Math.random() 计算中奖概率会有什么问题吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/967) 
+5. [第1900题：如何判断页面是通过PC端还是移动端访问？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/966) 
+6. [第1898题：怎么使用 js 动态生成海报？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/965) 
+7. [第1897题：怎么把十进制的 0.2 转换成二进制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/964) 
+8. [第1896题：map和 filter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/963) 
+9. [第1895题：map 和 forEach 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/962) 
+10. [第1894题：我们应该在什么场景下使用  useMemo 和 useCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/961) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
