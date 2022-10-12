@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1869题：用js实现二叉树的定义和基本操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/974) 
-2. [第1868题：非递归遍历二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/973) 
-3. [第1871题：react是否支持给标签设置自定义的属性，比如给video标签设置webkit-playsinline？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/972) 
-4. [第1899题：导致页面加载白屏时间长的原因有哪些，怎么进行优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/971) 
-5. [第1901题：说说你对 pnpm 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/970) 
-6. [第1919题：如何控制 input 输入框的输入字数？
+1. [第1902题：相比于npm和yarn，pnpm的优势是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/975) 
+2. [第1869题：用js实现二叉树的定义和基本操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/974) 
+3. [第1868题：非递归遍历二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/973) 
+4. [第1871题：react是否支持给标签设置自定义的属性，比如给video标签设置webkit-playsinline？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/972) 
+5. [第1899题：导致页面加载白屏时间长的原因有哪些，怎么进行优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/971) 
+6. [第1901题：说说你对 pnpm 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/970) 
+7. [第1919题：如何控制 input 输入框的输入字数？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/969) 
-7. [第1903题：怎么预防用户快速连续点击，造成数据多次提交？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/968) 
-8. [第1904题：如果使用 Math.random() 计算中奖概率会有什么问题吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/967) 
-9. [第1900题：如何判断页面是通过PC端还是移动端访问？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/966) 
-10. [第1898题：怎么使用 js 动态生成海报？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/965) 
+8. [第1903题：怎么预防用户快速连续点击，造成数据多次提交？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/968) 
+9. [第1904题：如果使用 Math.random() 计算中奖概率会有什么问题吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/967) 
+10. [第1900题：如何判断页面是通过PC端还是移动端访问？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/966) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
