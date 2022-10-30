@@ -18,17 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1909题：webSocket 有哪些安全问题，应该如何应对？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/978) 
-2. [第1906题：只出现一次的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/977) 
-3. [第1905题：一个滚动公告组件，如何在鼠标滑入时停止播放，在鼠标离开时继续等待滑入时的剩余等待时间后播放？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/976) 
-4. [第1902题：相比于npm和yarn，pnpm的优势是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/975) 
-5. [第1869题：用js实现二叉树的定义和基本操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/974) 
-6. [第1868题：非递归遍历二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/973) 
-7. [第1871题：react是否支持给标签设置自定义的属性，比如给video标签设置webkit-playsinline？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/972) 
-8. [第1899题：导致页面加载白屏时间长的原因有哪些，怎么进行优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/971) 
-9. [第1901题：说说你对 pnpm 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/970) 
-10. [第1919题：如何控制 input 输入框的输入字数？
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/969) 
+1. [第1907题：position: fixed 一定是相对于浏览器窗口进行定位吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/979) 
+2. [第1909题：webSocket 有哪些安全问题，应该如何应对？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/978) 
+3. [第1906题：只出现一次的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/977) 
+4. [第1905题：一个滚动公告组件，如何在鼠标滑入时停止播放，在鼠标离开时继续等待滑入时的剩余等待时间后播放？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/976) 
+5. [第1902题：相比于npm和yarn，pnpm的优势是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/975) 
+6. [第1869题：用js实现二叉树的定义和基本操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/974) 
+7. [第1868题：非递归遍历二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/973) 
+8. [第1871题：react是否支持给标签设置自定义的属性，比如给video标签设置webkit-playsinline？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/972) 
+9. [第1899题：导致页面加载白屏时间长的原因有哪些，怎么进行优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/971) 
+10. [第1901题：说说你对 pnpm 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/970) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
