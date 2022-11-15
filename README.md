@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1918题：说说你对 React Hook的闭包陷阱的理解，有哪些解决方案？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/981) 
-2. [第1920题：Node 和 Element 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/980) 
-3. [第1907题：position: fixed 一定是相对于浏览器窗口进行定位吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/979) 
-4. [第1909题：webSocket 有哪些安全问题，应该如何应对？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/978) 
-5. [第1906题：只出现一次的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/977) 
-6. [第1905题：一个滚动公告组件，如何在鼠标滑入时停止播放，在鼠标离开时继续等待滑入时的剩余等待时间后播放？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/976) 
-7. [第1902题：相比于npm和yarn，pnpm的优势是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/975) 
-8. [第1869题：用js实现二叉树的定义和基本操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/974) 
-9. [第1868题：非递归遍历二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/973) 
-10. [第1871题：react是否支持给标签设置自定义的属性，比如给video标签设置webkit-playsinline？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/972) 
+1. [第1916题：说说你对 useReducer 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/982) 
+2. [第1918题：说说你对 React Hook的闭包陷阱的理解，有哪些解决方案？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/981) 
+3. [第1920题：Node 和 Element 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/980) 
+4. [第1907题：position: fixed 一定是相对于浏览器窗口进行定位吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/979) 
+5. [第1909题：webSocket 有哪些安全问题，应该如何应对？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/978) 
+6. [第1906题：只出现一次的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/977) 
+7. [第1905题：一个滚动公告组件，如何在鼠标滑入时停止播放，在鼠标离开时继续等待滑入时的剩余等待时间后播放？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/976) 
+8. [第1902题：相比于npm和yarn，pnpm的优势是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/975) 
+9. [第1869题：用js实现二叉树的定义和基本操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/974) 
+10. [第1868题：非递归遍历二叉树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/973) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
