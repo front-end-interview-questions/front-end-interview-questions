@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1933题：React.memo() 和 useMemo() 的用法是什么，有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/988) 
-2. [第1928题：说说 jsBridge 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/987) 
-3. [第1925题：React18新特性](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/986) 
-4. [第1910题：说说你对模块化方案的理解，比如 CommonJS、AMD、CMD、ES Module 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/985) 
-5. [第1921题：说说你对 Iterator, Generator 和 Async/Await 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/984) 
-6. [第1915题：Map 和 WeakMap 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/983) 
-7. [第1916题：说说你对 useReducer 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/982) 
-8. [第1918题：说说你对 React Hook的闭包陷阱的理解，有哪些解决方案？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/981) 
-9. [第1920题：Node 和 Element 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/980) 
-10. [第1907题：position: fixed 一定是相对于浏览器窗口进行定位吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/979) 
+1. [第1929题：版本号排序](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/989) 
+2. [第1933题：React.memo() 和 useMemo() 的用法是什么，有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/988) 
+3. [第1928题：说说 jsBridge 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/987) 
+4. [第1925题：React18新特性](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/986) 
+5. [第1910题：说说你对模块化方案的理解，比如 CommonJS、AMD、CMD、ES Module 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/985) 
+6. [第1921题：说说你对 Iterator, Generator 和 Async/Await 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/984) 
+7. [第1915题：Map 和 WeakMap 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/983) 
+8. [第1916题：说说你对 useReducer 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/982) 
+9. [第1918题：说说你对 React Hook的闭包陷阱的理解，有哪些解决方案？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/981) 
+10. [第1920题：Node 和 Element 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/980) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
