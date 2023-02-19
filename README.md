@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1938题：环形链表](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/996) 
-2. [第1937题：使用 redux 有哪些原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/995) 
-3. [第1936题：说说你对 Dom 树的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/994) 
-4. [第1935题：使用 React hooks 怎么实现类里面的所有生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/993) 
-5. [第1914题：如何判断某个字符串长度（要求支持表情）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/992) 
-6. [第1930题：什么是 CI/CD？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/991) 
-7. [第1932题：编程实现温度转换，已知温度转换的关系式是：华氏度＝32＋摄氏度×1.8，现在要求输入摄氏度，输出对应的华氏度，小数保留两位](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/990) 
-8. [第1929题：版本号排序](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/989) 
-9. [第1933题：React.memo() 和 useMemo() 的用法是什么，有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/988) 
-10. [第1928题：说说 jsBridge 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/987) 
+1. [第1939题：x 的平方根 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/997) 
+2. [第1938题：环形链表](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/996) 
+3. [第1937题：使用 redux 有哪些原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/995) 
+4. [第1936题：说说你对 Dom 树的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/994) 
+5. [第1935题：使用 React hooks 怎么实现类里面的所有生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/993) 
+6. [第1914题：如何判断某个字符串长度（要求支持表情）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/992) 
+7. [第1930题：什么是 CI/CD？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/991) 
+8. [第1932题：编程实现温度转换，已知温度转换的关系式是：华氏度＝32＋摄氏度×1.8，现在要求输入摄氏度，输出对应的华氏度，小数保留两位](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/990) 
+9. [第1929题：版本号排序](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/989) 
+10. [第1933题：React.memo() 和 useMemo() 的用法是什么，有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/988) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
