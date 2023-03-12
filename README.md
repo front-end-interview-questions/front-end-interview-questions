@@ -18,17 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1947题：请实现下面的 mergeArray 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1013) 
-2. [第1946题：实现下面的 firstSingleChar 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1012) 
-3. [第1945题：实现下面的 reverseWord 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1011) 
-4. [第1908题：二叉树的层序遍历](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1010) 
-5. [第1943题：如何定义一个数组，它的元素可能是字符串类型，也可能是数值类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1009) 
-6. [第1944题：请补充 objToArray 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1008) 
-7. [第1924题：二叉树的最近公共祖先](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1007) 
-8. [第1917题：实现一个将多维数组展示的方法
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1006) 
-9. [第1926题：使用TS实现一个判断传入参数是否是数组类型的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1005) 
-10. [第1927题：实现一个 useTimeout Hook](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1004) 
+1. [第1948题：请实现下面的 myMap 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1019) 
+2. [第1949题：请实现下面的 treePath 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1018) 
+3. [第1950题：请实现下面的 product 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1017) 
+4. [第1951题：请实现下面的 sleep 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1016) 
+5. [第1952题：请实现下面的 myAll 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1015) 
+6. [第1953题：请实现下面的 sum 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1014) 
+7. [第1947题：请实现下面的 mergeArray 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1013) 
+8. [第1946题：实现下面的 firstSingleChar 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1012) 
+9. [第1945题：实现下面的 reverseWord 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1011) 
+10. [第1908题：二叉树的层序遍历](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1010) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
