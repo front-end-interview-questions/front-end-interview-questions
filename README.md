@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1908题：二叉树的层序遍历](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1010) 
-2. [第1943题：如何定义一个数组，它的元素可能是字符串类型，也可能是数值类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1009) 
-3. [第1944题：请补充 objToArray 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1008) 
-4. [第1924题：二叉树的最近公共祖先](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1007) 
-5. [第1917题：实现一个将多维数组展示的方法
+1. [第1946题：实现下面的 firstSingleChar 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1012) 
+2. [第1945题：实现下面的 reverseWord 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1011) 
+3. [第1908题：二叉树的层序遍历](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1010) 
+4. [第1943题：如何定义一个数组，它的元素可能是字符串类型，也可能是数值类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1009) 
+5. [第1944题：请补充 objToArray 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1008) 
+6. [第1924题：二叉树的最近公共祖先](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1007) 
+7. [第1917题：实现一个将多维数组展示的方法
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1006) 
-6. [第1926题：使用TS实现一个判断传入参数是否是数组类型的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1005) 
-7. [第1927题：实现一个 useTimeout Hook](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1004) 
-8. [第1923题：给某个资源的链接，如 https://www.baidu.com/index.html ，请实现一个方法，获取该资源的后缀，如 html](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1003) 
-9. [第1942题：js函数有哪几种声明方式？有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1002) 
-10. [第1931题：找出数组中重复的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1001) 
+8. [第1926题：使用TS实现一个判断传入参数是否是数组类型的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1005) 
+9. [第1927题：实现一个 useTimeout Hook](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1004) 
+10. [第1923题：给某个资源的链接，如 https://www.baidu.com/index.html ，请实现一个方法，获取该资源的后缀，如 html](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1003) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
