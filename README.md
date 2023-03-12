@@ -18,17 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1926题：使用TS实现一个判断传入参数是否是数组类型的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1005) 
-2. [第1927题：实现一个 useTimeout Hook](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1004) 
-3. [第1923题：给某个资源的链接，如 https://www.baidu.com/index.html ，请实现一个方法，获取该资源的后缀，如 html](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1003) 
-4. [第1942题：js函数有哪几种声明方式？有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1002) 
-5. [第1931题：找出数组中重复的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1001) 
-6. [第1934题：如何把一个对象变成可迭代对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1000) 
-7. [第1941题：说说你对“立即执行函数”的理解
+1. [第1917题：实现一个将多维数组展示的方法
+](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1006) 
+2. [第1926题：使用TS实现一个判断传入参数是否是数组类型的方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1005) 
+3. [第1927题：实现一个 useTimeout Hook](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1004) 
+4. [第1923题：给某个资源的链接，如 https://www.baidu.com/index.html ，请实现一个方法，获取该资源的后缀，如 html](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1003) 
+5. [第1942题：js函数有哪几种声明方式？有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1002) 
+6. [第1931题：找出数组中重复的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1001) 
+7. [第1934题：如何把一个对象变成可迭代对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1000) 
+8. [第1941题：说说你对“立即执行函数”的理解
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/999) 
-8. [第1940题：react 中怎么捕获异常？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/998) 
-9. [第1939题：x 的平方根 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/997) 
-10. [第1938题：环形链表](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/996) 
+9. [第1940题：react 中怎么捕获异常？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/998) 
+10. [第1939题：x 的平方根 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/997) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
