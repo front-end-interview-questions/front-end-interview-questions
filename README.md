@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1934题：如何把一个对象变成可迭代对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1000) 
-2. [第1941题：说说你对“立即执行函数”的理解
+1. [第1931题：找出数组中重复的数字](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1001) 
+2. [第1934题：如何把一个对象变成可迭代对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1000) 
+3. [第1941题：说说你对“立即执行函数”的理解
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/999) 
-3. [第1940题：react 中怎么捕获异常？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/998) 
-4. [第1939题：x 的平方根 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/997) 
-5. [第1938题：环形链表](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/996) 
-6. [第1937题：使用 redux 有哪些原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/995) 
-7. [第1936题：说说你对 Dom 树的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/994) 
-8. [第1935题：使用 React hooks 怎么实现类里面的所有生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/993) 
-9. [第1914题：如何判断某个字符串长度（要求支持表情）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/992) 
-10. [第1930题：什么是 CI/CD？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/991) 
+4. [第1940题：react 中怎么捕获异常？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/998) 
+5. [第1939题：x 的平方根 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/997) 
+6. [第1938题：环形链表](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/996) 
+7. [第1937题：使用 redux 有哪些原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/995) 
+8. [第1936题：说说你对 Dom 树的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/994) 
+9. [第1935题：使用 React hooks 怎么实现类里面的所有生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/993) 
+10. [第1914题：如何判断某个字符串长度（要求支持表情）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/992) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
