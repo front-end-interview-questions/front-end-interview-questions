@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1955题：::before 和::after 中双冒号和单冒号有什么区别、作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1022) 
-2. [第1954题：仅使用 CSS  怎么实现宽高自适应的正方形？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1021) 
-3. [第1922题：你对 babel 了解吗，能不能说说几个 stage 代表什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1020) 
-4. [第1948题：请实现下面的 myMap 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1019) 
-5. [第1949题：请实现下面的 treePath 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1018) 
-6. [第1950题：请实现下面的 product 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1017) 
-7. [第1951题：请实现下面的 sleep 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1016) 
-8. [第1952题：请实现下面的 myAll 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1015) 
-9. [第1953题：请实现下面的 sum 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1014) 
-10. [第1947题：请实现下面的 mergeArray 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1013) 
+1. [第1956题：说说你对 CSS 模块化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1023) 
+2. [第1955题：::before 和::after 中双冒号和单冒号有什么区别、作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1022) 
+3. [第1954题：仅使用 CSS  怎么实现宽高自适应的正方形？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1021) 
+4. [第1922题：你对 babel 了解吗，能不能说说几个 stage 代表什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1020) 
+5. [第1948题：请实现下面的 myMap 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1019) 
+6. [第1949题：请实现下面的 treePath 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1018) 
+7. [第1950题：请实现下面的 product 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1017) 
+8. [第1951题：请实现下面的 sleep 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1016) 
+9. [第1952题：请实现下面的 myAll 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1015) 
+10. [第1953题：请实现下面的 sum 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1014) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
