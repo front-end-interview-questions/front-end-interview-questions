@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1922题：你对 babel 了解吗，能不能说说几个 stage 代表什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1020) 
-2. [第1948题：请实现下面的 myMap 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1019) 
-3. [第1949题：请实现下面的 treePath 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1018) 
-4. [第1950题：请实现下面的 product 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1017) 
-5. [第1951题：请实现下面的 sleep 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1016) 
-6. [第1952题：请实现下面的 myAll 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1015) 
-7. [第1953题：请实现下面的 sum 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1014) 
-8. [第1947题：请实现下面的 mergeArray 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1013) 
-9. [第1946题：实现下面的 firstSingleChar 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1012) 
-10. [第1945题：实现下面的 reverseWord 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1011) 
+1. [第1954题：仅使用 CSS  怎么实现宽高自适应的正方形？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1021) 
+2. [第1922题：你对 babel 了解吗，能不能说说几个 stage 代表什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1020) 
+3. [第1948题：请实现下面的 myMap 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1019) 
+4. [第1949题：请实现下面的 treePath 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1018) 
+5. [第1950题：请实现下面的 product 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1017) 
+6. [第1951题：请实现下面的 sleep 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1016) 
+7. [第1952题：请实现下面的 myAll 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1015) 
+8. [第1953题：请实现下面的 sum 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1014) 
+9. [第1947题：请实现下面的 mergeArray 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1013) 
+10. [第1946题：实现下面的 firstSingleChar 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1012) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
