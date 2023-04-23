@@ -18,16 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1913题：讲讲React.memo 和 JS 的 memorize 函数的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1024) 
-2. [第1956题：说说你对 CSS 模块化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1023) 
-3. [第1955题：::before 和::after 中双冒号和单冒号有什么区别、作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1022) 
-4. [第1954题：仅使用 CSS  怎么实现宽高自适应的正方形？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1021) 
-5. [第1922题：你对 babel 了解吗，能不能说说几个 stage 代表什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1020) 
-6. [第1948题：请实现下面的 myMap 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1019) 
-7. [第1949题：请实现下面的 treePath 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1018) 
-8. [第1950题：请实现下面的 product 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1017) 
-9. [第1951题：请实现下面的 sleep 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1016) 
-10. [第1952题：请实现下面的 myAll 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1015) 
+1. [第1912题：使用正则表达式实现以下需求：筛选出数组中只包含大小写字母的字符串，并将结果转换成大写
+](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1025) 
+2. [第1913题：讲讲React.memo 和 JS 的 memorize 函数的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1024) 
+3. [第1956题：说说你对 CSS 模块化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1023) 
+4. [第1955题：::before 和::after 中双冒号和单冒号有什么区别、作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1022) 
+5. [第1954题：仅使用 CSS  怎么实现宽高自适应的正方形？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1021) 
+6. [第1922题：你对 babel 了解吗，能不能说说几个 stage 代表什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1020) 
+7. [第1948题：请实现下面的 myMap 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1019) 
+8. [第1949题：请实现下面的 treePath 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1018) 
+9. [第1950题：请实现下面的 product 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1017) 
+10. [第1951题：请实现下面的 sleep 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1016) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
