@@ -18,21 +18,21 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1965题：单页应用如何提高加载速度？
+1. [第1967题：taro 2.x 和 taro 3 最大区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1031) 
+2. [第1965题：单页应用如何提高加载速度？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1030) 
-2. [第1964题：以下等式是成立的吗：1_000_000 === 1000000 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1029) 
-3. [第1958题：页面加载的过程中，JS 文件是不是一定会阻塞 DOM 和 CSSOM 的构建？
+3. [第1964题：以下等式是成立的吗：1_000_000 === 1000000 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1029) 
+4. [第1958题：页面加载的过程中，JS 文件是不是一定会阻塞 DOM 和 CSSOM 的构建？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1028) 
-4. [第1957题：说说你对轮询的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1027) 
-5. [第1911题：实现一个等待函数，支持让 async 函数在执行时暂停一段时间，函数的入参为暂停的时间
+5. [第1957题：说说你对轮询的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1027) 
+6. [第1911题：实现一个等待函数，支持让 async 函数在执行时暂停一段时间，函数的入参为暂停的时间
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1026) 
-6. [第1912题：使用正则表达式实现以下需求：筛选出数组中只包含大小写字母的字符串，并将结果转换成大写
+7. [第1912题：使用正则表达式实现以下需求：筛选出数组中只包含大小写字母的字符串，并将结果转换成大写
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1025) 
-7. [第1913题：讲讲React.memo 和 JS 的 memorize 函数的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1024) 
-8. [第1956题：说说你对 CSS 模块化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1023) 
-9. [第1955题：::before 和::after 中双冒号和单冒号有什么区别、作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1022) 
-10. [第1954题：仅使用 CSS  怎么实现宽高自适应的正方形？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1021) 
+8. [第1913题：讲讲React.memo 和 JS 的 memorize 函数的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1024) 
+9. [第1956题：说说你对 CSS 模块化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1023) 
+10. [第1955题：::before 和::after 中双冒号和单冒号有什么区别、作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1022) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
