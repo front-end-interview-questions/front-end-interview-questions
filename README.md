@@ -18,23 +18,23 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1968题：聊聊 vite 和 webpack 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1033) 
-2. [第1966题：taro 的实现原理是怎么样的？
+1. [第1970题：说说你对 SSG 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1034) 
+2. [第1968题：聊聊 vite 和 webpack 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1033) 
+3. [第1966题：taro 的实现原理是怎么样的？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1032) 
-3. [第1967题：taro 2.x 和 taro 3 最大区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1031) 
-4. [第1965题：单页应用如何提高加载速度？
+4. [第1967题：taro 2.x 和 taro 3 最大区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1031) 
+5. [第1965题：单页应用如何提高加载速度？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1030) 
-5. [第1964题：以下等式是成立的吗：1_000_000 === 1000000 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1029) 
-6. [第1958题：页面加载的过程中，JS 文件是不是一定会阻塞 DOM 和 CSSOM 的构建？
+6. [第1964题：以下等式是成立的吗：1_000_000 === 1000000 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1029) 
+7. [第1958题：页面加载的过程中，JS 文件是不是一定会阻塞 DOM 和 CSSOM 的构建？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1028) 
-7. [第1957题：说说你对轮询的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1027) 
-8. [第1911题：实现一个等待函数，支持让 async 函数在执行时暂停一段时间，函数的入参为暂停的时间
+8. [第1957题：说说你对轮询的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1027) 
+9. [第1911题：实现一个等待函数，支持让 async 函数在执行时暂停一段时间，函数的入参为暂停的时间
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1026) 
-9. [第1912题：使用正则表达式实现以下需求：筛选出数组中只包含大小写字母的字符串，并将结果转换成大写
+10. [第1912题：使用正则表达式实现以下需求：筛选出数组中只包含大小写字母的字符串，并将结果转换成大写
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1025) 
-10. [第1913题：讲讲React.memo 和 JS 的 memorize 函数的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1024) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
