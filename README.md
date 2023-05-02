@@ -18,22 +18,21 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1969题：实现一个方法，从某个数值数组中，获取最小正数（非零非负数）的索引值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1035) 
-2. [第1970题：说说你对 SSG 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1034) 
-3. [第1968题：聊聊 vite 和 webpack 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1033) 
-4. [第1966题：taro 的实现原理是怎么样的？
+1. [第1963题：实现 useUpdate 方法，调用时强制组件重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1036) 
+2. [第1969题：实现一个方法，从某个数值数组中，获取最小正数（非零非负数）的索引值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1035) 
+3. [第1970题：说说你对 SSG 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1034) 
+4. [第1968题：聊聊 vite 和 webpack 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1033) 
+5. [第1966题：taro 的实现原理是怎么样的？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1032) 
-5. [第1967题：taro 2.x 和 taro 3 最大区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1031) 
-6. [第1965题：单页应用如何提高加载速度？
+6. [第1967题：taro 2.x 和 taro 3 最大区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1031) 
+7. [第1965题：单页应用如何提高加载速度？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1030) 
-7. [第1964题：以下等式是成立的吗：1_000_000 === 1000000 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1029) 
-8. [第1958题：页面加载的过程中，JS 文件是不是一定会阻塞 DOM 和 CSSOM 的构建？
+8. [第1964题：以下等式是成立的吗：1_000_000 === 1000000 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1029) 
+9. [第1958题：页面加载的过程中，JS 文件是不是一定会阻塞 DOM 和 CSSOM 的构建？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1028) 
-9. [第1957题：说说你对轮询的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1027) 
-10. [第1911题：实现一个等待函数，支持让 async 函数在执行时暂停一段时间，函数的入参为暂停的时间
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1026) 
+10. [第1957题：说说你对轮询的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1027) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
