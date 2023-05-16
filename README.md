@@ -18,19 +18,19 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1984题：CSP（Content Security Policy）可以解决什么问题?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1038) 
-2. [第1962题：说说对 requestIdleCallback 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1037) 
-3. [第1963题：实现 useUpdate 方法，调用时强制组件重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1036) 
-4. [第1969题：实现一个方法，从某个数值数组中，获取最小正数（非零非负数）的索引值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1035) 
-5. [第1970题：说说你对 SSG 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1034) 
-6. [第1968题：聊聊 vite 和 webpack 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1033) 
-7. [第1966题：taro 的实现原理是怎么样的？
+1. [第1982题：React 和 Vue 在技术层面有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1039) 
+2. [第1984题：CSP（Content Security Policy）可以解决什么问题?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1038) 
+3. [第1962题：说说对 requestIdleCallback 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1037) 
+4. [第1963题：实现 useUpdate 方法，调用时强制组件重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1036) 
+5. [第1969题：实现一个方法，从某个数值数组中，获取最小正数（非零非负数）的索引值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1035) 
+6. [第1970题：说说你对 SSG 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1034) 
+7. [第1968题：聊聊 vite 和 webpack 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1033) 
+8. [第1966题：taro 的实现原理是怎么样的？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1032) 
-8. [第1967题：taro 2.x 和 taro 3 最大区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1031) 
-9. [第1965题：单页应用如何提高加载速度？
+9. [第1967题：taro 2.x 和 taro 3 最大区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1031) 
+10. [第1965题：单页应用如何提高加载速度？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1030) 
-10. [第1964题：以下等式是成立的吗：1_000_000 === 1000000 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1029) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
