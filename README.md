@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1989题：怎么使用 Math.max、Math.min 获取数组中的最值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1042) 
-2. [第1975题：说说你对前端工程化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1041) 
-3. [第1981题：怎么实现虚拟列表？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1040) 
-4. [第1982题：React 和 Vue 在技术层面有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1039) 
-5. [第1984题：CSP（Content Security Policy）可以解决什么问题?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1038) 
-6. [第1962题：说说对 requestIdleCallback 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1037) 
-7. [第1963题：实现 useUpdate 方法，调用时强制组件重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1036) 
-8. [第1969题：实现一个方法，从某个数值数组中，获取最小正数（非零非负数）的索引值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1035) 
-9. [第1970题：说说你对 SSG 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1034) 
-10. [第1968题：聊聊 vite 和 webpack 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1033) 
+1. [第1990题：Electron 有哪些特点和优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1044) 
+2. [第1991题：Electron 中的主进程和渲染进程分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1043) 
+3. [第1989题：怎么使用 Math.max、Math.min 获取数组中的最值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1042) 
+4. [第1975题：说说你对前端工程化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1041) 
+5. [第1981题：怎么实现虚拟列表？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1040) 
+6. [第1982题：React 和 Vue 在技术层面有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1039) 
+7. [第1984题：CSP（Content Security Policy）可以解决什么问题?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1038) 
+8. [第1962题：说说对 requestIdleCallback 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1037) 
+9. [第1963题：实现 useUpdate 方法，调用时强制组件重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1036) 
+10. [第1969题：实现一个方法，从某个数值数组中，获取最小正数（非零非负数）的索引值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1035) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
