@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1980题：如果要设计一个转盘组件，你会考虑哪些方面？有哪些是需要和业务方确认的技术细节？另外，如何从前端的角度进行防刷？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1047) 
-2. [第1983题：pm2守护进程的原理是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1046) 
-3. [第1988题：说说下面代码执行后的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1045) 
-4. [第1990题：Electron 有哪些特点和优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1044) 
-5. [第1991题：Electron 中的主进程和渲染进程分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1043) 
-6. [第1989题：怎么使用 Math.max、Math.min 获取数组中的最值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1042) 
-7. [第1975题：说说你对前端工程化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1041) 
-8. [第1981题：怎么实现虚拟列表？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1040) 
-9. [第1982题：React 和 Vue 在技术层面有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1039) 
-10. [第1984题：CSP（Content Security Policy）可以解决什么问题?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1038) 
+1. [第1986题：两个字符串对比, 得出结论都做了什么操作, 比如插入或者删除](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1048) 
+2. [第1980题：如果要设计一个转盘组件，你会考虑哪些方面？有哪些是需要和业务方确认的技术细节？另外，如何从前端的角度进行防刷？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1047) 
+3. [第1983题：pm2守护进程的原理是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1046) 
+4. [第1988题：说说下面代码执行后的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1045) 
+5. [第1990题：Electron 有哪些特点和优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1044) 
+6. [第1991题：Electron 中的主进程和渲染进程分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1043) 
+7. [第1989题：怎么使用 Math.max、Math.min 获取数组中的最值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1042) 
+8. [第1975题：说说你对前端工程化的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1041) 
+9. [第1981题：怎么实现虚拟列表？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1040) 
+10. [第1982题：React 和 Vue 在技术层面有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1039) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
