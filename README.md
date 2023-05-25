@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1959题：说说你对 ToPrimitive 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1051) 
-2. [第1985题：不定长二维数组的全排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1050) 
-3. [第1992题：两个字符串的删除操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1049) 
-4. [第1986题：两个字符串对比, 得出结论都做了什么操作, 比如插入或者删除](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1048) 
-5. [第1980题：如果要设计一个转盘组件，你会考虑哪些方面？有哪些是需要和业务方确认的技术细节？另外，如何从前端的角度进行防刷？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1047) 
-6. [第1983题：pm2守护进程的原理是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1046) 
-7. [第1988题：说说下面代码执行后的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1045) 
-8. [第1990题：Electron 有哪些特点和优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1044) 
-9. [第1991题：Electron 中的主进程和渲染进程分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1043) 
-10. [第1989题：怎么使用 Math.max、Math.min 获取数组中的最值？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1042) 
+1. [第1960题：说说对 React 中Element、Component、Node、Instance 四个概念的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1052) 
+2. [第1959题：说说你对 ToPrimitive 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1051) 
+3. [第1985题：不定长二维数组的全排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1050) 
+4. [第1992题：两个字符串的删除操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1049) 
+5. [第1986题：两个字符串对比, 得出结论都做了什么操作, 比如插入或者删除](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1048) 
+6. [第1980题：如果要设计一个转盘组件，你会考虑哪些方面？有哪些是需要和业务方确认的技术细节？另外，如何从前端的角度进行防刷？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1047) 
+7. [第1983题：pm2守护进程的原理是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1046) 
+8. [第1988题：说说下面代码执行后的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1045) 
+9. [第1990题：Electron 有哪些特点和优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1044) 
+10. [第1991题：Electron 中的主进程和渲染进程分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1043) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
