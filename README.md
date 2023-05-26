@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1993题：说说你对 koa 洋葱模型的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1058) 
-2. [第1994题：在没有async await 的时候, koa是怎么实现的洋葱模型?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1057) 
-3. [第1997题：说下 websocket 的连接原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1056) 
-4. [第1999题：https是如何保证安全的，又是如何保证不被中间人攻击的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1055) 
-5. [第2000题：怎么判断一个对象是否是 React 元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1054) 
-6. [第1998题：websocket 中的 Handshaking 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1053) 
-7. [第1960题：说说对 React 中Element、Component、Node、Instance 四个概念的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1052) 
-8. [第1959题：说说你对 ToPrimitive 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1051) 
-9. [第1985题：不定长二维数组的全排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1050) 
-10. [第1992题：两个字符串的删除操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1049) 
+1. [第1976题：Node.js 如何调试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1059) 
+2. [第1993题：说说你对 koa 洋葱模型的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1058) 
+3. [第1994题：在没有async await 的时候, koa是怎么实现的洋葱模型?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1057) 
+4. [第1997题：说下 websocket 的连接原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1056) 
+5. [第1999题：https是如何保证安全的，又是如何保证不被中间人攻击的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1055) 
+6. [第2000题：怎么判断一个对象是否是 React 元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1054) 
+7. [第1998题：websocket 中的 Handshaking 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1053) 
+8. [第1960题：说说对 React 中Element、Component、Node、Instance 四个概念的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1052) 
+9. [第1959题：说说你对 ToPrimitive 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1051) 
+10. [第1985题：不定长二维数组的全排列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1050) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
