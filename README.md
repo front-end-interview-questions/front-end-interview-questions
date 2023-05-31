@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2009题：Promise then 第二个参数和catch的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1075) 
-2. [第2007题：实现一个函数, 可以间隔输出](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1074) 
-3. [第2006题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1073) 
-4. [第2005题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1072) 
-5. [第2005题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1071) 
-6. [第2004题：为什么小程序里拿不到dom相关的api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1070) 
-7. [第2003题：小程序的双线程分别做的什么事情？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1069) 
-8. [第2034题：generator 是怎么做到中断和恢复的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1068) 
-9. [第2032题：为什么要区分宏任务和微任务？它们的执行优先级是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1067) 
-10. [第2031题：导致 JavaScript 中 this 指向混乱的原因是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1066) 
+1. [第2010题：Promise 的 finally 怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1076) 
+2. [第2009题：Promise then 第二个参数和catch的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1075) 
+3. [第2007题：实现一个函数, 可以间隔输出](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1074) 
+4. [第2006题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1073) 
+5. [第2005题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1072) 
+6. [第2005题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1071) 
+7. [第2004题：为什么小程序里拿不到dom相关的api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1070) 
+8. [第2003题：小程序的双线程分别做的什么事情？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1069) 
+9. [第2034题：generator 是怎么做到中断和恢复的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1068) 
+10. [第2032题：为什么要区分宏任务和微任务？它们的执行优先级是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1067) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
