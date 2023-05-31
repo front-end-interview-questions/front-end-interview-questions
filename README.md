@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2034题：generator 是怎么做到中断和恢复的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1068) 
-2. [第2032题：为什么要区分宏任务和微任务？它们的执行优先级是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1067) 
-3. [第2031题：导致 JavaScript 中 this 指向混乱的原因是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1066) 
-4. [第2030题：vue 的响应式开发比命令式有哪些优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1065) 
-5. [第1995题：koa 框架中，该怎么处理中间件的异常？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1064) 
-6. [第2011题：说说你对 webpack5 模块联邦的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1063) 
-7. [第2012题：Web Worker 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1062) 
-8. [第2013题：useEffect 的第二个参数, 传空数组和传依赖数组有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1061) 
-9. [第2014题：如果在 useEffect 的第一个参数中 return 了一个函数，那么第二个参数分别传空数组和传依赖数组，该函数分别是在什么时候执行？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1060) 
-10. [第1976题：Node.js 如何调试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1059) 
+1. [第2003题：小程序的双线程分别做的什么事情？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1069) 
+2. [第2034题：generator 是怎么做到中断和恢复的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1068) 
+3. [第2032题：为什么要区分宏任务和微任务？它们的执行优先级是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1067) 
+4. [第2031题：导致 JavaScript 中 this 指向混乱的原因是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1066) 
+5. [第2030题：vue 的响应式开发比命令式有哪些优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1065) 
+6. [第1995题：koa 框架中，该怎么处理中间件的异常？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1064) 
+7. [第2011题：说说你对 webpack5 模块联邦的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1063) 
+8. [第2012题：Web Worker 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1062) 
+9. [第2013题：useEffect 的第二个参数, 传空数组和传依赖数组有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1061) 
+10. [第2014题：如果在 useEffect 的第一个参数中 return 了一个函数，那么第二个参数分别传空数组和传依赖数组，该函数分别是在什么时候执行？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1060) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
