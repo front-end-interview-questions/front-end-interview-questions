@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2006题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1073) 
-2. [第2005题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1072) 
-3. [第2005题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1071) 
-4. [第2004题：为什么小程序里拿不到dom相关的api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1070) 
-5. [第2003题：小程序的双线程分别做的什么事情？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1069) 
-6. [第2034题：generator 是怎么做到中断和恢复的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1068) 
-7. [第2032题：为什么要区分宏任务和微任务？它们的执行优先级是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1067) 
-8. [第2031题：导致 JavaScript 中 this 指向混乱的原因是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1066) 
-9. [第2030题：vue 的响应式开发比命令式有哪些优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1065) 
-10. [第1995题：koa 框架中，该怎么处理中间件的异常？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1064) 
+1. [第2007题：实现一个函数, 可以间隔输出](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1074) 
+2. [第2006题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1073) 
+3. [第2005题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1072) 
+4. [第2005题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1071) 
+5. [第2004题：为什么小程序里拿不到dom相关的api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1070) 
+6. [第2003题：小程序的双线程分别做的什么事情？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1069) 
+7. [第2034题：generator 是怎么做到中断和恢复的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1068) 
+8. [第2032题：为什么要区分宏任务和微任务？它们的执行优先级是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1067) 
+9. [第2031题：导致 JavaScript 中 this 指向混乱的原因是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1066) 
+10. [第2030题：vue 的响应式开发比命令式有哪些优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1065) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
