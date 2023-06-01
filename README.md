@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2026题：如果要实现一个类似“谷歌图片”的系统，你会有哪些方面的考虑？
+1. [第2035题：请按以下要求实现方法 fn ：遇到退格字符就删除前面的字符，遇到两个退格就删除两个字符](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1086) 
+2. [第2026题：如果要实现一个类似“谷歌图片”的系统，你会有哪些方面的考虑？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1085) 
-2. [第2027题：前端路由 `a -> b -> c`这样前进，也可以返回 `c -> b -> a`，用什么数据结构来存比较高效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1084) 
-3. [第2040题：typescript 中的 is 关键字有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1083) 
-4. [第2039题：Http 3.0 是基于 udp 的，那么它是如何保证传输可靠性的?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1082) 
-5. [第2038题：说说下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1081) 
-6. [第2037题：说说下面代码的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1080) 
-7. [第2017题：浏览器有哪几种缓存，各种缓存的优先级是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1079) 
-8. [第2016题：useRef / ref / forwardsRef 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1078) 
-9. [第2036题：简单说下你对 Electron 架构的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1077) 
-10. [第2010题：Promise 的 finally 怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1076) 
+3. [第2027题：前端路由 `a -> b -> c`这样前进，也可以返回 `c -> b -> a`，用什么数据结构来存比较高效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1084) 
+4. [第2040题：typescript 中的 is 关键字有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1083) 
+5. [第2039题：Http 3.0 是基于 udp 的，那么它是如何保证传输可靠性的?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1082) 
+6. [第2038题：说说下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1081) 
+7. [第2037题：说说下面代码的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1080) 
+8. [第2017题：浏览器有哪几种缓存，各种缓存的优先级是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1079) 
+9. [第2016题：useRef / ref / forwardsRef 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1078) 
+10. [第2036题：简单说下你对 Electron 架构的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1077) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
