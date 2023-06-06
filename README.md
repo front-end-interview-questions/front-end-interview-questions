@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2033题：实现 compose 函数, 类似于 koa 的中间件洋葱模型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1087) 
-2. [第2035题：请按以下要求实现方法 fn ：遇到退格字符就删除前面的字符，遇到两个退格就删除两个字符](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1086) 
-3. [第2026题：如果要实现一个类似“谷歌图片”的系统，你会有哪些方面的考虑？
+1. [第2041题：计算出下面数组中的平均时间](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1088) 
+2. [第2033题：实现 compose 函数, 类似于 koa 的中间件洋葱模型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1087) 
+3. [第2035题：请按以下要求实现方法 fn ：遇到退格字符就删除前面的字符，遇到两个退格就删除两个字符](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1086) 
+4. [第2026题：如果要实现一个类似“谷歌图片”的系统，你会有哪些方面的考虑？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1085) 
-4. [第2027题：前端路由 `a -> b -> c`这样前进，也可以返回 `c -> b -> a`，用什么数据结构来存比较高效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1084) 
-5. [第2040题：typescript 中的 is 关键字有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1083) 
-6. [第2039题：Http 3.0 是基于 udp 的，那么它是如何保证传输可靠性的?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1082) 
-7. [第2038题：说说下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1081) 
-8. [第2037题：说说下面代码的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1080) 
-9. [第2017题：浏览器有哪几种缓存，各种缓存的优先级是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1079) 
-10. [第2016题：useRef / ref / forwardsRef 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1078) 
+5. [第2027题：前端路由 `a -> b -> c`这样前进，也可以返回 `c -> b -> a`，用什么数据结构来存比较高效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1084) 
+6. [第2040题：typescript 中的 is 关键字有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1083) 
+7. [第2039题：Http 3.0 是基于 udp 的，那么它是如何保证传输可靠性的?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1082) 
+8. [第2038题：说说下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1081) 
+9. [第2037题：说说下面代码的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1080) 
+10. [第2017题：浏览器有哪几种缓存，各种缓存的优先级是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1079) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
