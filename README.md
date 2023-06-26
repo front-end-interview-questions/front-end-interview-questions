@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2002题：说说微信小程序的架构? ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1093) 
-2. [第2022题：使用 js 实现有序数组原地去重](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1092) 
-3. [第2025题：前端的页面截图怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1091) 
-4. [第2042题：canvas 和 webgl 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1090) 
-5. [第2029题：有效的变位词](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1089) 
-6. [第2041题：计算出下面数组中的平均时间](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1088) 
-7. [第2033题：实现 compose 函数, 类似于 koa 的中间件洋葱模型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1087) 
-8. [第2035题：请按以下要求实现方法 fn ：遇到退格字符就删除前面的字符，遇到两个退格就删除两个字符](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1086) 
-9. [第2026题：如果要实现一个类似“谷歌图片”的系统，你会有哪些方面的考虑？
+1. [第1961题：怎么在代码中判断一个 React 组件是 class component 还是 function component？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1094) 
+2. [第2002题：说说微信小程序的架构? ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1093) 
+3. [第2022题：使用 js 实现有序数组原地去重](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1092) 
+4. [第2025题：前端的页面截图怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1091) 
+5. [第2042题：canvas 和 webgl 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1090) 
+6. [第2029题：有效的变位词](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1089) 
+7. [第2041题：计算出下面数组中的平均时间](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1088) 
+8. [第2033题：实现 compose 函数, 类似于 koa 的中间件洋葱模型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1087) 
+9. [第2035题：请按以下要求实现方法 fn ：遇到退格字符就删除前面的字符，遇到两个退格就删除两个字符](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1086) 
+10. [第2026题：如果要实现一个类似“谷歌图片”的系统，你会有哪些方面的考虑？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1085) 
-10. [第2027题：前端路由 `a -> b -> c`这样前进，也可以返回 `c -> b -> a`，用什么数据结构来存比较高效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1084) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
