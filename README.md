@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2029题：有效的变位词](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1089) 
-2. [第2041题：计算出下面数组中的平均时间](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1088) 
-3. [第2033题：实现 compose 函数, 类似于 koa 的中间件洋葱模型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1087) 
-4. [第2035题：请按以下要求实现方法 fn ：遇到退格字符就删除前面的字符，遇到两个退格就删除两个字符](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1086) 
-5. [第2026题：如果要实现一个类似“谷歌图片”的系统，你会有哪些方面的考虑？
+1. [第2042题：canvas 和 webgl 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1090) 
+2. [第2029题：有效的变位词](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1089) 
+3. [第2041题：计算出下面数组中的平均时间](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1088) 
+4. [第2033题：实现 compose 函数, 类似于 koa 的中间件洋葱模型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1087) 
+5. [第2035题：请按以下要求实现方法 fn ：遇到退格字符就删除前面的字符，遇到两个退格就删除两个字符](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1086) 
+6. [第2026题：如果要实现一个类似“谷歌图片”的系统，你会有哪些方面的考虑？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1085) 
-6. [第2027题：前端路由 `a -> b -> c`这样前进，也可以返回 `c -> b -> a`，用什么数据结构来存比较高效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1084) 
-7. [第2040题：typescript 中的 is 关键字有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1083) 
-8. [第2039题：Http 3.0 是基于 udp 的，那么它是如何保证传输可靠性的?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1082) 
-9. [第2038题：说说下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1081) 
-10. [第2037题：说说下面代码的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1080) 
+7. [第2027题：前端路由 `a -> b -> c`这样前进，也可以返回 `c -> b -> a`，用什么数据结构来存比较高效](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1084) 
+8. [第2040题：typescript 中的 is 关键字有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1083) 
+9. [第2039题：Http 3.0 是基于 udp 的，那么它是如何保证传输可靠性的?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1082) 
+10. [第2038题：说说下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1081) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
