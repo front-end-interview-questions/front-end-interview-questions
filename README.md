@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2008题：删除链表的一个节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1103) 
-2. [第2018题：请实现一个函数，要求能在页面请求很多时，尽可能快地按照顺序输出返回的结果。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1102) 
-3. [第2019题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1101) 
-4. [第2023题：实现一个请求函数：fetchWithRetry，要求会最多自动重试 3 次，任意一次成功就直接返回](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1100) 
-5. [第2024题：链表中，环的入口节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1099) 
-6. [第2028题：多叉树指定层节点的个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1098) 
-7. [第2044题：Blob，ArrayBuffer，Base64 分别有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1097) 
-8. [第2043题：Blob，ArrayBuffer，Base64 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1096) 
-9. [第520题：请手写“快速排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1095) 
-10. [第1961题：怎么在代码中判断一个 React 组件是 class component 还是 function component？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1094) 
+1. [第2001题：Koa 中，如果一个中间件没有调用 await next()，后续的中间件还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1104) 
+2. [第2008题：删除链表的一个节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1103) 
+3. [第2018题：请实现一个函数，要求能在页面请求很多时，尽可能快地按照顺序输出返回的结果。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1102) 
+4. [第2019题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1101) 
+5. [第2023题：实现一个请求函数：fetchWithRetry，要求会最多自动重试 3 次，任意一次成功就直接返回](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1100) 
+6. [第2024题：链表中，环的入口节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1099) 
+7. [第2028题：多叉树指定层节点的个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1098) 
+8. [第2044题：Blob，ArrayBuffer，Base64 分别有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1097) 
+9. [第2043题：Blob，ArrayBuffer，Base64 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1096) 
+10. [第520题：请手写“快速排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1095) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
