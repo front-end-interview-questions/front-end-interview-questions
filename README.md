@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2028题：多叉树指定层节点的个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1098) 
-2. [第2044题：Blob，ArrayBuffer，Base64 分别有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1097) 
-3. [第2043题：Blob，ArrayBuffer，Base64 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1096) 
-4. [第520题：请手写“快速排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1095) 
-5. [第1961题：怎么在代码中判断一个 React 组件是 class component 还是 function component？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1094) 
-6. [第2002题：说说微信小程序的架构? ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1093) 
-7. [第2022题：使用 js 实现有序数组原地去重](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1092) 
-8. [第2025题：前端的页面截图怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1091) 
-9. [第2042题：canvas 和 webgl 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1090) 
-10. [第2029题：有效的变位词](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1089) 
+1. [第2024题：链表中，环的入口节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1099) 
+2. [第2028题：多叉树指定层节点的个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1098) 
+3. [第2044题：Blob，ArrayBuffer，Base64 分别有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1097) 
+4. [第2043题：Blob，ArrayBuffer，Base64 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1096) 
+5. [第520题：请手写“快速排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1095) 
+6. [第1961题：怎么在代码中判断一个 React 组件是 class component 还是 function component？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1094) 
+7. [第2002题：说说微信小程序的架构? ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1093) 
+8. [第2022题：使用 js 实现有序数组原地去重](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1092) 
+9. [第2025题：前端的页面截图怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1091) 
+10. [第2042题：canvas 和 webgl 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1090) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
