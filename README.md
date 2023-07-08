@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2019题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1101) 
-2. [第2023题：实现一个请求函数：fetchWithRetry，要求会最多自动重试 3 次，任意一次成功就直接返回](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1100) 
-3. [第2024题：链表中，环的入口节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1099) 
-4. [第2028题：多叉树指定层节点的个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1098) 
-5. [第2044题：Blob，ArrayBuffer，Base64 分别有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1097) 
-6. [第2043题：Blob，ArrayBuffer，Base64 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1096) 
-7. [第520题：请手写“快速排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1095) 
-8. [第1961题：怎么在代码中判断一个 React 组件是 class component 还是 function component？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1094) 
-9. [第2002题：说说微信小程序的架构? ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1093) 
-10. [第2022题：使用 js 实现有序数组原地去重](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1092) 
+1. [第2018题：请实现一个函数，要求能在页面请求很多时，尽可能快地按照顺序输出返回的结果。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1102) 
+2. [第2019题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1101) 
+3. [第2023题：实现一个请求函数：fetchWithRetry，要求会最多自动重试 3 次，任意一次成功就直接返回](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1100) 
+4. [第2024题：链表中，环的入口节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1099) 
+5. [第2028题：多叉树指定层节点的个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1098) 
+6. [第2044题：Blob，ArrayBuffer，Base64 分别有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1097) 
+7. [第2043题：Blob，ArrayBuffer，Base64 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1096) 
+8. [第520题：请手写“快速排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1095) 
+9. [第1961题：怎么在代码中判断一个 React 组件是 class component 还是 function component？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1094) 
+10. [第2002题：说说微信小程序的架构? ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1093) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
