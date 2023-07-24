@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2021题：CSS3 中 transition 和 animation 的属性分别有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1106) 
-2. [第1996题：body-parser 这个中间件是做什么用的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1105) 
-3. [第2001题：Koa 中，如果一个中间件没有调用 await next()，后续的中间件还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1104) 
-4. [第2008题：删除链表的一个节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1103) 
-5. [第2018题：请实现一个函数，要求能在页面请求很多时，尽可能快地按照顺序输出返回的结果。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1102) 
-6. [第2019题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1101) 
-7. [第2023题：实现一个请求函数：fetchWithRetry，要求会最多自动重试 3 次，任意一次成功就直接返回](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1100) 
-8. [第2024题：链表中，环的入口节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1099) 
-9. [第2028题：多叉树指定层节点的个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1098) 
-10. [第2044题：Blob，ArrayBuffer，Base64 分别有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1097) 
+1. [第2015题：讲一下png8、png16、png32的区别，并简单讲讲 png 的压缩原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1107) 
+2. [第2021题：CSS3 中 transition 和 animation 的属性分别有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1106) 
+3. [第1996题：body-parser 这个中间件是做什么用的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1105) 
+4. [第2001题：Koa 中，如果一个中间件没有调用 await next()，后续的中间件还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1104) 
+5. [第2008题：删除链表的一个节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1103) 
+6. [第2018题：请实现一个函数，要求能在页面请求很多时，尽可能快地按照顺序输出返回的结果。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1102) 
+7. [第2019题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1101) 
+8. [第2023题：实现一个请求函数：fetchWithRetry，要求会最多自动重试 3 次，任意一次成功就直接返回](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1100) 
+9. [第2024题：链表中，环的入口节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1099) 
+10. [第2028题：多叉树指定层节点的个数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1098) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
