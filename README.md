@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2046题：如何禁止别人调试自己的前端代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1110) 
-2. [第2020题：useMemo 和 useCallback 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1109) 
-3. [第1987题：数组转树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1108) 
-4. [第2015题：讲一下png8、png16、png32的区别，并简单讲讲 png 的压缩原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1107) 
-5. [第2021题：CSS3 中 transition 和 animation 的属性分别有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1106) 
-6. [第1996题：body-parser 这个中间件是做什么用的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1105) 
-7. [第2001题：Koa 中，如果一个中间件没有调用 await next()，后续的中间件还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1104) 
-8. [第2008题：删除链表的一个节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1103) 
-9. [第2018题：请实现一个函数，要求能在页面请求很多时，尽可能快地按照顺序输出返回的结果。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1102) 
-10. [第2019题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1101) 
+1. [第2047题：是否有使用过空值合并运算符（??），举几个可以使用的场景。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1111) 
+2. [第2046题：如何禁止别人调试自己的前端代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1110) 
+3. [第2020题：useMemo 和 useCallback 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1109) 
+4. [第1987题：数组转树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1108) 
+5. [第2015题：讲一下png8、png16、png32的区别，并简单讲讲 png 的压缩原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1107) 
+6. [第2021题：CSS3 中 transition 和 animation 的属性分别有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1106) 
+7. [第1996题：body-parser 这个中间件是做什么用的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1105) 
+8. [第2001题：Koa 中，如果一个中间件没有调用 await next()，后续的中间件还会执行吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1104) 
+9. [第2008题：删除链表的一个节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1103) 
+10. [第2018题：请实现一个函数，要求能在页面请求很多时，尽可能快地按照顺序输出返回的结果。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1102) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
