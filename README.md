@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2048题：addEventListener 第三个参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1116) 
-2. [第1977题：React 中，怎么实现父组件调用子组件中的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1115) 
-3. [第1974题：写出一个函数trans，将数字转换成汉语的输出，输入为不超过10000亿的数字。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1114) 
-4. [第1973题：去除字符串中出现次数最少的字符，不改变原字符串的顺序。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1113) 
-5. [第1971题：实现一个批量请求函数，要求能够限制并发量](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1112) 
-6. [第2047题：是否有使用过空值合并运算符（??），举几个可以使用的场景。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1111) 
-7. [第2046题：如何禁止别人调试自己的前端代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1110) 
-8. [第2020题：useMemo 和 useCallback 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1109) 
-9. [第1987题：数组转树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1108) 
-10. [第2015题：讲一下png8、png16、png32的区别，并简单讲讲 png 的压缩原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1107) 
+1. [第2049题：object-fit 用法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1117) 
+2. [第2048题：addEventListener 第三个参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1116) 
+3. [第1977题：React 中，怎么实现父组件调用子组件中的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1115) 
+4. [第1974题：写出一个函数trans，将数字转换成汉语的输出，输入为不超过10000亿的数字。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1114) 
+5. [第1973题：去除字符串中出现次数最少的字符，不改变原字符串的顺序。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1113) 
+6. [第1971题：实现一个批量请求函数，要求能够限制并发量](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1112) 
+7. [第2047题：是否有使用过空值合并运算符（??），举几个可以使用的场景。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1111) 
+8. [第2046题：如何禁止别人调试自己的前端代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1110) 
+9. [第2020题：useMemo 和 useCallback 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1109) 
+10. [第1987题：数组转树](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1108) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
