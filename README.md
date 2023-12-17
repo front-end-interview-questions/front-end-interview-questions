@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2059题：如何让 Proxy 去监听基本数据类型的变化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1127) 
-2. [第2058题：Proxy 能够监听到对象中的对象的引用吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1126) 
-3. [第2057题：需要在本地实现一个聊天室，多个tab页相互通信，不能用websocket，你会怎么做？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1125) 
-4. [第2056题：git 中 rebase、reset、revert 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1124) 
-5. [第2055题：如果空数组调用reduce会发生什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1123) 
-6. [第2054题：数组中的reduce方法有用过吗，说说它的具体用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1122) 
-7. [第2053题：改变this指向的方法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1121) 
-8. [第2052题：flex 布局下，怎么改变元素的顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1120) 
-9. [第2051题：”flex: auto;“是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1119) 
-10. [第2050题：实现lodash的set和get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1118) 
+1. [第2060题：说说 Vuex 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1128) 
+2. [第2059题：如何让 Proxy 去监听基本数据类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1127) 
+3. [第2058题：Proxy 能够监听到对象中的对象的引用吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1126) 
+4. [第2057题：需要在本地实现一个聊天室，多个tab页相互通信，不能用websocket，你会怎么做？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1125) 
+5. [第2056题：git 中 rebase、reset、revert 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1124) 
+6. [第2055题：如果空数组调用reduce会发生什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1123) 
+7. [第2054题：数组中的reduce方法有用过吗，说说它的具体用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1122) 
+8. [第2053题：改变this指向的方法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1121) 
+9. [第2052题：flex 布局下，怎么改变元素的顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1120) 
+10. [第2051题：”flex: auto;“是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1119) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
