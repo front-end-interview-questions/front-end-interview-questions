@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2057题：需要在本地实现一个聊天室，多个tab页相互通信，不能用websocket，你会怎么做？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1125) 
-2. [第2056题：git 中 rebase、reset、revert 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1124) 
-3. [第2055题：如果空数组调用reduce会发生什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1123) 
-4. [第2054题：数组中的reduce方法有用过吗，说说它的具体用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1122) 
-5. [第2053题：改变this指向的方法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1121) 
-6. [第2052题：flex 布局下，怎么改变元素的顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1120) 
-7. [第2051题：”flex: auto;“是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1119) 
-8. [第2050题：实现lodash的set和get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1118) 
-9. [第2049题：object-fit 用法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1117) 
-10. [第2048题：addEventListener 第三个参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1116) 
+1. [第2058题：Proxy 能够监听到对象中的对象的引用吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1126) 
+2. [第2057题：需要在本地实现一个聊天室，多个tab页相互通信，不能用websocket，你会怎么做？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1125) 
+3. [第2056题：git 中 rebase、reset、revert 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1124) 
+4. [第2055题：如果空数组调用reduce会发生什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1123) 
+5. [第2054题：数组中的reduce方法有用过吗，说说它的具体用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1122) 
+6. [第2053题：改变this指向的方法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1121) 
+7. [第2052题：flex 布局下，怎么改变元素的顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1120) 
+8. [第2051题：”flex: auto;“是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1119) 
+9. [第2050题：实现lodash的set和get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1118) 
+10. [第2049题：object-fit 用法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1117) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
