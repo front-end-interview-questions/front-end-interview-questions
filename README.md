@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2051题：”flex: auto;“是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1119) 
-2. [第2050题：实现lodash的set和get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1118) 
-3. [第2049题：object-fit 用法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1117) 
-4. [第2048题：addEventListener 第三个参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1116) 
-5. [第1977题：React 中，怎么实现父组件调用子组件中的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1115) 
-6. [第1974题：写出一个函数trans，将数字转换成汉语的输出，输入为不超过10000亿的数字。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1114) 
-7. [第1973题：去除字符串中出现次数最少的字符，不改变原字符串的顺序。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1113) 
-8. [第1971题：实现一个批量请求函数，要求能够限制并发量](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1112) 
-9. [第2047题：是否有使用过空值合并运算符（??），举几个可以使用的场景。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1111) 
-10. [第2046题：如何禁止别人调试自己的前端代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1110) 
+1. [第2052题：flex 布局下，怎么改变元素的顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1120) 
+2. [第2051题：”flex: auto;“是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1119) 
+3. [第2050题：实现lodash的set和get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1118) 
+4. [第2049题：object-fit 用法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1117) 
+5. [第2048题：addEventListener 第三个参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1116) 
+6. [第1977题：React 中，怎么实现父组件调用子组件中的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1115) 
+7. [第1974题：写出一个函数trans，将数字转换成汉语的输出，输入为不超过10000亿的数字。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1114) 
+8. [第1973题：去除字符串中出现次数最少的字符，不改变原字符串的顺序。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1113) 
+9. [第1971题：实现一个批量请求函数，要求能够限制并发量](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1112) 
+10. [第2047题：是否有使用过空值合并运算符（??），举几个可以使用的场景。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1111) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
