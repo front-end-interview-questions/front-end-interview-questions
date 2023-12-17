@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2054题：数组中的reduce方法有用过吗，说说它的具体用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1122) 
-2. [第2053题：改变this指向的方法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1121) 
-3. [第2052题：flex 布局下，怎么改变元素的顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1120) 
-4. [第2051题：”flex: auto;“是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1119) 
-5. [第2050题：实现lodash的set和get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1118) 
-6. [第2049题：object-fit 用法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1117) 
-7. [第2048题：addEventListener 第三个参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1116) 
-8. [第1977题：React 中，怎么实现父组件调用子组件中的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1115) 
-9. [第1974题：写出一个函数trans，将数字转换成汉语的输出，输入为不超过10000亿的数字。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1114) 
-10. [第1973题：去除字符串中出现次数最少的字符，不改变原字符串的顺序。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1113) 
+1. [第2055题：如果空数组调用reduce会发生什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1123) 
+2. [第2054题：数组中的reduce方法有用过吗，说说它的具体用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1122) 
+3. [第2053题：改变this指向的方法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1121) 
+4. [第2052题：flex 布局下，怎么改变元素的顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1120) 
+5. [第2051题：”flex: auto;“是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1119) 
+6. [第2050题：实现lodash的set和get方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1118) 
+7. [第2049题：object-fit 用法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1117) 
+8. [第2048题：addEventListener 第三个参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1116) 
+9. [第1977题：React 中，怎么实现父组件调用子组件中的方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1115) 
+10. [第1974题：写出一个函数trans，将数字转换成汉语的输出，输入为不超过10000亿的数字。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1114) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
