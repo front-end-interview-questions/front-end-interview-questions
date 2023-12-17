@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2061题：如果某个页面有几百个函数需要执行，可以怎么优化页面的性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1129) 
-2. [第2060题：说说 Vuex 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1128) 
-3. [第2059题：如何让 Proxy 去监听基本数据类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1127) 
-4. [第2058题：Proxy 能够监听到对象中的对象的引用吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1126) 
-5. [第2057题：需要在本地实现一个聊天室，多个tab页相互通信，不能用websocket，你会怎么做？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1125) 
-6. [第2056题：git 中 rebase、reset、revert 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1124) 
-7. [第2055题：如果空数组调用reduce会发生什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1123) 
-8. [第2054题：数组中的reduce方法有用过吗，说说它的具体用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1122) 
-9. [第2053题：改变this指向的方法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1121) 
-10. [第2052题：flex 布局下，怎么改变元素的顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1120) 
+1. [第2062题：v-model 的原理是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1130) 
+2. [第2061题：如果某个页面有几百个函数需要执行，可以怎么优化页面的性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1129) 
+3. [第2060题：说说 Vuex 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1128) 
+4. [第2059题：如何让 Proxy 去监听基本数据类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1127) 
+5. [第2058题：Proxy 能够监听到对象中的对象的引用吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1126) 
+6. [第2057题：需要在本地实现一个聊天室，多个tab页相互通信，不能用websocket，你会怎么做？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1125) 
+7. [第2056题：git 中 rebase、reset、revert 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1124) 
+8. [第2055题：如果空数组调用reduce会发生什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1123) 
+9. [第2054题：数组中的reduce方法有用过吗，说说它的具体用途？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1122) 
+10. [第2053题：改变this指向的方法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1121) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
