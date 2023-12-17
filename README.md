@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2077题：Scoped Styles 为什么可以实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1146) 
-2. [第2076题：vue 中怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1145) 
-3. [第2075题：webpack的module、bundle、chunk分别指的是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1144) 
-4. [第2074题：说一下 vite 的构建流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1143) 
-5. [第2073题：created 和 mounted 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1142) 
-6. [第2070题：虚拟dom渲染到页面的时候，框架会做哪些处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1141) 
-7. [第2069题：setTimeout 延时写成0，一般可以什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1140) 
-8. [第1972题：将下面的数组转成树状结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1139) 
-9. [第2045题：利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。比如，字符串aabcccccaaa会变为a5b1c5](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1138) 
-10. [第1979题：async/await、generator、promise 这三者的关联和区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1137) 
+1. [第2078题：如何打破 scope 对样式隔离的限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1147) 
+2. [第2077题：Scoped Styles 为什么可以实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1146) 
+3. [第2076题：vue 中怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1145) 
+4. [第2075题：webpack的module、bundle、chunk分别指的是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1144) 
+5. [第2074题：说一下 vite 的构建流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1143) 
+6. [第2073题：created 和 mounted 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1142) 
+7. [第2070题：虚拟dom渲染到页面的时候，框架会做哪些处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1141) 
+8. [第2069题：setTimeout 延时写成0，一般可以什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1140) 
+9. [第1972题：将下面的数组转成树状结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1139) 
+10. [第2045题：利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。比如，字符串aabcccccaaa会变为a5b1c5](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1138) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
