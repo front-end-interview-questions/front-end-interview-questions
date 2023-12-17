@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2067题：Vue是怎么把template模版编译成render函数的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1135) 
-2. [第2066题：有些框架不用虚拟dom，但是他们的性能也不错是为什么？
+1. [第2068题：编写一个vue组件，组件内部使用插槽接收外部内容，v-model双向绑定，实现折叠展开的功能](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1136) 
+2. [第2067题：Vue是怎么把template模版编译成render函数的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1135) 
+3. [第2066题：有些框架不用虚拟dom，但是他们的性能也不错是为什么？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1134) 
-3. [第2065题：​Vue中还有其他方法实现 v-model 双向绑定吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1133) 
-4. [第2064题：描述下列代码的执行结果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1132) 
-5. [第2063题：说说下面代码的输出结果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1131) 
-6. [第2062题：v-model 的原理是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1130) 
-7. [第2061题：如果某个页面有几百个函数需要执行，可以怎么优化页面的性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1129) 
-8. [第2060题：说说 Vuex 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1128) 
-9. [第2059题：如何让 Proxy 去监听基本数据类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1127) 
-10. [第2058题：Proxy 能够监听到对象中的对象的引用吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1126) 
+4. [第2065题：​Vue中还有其他方法实现 v-model 双向绑定吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1133) 
+5. [第2064题：描述下列代码的执行结果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1132) 
+6. [第2063题：说说下面代码的输出结果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1131) 
+7. [第2062题：v-model 的原理是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1130) 
+8. [第2061题：如果某个页面有几百个函数需要执行，可以怎么优化页面的性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1129) 
+9. [第2060题：说说 Vuex 的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1128) 
+10. [第2059题：如何让 Proxy 去监听基本数据类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1127) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
