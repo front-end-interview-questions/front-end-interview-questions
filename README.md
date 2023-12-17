@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2069题：setTimeout 延时写成0，一般可以什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1140) 
-2. [第1972题：将下面的数组转成树状结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1139) 
-3. [第2045题：利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。比如，字符串aabcccccaaa会变为a5b1c5](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1138) 
-4. [第1979题：async/await、generator、promise 这三者的关联和区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1137) 
-5. [第2068题：编写一个vue组件，组件内部使用插槽接收外部内容，v-model双向绑定，实现折叠展开的功能](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1136) 
-6. [第2067题：Vue是怎么把template模版编译成render函数的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1135) 
-7. [第2066题：有些框架不用虚拟dom，但是他们的性能也不错是为什么？
+1. [第2070题：虚拟dom渲染到页面的时候，框架会做哪些处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1141) 
+2. [第2069题：setTimeout 延时写成0，一般可以什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1140) 
+3. [第1972题：将下面的数组转成树状结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1139) 
+4. [第2045题：利用字符重复出现的次数，编写一种方法，实现基本的字符串压缩功能。比如，字符串aabcccccaaa会变为a5b1c5](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1138) 
+5. [第1979题：async/await、generator、promise 这三者的关联和区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1137) 
+6. [第2068题：编写一个vue组件，组件内部使用插槽接收外部内容，v-model双向绑定，实现折叠展开的功能](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1136) 
+7. [第2067题：Vue是怎么把template模版编译成render函数的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1135) 
+8. [第2066题：有些框架不用虚拟dom，但是他们的性能也不错是为什么？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1134) 
-8. [第2065题：​Vue中还有其他方法实现 v-model 双向绑定吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1133) 
-9. [第2064题：描述下列代码的执行结果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1132) 
-10. [第2063题：说说下面代码的输出结果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1131) 
+9. [第2065题：​Vue中还有其他方法实现 v-model 双向绑定吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1133) 
+10. [第2064题：描述下列代码的执行结果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1132) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
