@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2079题：vue的祖孙组件的通信方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1148) 
-2. [第2078题：如何打破 scope 对样式隔离的限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1147) 
-3. [第2077题：Scoped Styles 为什么可以实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1146) 
-4. [第2076题：vue 中怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1145) 
-5. [第2075题：webpack的module、bundle、chunk分别指的是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1144) 
-6. [第2074题：说一下 vite 的构建流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1143) 
-7. [第2073题：created 和 mounted 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1142) 
-8. [第2070题：虚拟dom渲染到页面的时候，框架会做哪些处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1141) 
-9. [第2069题：setTimeout 延时写成0，一般可以什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1140) 
-10. [第1972题：将下面的数组转成树状结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1139) 
+1. [第2080题：说说你对渐进式框架的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1149) 
+2. [第2079题：vue的祖孙组件的通信方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1148) 
+3. [第2078题：如何打破 scope 对样式隔离的限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1147) 
+4. [第2077题：Scoped Styles 为什么可以实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1146) 
+5. [第2076题：vue 中怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1145) 
+6. [第2075题：webpack的module、bundle、chunk分别指的是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1144) 
+7. [第2074题：说一下 vite 的构建流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1143) 
+8. [第2073题：created 和 mounted 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1142) 
+9. [第2070题：虚拟dom渲染到页面的时候，框架会做哪些处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1141) 
+10. [第2069题：setTimeout 延时写成0，一般可以什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1140) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
