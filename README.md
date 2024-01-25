@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第553题：说说对中间件概念的理解，如何封装 node 中间件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1159) 
-2. [第552题：说说 Node 文件查找的优先级以及 Require 方法的文件查找策略?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1158) 
-3. [第551题：说说对Nodejs中的事件循环机制理解?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1157) 
-4. [第550题：说说Node中的EventEmitter? 如何实现一个EventEmitter?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1156) 
-5. [第549题：说说对 Node 中的 Stream 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1155) 
-6. [第548题：说说对 Node 中的 Buffer 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1154) 
-7. [第547题：说说对 Node 中的 fs模块的理解? 有哪些常用方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1153) 
-8. [第546题：说说对 Node 中的 process 的理解？有哪些常用方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1152) 
-9. [第545题：Node. js 有哪些全局对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1151) 
-10. [第544题：说说你对Node.js 的理解？优缺点？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1150) 
+1. [第555题：如何实现文件上传？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1160) 
+2. [第553题：说说对中间件概念的理解，如何封装 node 中间件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1159) 
+3. [第552题：说说 Node 文件查找的优先级以及 Require 方法的文件查找策略?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1158) 
+4. [第551题：说说对Nodejs中的事件循环机制理解?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1157) 
+5. [第550题：说说Node中的EventEmitter? 如何实现一个EventEmitter?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1156) 
+6. [第549题：说说对 Node 中的 Stream 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1155) 
+7. [第548题：说说对 Node 中的 Buffer 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1154) 
+8. [第547题：说说对 Node 中的 fs模块的理解? 有哪些常用方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1153) 
+9. [第546题：说说对 Node 中的 process 的理解？有哪些常用方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1152) 
+10. [第545题：Node. js 有哪些全局对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1151) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
