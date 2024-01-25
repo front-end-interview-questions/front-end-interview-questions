@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第550题：说说Node中的EventEmitter? 如何实现一个EventEmitter?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1156) 
-2. [第549题：说说对 Node 中的 Stream 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1155) 
-3. [第548题：说说对 Node 中的 Buffer 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1154) 
-4. [第547题：说说对 Node 中的 fs模块的理解? 有哪些常用方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1153) 
-5. [第546题：说说对 Node 中的 process 的理解？有哪些常用方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1152) 
-6. [第545题：Node. js 有哪些全局对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1151) 
-7. [第544题：说说你对Node.js 的理解？优缺点？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1150) 
-8. [第2080题：说说你对渐进式框架的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1149) 
-9. [第2079题：vue的祖孙组件的通信方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1148) 
-10. [第2078题：如何打破 scope 对样式隔离的限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1147) 
+1. [第551题：说说对Nodejs中的事件循环机制理解?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1157) 
+2. [第550题：说说Node中的EventEmitter? 如何实现一个EventEmitter?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1156) 
+3. [第549题：说说对 Node 中的 Stream 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1155) 
+4. [第548题：说说对 Node 中的 Buffer 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1154) 
+5. [第547题：说说对 Node 中的 fs模块的理解? 有哪些常用方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1153) 
+6. [第546题：说说对 Node 中的 process 的理解？有哪些常用方法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1152) 
+7. [第545题：Node. js 有哪些全局对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1151) 
+8. [第544题：说说你对Node.js 的理解？优缺点？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1150) 
+9. [第2080题：说说你对渐进式框架的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1149) 
+10. [第2079题：vue的祖孙组件的通信方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1148) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
