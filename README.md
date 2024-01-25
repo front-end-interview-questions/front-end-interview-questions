@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第544题：说说你对Node.js 的理解？优缺点？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1150) 
-2. [第2080题：说说你对渐进式框架的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1149) 
-3. [第2079题：vue的祖孙组件的通信方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1148) 
-4. [第2078题：如何打破 scope 对样式隔离的限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1147) 
-5. [第2077题：Scoped Styles 为什么可以实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1146) 
-6. [第2076题：vue 中怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1145) 
-7. [第2075题：webpack的module、bundle、chunk分别指的是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1144) 
-8. [第2074题：说一下 vite 的构建流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1143) 
-9. [第2073题：created 和 mounted 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1142) 
-10. [第2070题：虚拟dom渲染到页面的时候，框架会做哪些处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1141) 
+1. [第545题：Node. js 有哪些全局对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1151) 
+2. [第544题：说说你对Node.js 的理解？优缺点？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1150) 
+3. [第2080题：说说你对渐进式框架的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1149) 
+4. [第2079题：vue的祖孙组件的通信方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1148) 
+5. [第2078题：如何打破 scope 对样式隔离的限制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1147) 
+6. [第2077题：Scoped Styles 为什么可以实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1146) 
+7. [第2076题：vue 中怎么实现样式隔离？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1145) 
+8. [第2075题：webpack的module、bundle、chunk分别指的是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1144) 
+9. [第2074题：说一下 vite 的构建流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1143) 
+10. [第2073题：created 和 mounted 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1142) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
