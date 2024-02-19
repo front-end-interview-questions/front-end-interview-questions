@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2081题：try...catch 可以捕获到异步代码中的错误吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1163) 
-2. [第557题：Node性能如何进行监控以及优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1162) 
-3. [第556题：如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1161) 
-4. [第555题：如何实现文件上传？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1160) 
-5. [第553题：说说对中间件概念的理解，如何封装 node 中间件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1159) 
-6. [第552题：说说 Node 文件查找的优先级以及 Require 方法的文件查找策略?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1158) 
-7. [第551题：说说对Nodejs中的事件循环机制理解?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1157) 
-8. [第550题：说说Node中的EventEmitter? 如何实现一个EventEmitter?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1156) 
-9. [第549题：说说对 Node 中的 Stream 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1155) 
-10. [第548题：说说对 Node 中的 Buffer 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1154) 
+1. [第2072题：webpack 5 的主要升级点有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1164) 
+2. [第2081题：try...catch 可以捕获到异步代码中的错误吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1163) 
+3. [第557题：Node性能如何进行监控以及优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1162) 
+4. [第556题：如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1161) 
+5. [第555题：如何实现文件上传？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1160) 
+6. [第553题：说说对中间件概念的理解，如何封装 node 中间件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1159) 
+7. [第552题：说说 Node 文件查找的优先级以及 Require 方法的文件查找策略?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1158) 
+8. [第551题：说说对Nodejs中的事件循环机制理解?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1157) 
+9. [第550题：说说Node中的EventEmitter? 如何实现一个EventEmitter?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1156) 
+10. [第549题：说说对 Node 中的 Stream 的理解？应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1155) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
