@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2089题：如何让 var [a, b] = {a: 1, b: 2} 解构赋值成功？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1166) 
-2. [第2088题：React 为什么要废弃  componentWillMount、componentWillReceiveProps、componentWillUpdate 这三个生命周期钩子？它们有哪些问题呢？React 又是如何解决的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1165) 
-3. [第2072题：webpack 5 的主要升级点有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1164) 
-4. [第2081题：try...catch 可以捕获到异步代码中的错误吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1163) 
-5. [第557题：Node性能如何进行监控以及优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1162) 
-6. [第556题：如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1161) 
-7. [第555题：如何实现文件上传？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1160) 
-8. [第553题：说说对中间件概念的理解，如何封装 node 中间件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1159) 
-9. [第552题：说说 Node 文件查找的优先级以及 Require 方法的文件查找策略?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1158) 
-10. [第551题：说说对Nodejs中的事件循环机制理解?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1157) 
+1. [第2087题：css 中的 animation、transition、transform 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1167) 
+2. [第2089题：如何让 var [a, b] = {a: 1, b: 2} 解构赋值成功？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1166) 
+3. [第2088题：React 为什么要废弃  componentWillMount、componentWillReceiveProps、componentWillUpdate 这三个生命周期钩子？它们有哪些问题呢？React 又是如何解决的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1165) 
+4. [第2072题：webpack 5 的主要升级点有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1164) 
+5. [第2081题：try...catch 可以捕获到异步代码中的错误吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1163) 
+6. [第557题：Node性能如何进行监控以及优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1162) 
+7. [第556题：如果让你来设计一个分页功能, 你会怎么设计? 前后端如何交互?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1161) 
+8. [第555题：如何实现文件上传？说说你的思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1160) 
+9. [第553题：说说对中间件概念的理解，如何封装 node 中间件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1159) 
+10. [第552题：说说 Node 文件查找的优先级以及 Require 方法的文件查找策略?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1158) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
