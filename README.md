@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1978题：mouseEnter 和 mouseOver 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1174) 
-2. [第2082题：React Portals 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1173) 
-3. [第2083题：react  和 react-dom 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1172) 
-4. [第2084题：MessageChannel 是什么，有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1171) 
-5. [第2085题：React 中为什么不直接使用 requestIdleCallback？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1170) 
-6. [第2086题：为什么 react 需要 fiber 架构，而 Vue 却不需要？
+1. [第2091题：不会冒泡的事件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1175) 
+2. [第1978题：mouseEnter 和 mouseOver 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1174) 
+3. [第2082题：React Portals 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1173) 
+4. [第2083题：react  和 react-dom 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1172) 
+5. [第2084题：MessageChannel 是什么，有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1171) 
+6. [第2085题：React 中为什么不直接使用 requestIdleCallback？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1170) 
+7. [第2086题：为什么 react 需要 fiber 架构，而 Vue 却不需要？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1169) 
-7. [第2090题：子组件是一个 Portal，发生点击事件能冒泡到父组件吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1168) 
-8. [第2087题：css 中的 animation、transition、transform 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1167) 
-9. [第2089题：如何让 var [a, b] = {a: 1, b: 2} 解构赋值成功？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1166) 
-10. [第2088题：React 为什么要废弃  componentWillMount、componentWillReceiveProps、componentWillUpdate 这三个生命周期钩子？它们有哪些问题呢？React 又是如何解决的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1165) 
+8. [第2090题：子组件是一个 Portal，发生点击事件能冒泡到父组件吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1168) 
+9. [第2087题：css 中的 animation、transition、transform 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1167) 
+10. [第2089题：如何让 var [a, b] = {a: 1, b: 2} 解构赋值成功？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1166) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
