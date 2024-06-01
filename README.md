@@ -18,17 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2094题：为什么Node在使用es module时必须加上文件扩展名?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1177) 
-2. [第2093题： package.json 文件中的 devDependencies 和 dependencies 对象有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1176) 
-3. [第2091题：不会冒泡的事件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1175) 
-4. [第1978题：mouseEnter 和 mouseOver 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1174) 
-5. [第2082题：React Portals 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1173) 
-6. [第2083题：react  和 react-dom 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1172) 
-7. [第2084题：MessageChannel 是什么，有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1171) 
-8. [第2085题：React 中为什么不直接使用 requestIdleCallback？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1170) 
-9. [第2086题：为什么 react 需要 fiber 架构，而 Vue 却不需要？
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1169) 
-10. [第2090题：子组件是一个 Portal，发生点击事件能冒泡到父组件吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1168) 
+1. [第2095题：Vue中，created和mounted两个钩子之间调用时间差值受什么影响？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1179) 
+2. [第2096题：vue中，推荐在哪个生命周期发起请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1178) 
+3. [第2094题：为什么Node在使用es module时必须加上文件扩展名?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1177) 
+4. [第2093题： package.json 文件中的 devDependencies 和 dependencies 对象有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1176) 
+5. [第2091题：不会冒泡的事件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1175) 
+6. [第1978题：mouseEnter 和 mouseOver 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1174) 
+7. [第2082题：React Portals 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1173) 
+8. [第2083题：react  和 react-dom 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1172) 
+9. [第2084题：MessageChannel 是什么，有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1171) 
+10. [第2085题：React 中为什么不直接使用 requestIdleCallback？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1170) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
