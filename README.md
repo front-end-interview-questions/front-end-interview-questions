@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2092题：下面代码中，点击 “+3” 按钮后，age 的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1180) 
-2. [第2095题：Vue中，created和mounted两个钩子之间调用时间差值受什么影响？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1179) 
-3. [第2096题：vue中，推荐在哪个生命周期发起请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1178) 
-4. [第2094题：为什么Node在使用es module时必须加上文件扩展名?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1177) 
-5. [第2093题： package.json 文件中的 devDependencies 和 dependencies 对象有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1176) 
-6. [第2091题：不会冒泡的事件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1175) 
-7. [第1978题：mouseEnter 和 mouseOver 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1174) 
-8. [第2082题：React Portals 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1173) 
-9. [第2083题：react  和 react-dom 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1172) 
-10. [第2084题：MessageChannel 是什么，有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1171) 
+1. [第2098题：vue组件里写的原生addEventListeners监听事件，要手动去销毁吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1181) 
+2. [第2092题：下面代码中，点击 “+3” 按钮后，age 的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1180) 
+3. [第2095题：Vue中，created和mounted两个钩子之间调用时间差值受什么影响？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1179) 
+4. [第2096题：vue中，推荐在哪个生命周期发起请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1178) 
+5. [第2094题：为什么Node在使用es module时必须加上文件扩展名?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1177) 
+6. [第2093题： package.json 文件中的 devDependencies 和 dependencies 对象有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1176) 
+7. [第2091题：不会冒泡的事件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1175) 
+8. [第1978题：mouseEnter 和 mouseOver 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1174) 
+9. [第2082题：React Portals 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1173) 
+10. [第2083题：react  和 react-dom 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1172) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -154,7 +154,7 @@
 10. [第121题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/112) 
 11. [第122题：下面那个选项将会返回 '6' ?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/113) 
 12. [第123题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/114) 
-13. [第124题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/115) 
+13. [第124题：下面的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/115) 
 14. [第125题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/116) 
 15. [第126题：输出什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/117) 
 16. [第127题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/118) 
