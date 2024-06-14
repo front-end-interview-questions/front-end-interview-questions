@@ -18,17 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2100题：怎么在 Vue 中定义全局方法？
+1. [第2101题：说一下 vm.$set 原理
+](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1184) 
+2. [第2100题：怎么在 Vue 中定义全局方法？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1183) 
-2. [第2099题：Vue 中父组件怎么监听到子组件的生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1182) 
-3. [第2098题：vue组件里写的原生addEventListeners监听事件，要手动去销毁吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1181) 
-4. [第2092题：下面代码中，点击 “+3” 按钮后，age 的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1180) 
-5. [第2095题：Vue中，created和mounted两个钩子之间调用时间差值受什么影响？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1179) 
-6. [第2096题：vue中，推荐在哪个生命周期发起请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1178) 
-7. [第2094题：为什么Node在使用es module时必须加上文件扩展名?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1177) 
-8. [第2093题： package.json 文件中的 devDependencies 和 dependencies 对象有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1176) 
-9. [第2091题：不会冒泡的事件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1175) 
-10. [第1978题：mouseEnter 和 mouseOver 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1174) 
+3. [第2099题：Vue 中父组件怎么监听到子组件的生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1182) 
+4. [第2098题：vue组件里写的原生addEventListeners监听事件，要手动去销毁吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1181) 
+5. [第2092题：下面代码中，点击 “+3” 按钮后，age 的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1180) 
+6. [第2095题：Vue中，created和mounted两个钩子之间调用时间差值受什么影响？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1179) 
+7. [第2096题：vue中，推荐在哪个生命周期发起请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1178) 
+8. [第2094题：为什么Node在使用es module时必须加上文件扩展名?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1177) 
+9. [第2093题： package.json 文件中的 devDependencies 和 dependencies 对象有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1176) 
+10. [第2091题：不会冒泡的事件有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1175) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
