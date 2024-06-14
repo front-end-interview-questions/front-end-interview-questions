@@ -18,20 +18,20 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2105题：vue3 为什么不需要时间分片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1188) 
-2. [第2104题：vue3 为什么要引入 Composition API ？
+1. [第2106题：Vue 有了数据响应式，为何还要 diff ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1189) 
+2. [第2105题：vue3 为什么不需要时间分片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1188) 
+3. [第2104题：vue3 为什么要引入 Composition API ？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1187) 
-3. [第2103题：谈谈 Vue 事件机制，并手写$on、$off、$emit、$once](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1186) 
-4. [第2102题：computed 计算值为什么还可以依赖另外一个 computed 计算值？
+4. [第2103题：谈谈 Vue 事件机制，并手写$on、$off、$emit、$once](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1186) 
+5. [第2102题：computed 计算值为什么还可以依赖另外一个 computed 计算值？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1185) 
-5. [第2101题：说一下 vm.$set 原理
+6. [第2101题：说一下 vm.$set 原理
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1184) 
-6. [第2100题：怎么在 Vue 中定义全局方法？
+7. [第2100题：怎么在 Vue 中定义全局方法？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1183) 
-7. [第2099题：Vue 中父组件怎么监听到子组件的生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1182) 
-8. [第2098题：vue组件里写的原生addEventListeners监听事件，要手动去销毁吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1181) 
-9. [第2092题：下面代码中，点击 “+3” 按钮后，age 的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1180) 
-10. [第2095题：Vue中，created和mounted两个钩子之间调用时间差值受什么影响？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1179) 
+8. [第2099题：Vue 中父组件怎么监听到子组件的生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1182) 
+9. [第2098题：vue组件里写的原生addEventListeners监听事件，要手动去销毁吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1181) 
+10. [第2092题：下面代码中，点击 “+3” 按钮后，age 的值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1180) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
