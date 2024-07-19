@@ -18,20 +18,20 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1190) 
-2. [第2106题：Vue 有了数据响应式，为何还要 diff ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1189) 
-3. [第2105题：vue3 为什么不需要时间分片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1188) 
-4. [第2104题：vue3 为什么要引入 Composition API ？
+1. [第536题：Nginx支持哪些负载均衡调度算法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1191) 
+2. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1190) 
+3. [第2106题：Vue 有了数据响应式，为何还要 diff ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1189) 
+4. [第2105题：vue3 为什么不需要时间分片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1188) 
+5. [第2104题：vue3 为什么要引入 Composition API ？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1187) 
-5. [第2103题：谈谈 Vue 事件机制，并手写$on、$off、$emit、$once](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1186) 
-6. [第2102题：computed 计算值为什么还可以依赖另外一个 computed 计算值？
+6. [第2103题：谈谈 Vue 事件机制，并手写$on、$off、$emit、$once](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1186) 
+7. [第2102题：computed 计算值为什么还可以依赖另外一个 computed 计算值？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1185) 
-7. [第2101题：说一下 vm.$set 原理
+8. [第2101题：说一下 vm.$set 原理
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1184) 
-8. [第2100题：怎么在 Vue 中定义全局方法？
+9. [第2100题：怎么在 Vue 中定义全局方法？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1183) 
-9. [第2099题：Vue 中父组件怎么监听到子组件的生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1182) 
-10. [第2098题：vue组件里写的原生addEventListeners监听事件，要手动去销毁吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1181) 
+10. [第2099题：Vue 中父组件怎么监听到子组件的生命周期？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1182) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
