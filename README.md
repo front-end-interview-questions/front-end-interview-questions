@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第523题：请手写“桶排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1201) 
-2. [第524题：请手写“基数排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1200) 
-3. [第529题：什么是时间复杂度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1199) 
-4. [第543题：合并K个升序链表](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1198) 
-5. [第532题： Atom CSS 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1197) 
-6. [第541题：分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1196) 
-7. [第531题：为什么部分请求中，参数需要使用 encodeURIComponent 进行转码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1195) 
-8. [第533题：nginx是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1194) 
-9. [第534题：正向代理和反向代理分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1193) 
-10. [第535题：什么是负载均衡？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1192) 
+1. [第522题：请手写“计数排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1202) 
+2. [第523题：请手写“桶排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1201) 
+3. [第524题：请手写“基数排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1200) 
+4. [第529题：什么是时间复杂度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1199) 
+5. [第543题：合并K个升序链表](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1198) 
+6. [第532题： Atom CSS 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1197) 
+7. [第541题：分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1196) 
+8. [第531题：为什么部分请求中，参数需要使用 encodeURIComponent 进行转码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1195) 
+9. [第533题：nginx是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1194) 
+10. [第534题：正向代理和反向代理分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1193) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
