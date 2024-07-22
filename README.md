@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第531题：为什么部分请求中，参数需要使用 encodeURIComponent 进行转码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1195) 
-2. [第533题：nginx是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1194) 
-3. [第534题：正向代理和反向代理分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1193) 
-4. [第535题：什么是负载均衡？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1192) 
-5. [第536题：Nginx支持哪些负载均衡调度算法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1191) 
-6. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1190) 
-7. [第2106题：Vue 有了数据响应式，为何还要 diff ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1189) 
-8. [第2105题：vue3 为什么不需要时间分片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1188) 
-9. [第2104题：vue3 为什么要引入 Composition API ？
+1. [第541题：分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1196) 
+2. [第531题：为什么部分请求中，参数需要使用 encodeURIComponent 进行转码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1195) 
+3. [第533题：nginx是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1194) 
+4. [第534题：正向代理和反向代理分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1193) 
+5. [第535题：什么是负载均衡？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1192) 
+6. [第536题：Nginx支持哪些负载均衡调度算法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1191) 
+7. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1190) 
+8. [第2106题：Vue 有了数据响应式，为何还要 diff ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1189) 
+9. [第2105题：vue3 为什么不需要时间分片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1188) 
+10. [第2104题：vue3 为什么要引入 Composition API ？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1187) 
-10. [第2103题：谈谈 Vue 事件机制，并手写$on、$off、$emit、$once](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1186) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
