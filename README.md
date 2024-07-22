@@ -18,17 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第541题：分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1196) 
-2. [第531题：为什么部分请求中，参数需要使用 encodeURIComponent 进行转码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1195) 
-3. [第533题：nginx是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1194) 
-4. [第534题：正向代理和反向代理分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1193) 
-5. [第535题：什么是负载均衡？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1192) 
-6. [第536题：Nginx支持哪些负载均衡调度算法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1191) 
-7. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1190) 
-8. [第2106题：Vue 有了数据响应式，为何还要 diff ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1189) 
-9. [第2105题：vue3 为什么不需要时间分片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1188) 
-10. [第2104题：vue3 为什么要引入 Composition API ？
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1187) 
+1. [第532题： Atom CSS 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1197) 
+2. [第541题：分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1196) 
+3. [第531题：为什么部分请求中，参数需要使用 encodeURIComponent 进行转码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1195) 
+4. [第533题：nginx是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1194) 
+5. [第534题：正向代理和反向代理分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1193) 
+6. [第535题：什么是负载均衡？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1192) 
+7. [第536题：Nginx支持哪些负载均衡调度算法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1191) 
+8. [第1792题：CSS动画和JS实现的动画分别有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1190) 
+9. [第2106题：Vue 有了数据响应式，为何还要 diff ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1189) 
+10. [第2105题：vue3 为什么不需要时间分片？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1188) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
