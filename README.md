@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第521题：请手写“堆排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1203) 
-2. [第522题：请手写“计数排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1202) 
-3. [第523题：请手写“桶排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1201) 
-4. [第524题：请手写“基数排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1200) 
-5. [第529题：什么是时间复杂度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1199) 
-6. [第543题：合并K个升序链表](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1198) 
-7. [第532题： Atom CSS 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1197) 
-8. [第541题：分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1196) 
-9. [第531题：为什么部分请求中，参数需要使用 encodeURIComponent 进行转码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1195) 
-10. [第533题：nginx是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1194) 
+1. [第519题：请手写“归并排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1208) 
+2. [第518题：请手写“希尔排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1207) 
+3. [第517题：请手写“插入排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1206) 
+4. [第516题：请手写“选择排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1205) 
+5. [第515题：请手写“冒泡排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1204) 
+6. [第521题：请手写“堆排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1203) 
+7. [第522题：请手写“计数排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1202) 
+8. [第523题：请手写“桶排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1201) 
+9. [第524题：请手写“基数排序”](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1200) 
+10. [第529题：什么是时间复杂度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1199) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
