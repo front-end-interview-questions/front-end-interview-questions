@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2670题：Vue 2 的响应式原理中 Object.defineProperty 有什么缺陷](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1292) 
-2. [第2671题：实现 (5).add(3).minus(2) 功能](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1291) 
-3. [第2672题：Vue 中的双向绑定和单向数据流原则是否冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1290) 
-4. [第2674题：https 的证书验证过程是什么样的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1289) 
-5. [第2675题：[3, 15, 8, 29, 102, 22].sort()，结果是多少，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1288) 
-6. [第2680题：浏览器缓存中 Memory Cache 和 Disk Cache，有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1287) 
-7. [第2681题：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1286) 
-8. [第2685题：Redux 和 Vuex 的设计思想是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1285) 
-9. [第2691题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1284) 
-10. [第2694题：介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1283) 
+1. [第2667题：箭头函数为何不能作为构造函数使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1293) 
+2. [第2670题：Vue 2 的响应式原理中 Object.defineProperty 有什么缺陷](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1292) 
+3. [第2671题：实现 (5).add(3).minus(2) 功能](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1291) 
+4. [第2672题：Vue 中的双向绑定和单向数据流原则是否冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1290) 
+5. [第2674题：https 的证书验证过程是什么样的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1289) 
+6. [第2675题：[3, 15, 8, 29, 102, 22].sort()，结果是多少，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1288) 
+7. [第2680题：浏览器缓存中 Memory Cache 和 Disk Cache，有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1287) 
+8. [第2681题：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1286) 
+9. [第2685题：Redux 和 Vuex 的设计思想是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1285) 
+10. [第2691题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1284) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
