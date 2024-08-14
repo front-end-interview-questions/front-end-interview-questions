@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2685题：Redux 和 Vuex 的设计思想是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1285) 
-2. [第2691题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1284) 
-3. [第2694题：介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1283) 
-4. [第2696题：js 中对于超过 Number 最大值的数怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1282) 
-5. [第2698题：前端如何实现截图？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1281) 
-6. [第2699题：前端单页应用 History 路由模式， 需要如何配置 nginx？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1280) 
-7. [第2702题：前端如何防止加载外域脚本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1279) 
-8. [第2703题：HTTP/3 是基于 UDP 的协议， 那么他是如何保障安全性的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1278) 
-9. [第2704题：http3 中的 QUIC 是什么协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1277) 
-10. [第2705题：http1.1 的持久连接和 http2 的多路复用有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1276) 
+1. [第2681题：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1286) 
+2. [第2685题：Redux 和 Vuex 的设计思想是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1285) 
+3. [第2691题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1284) 
+4. [第2694题：介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1283) 
+5. [第2696题：js 中对于超过 Number 最大值的数怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1282) 
+6. [第2698题：前端如何实现截图？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1281) 
+7. [第2699题：前端单页应用 History 路由模式， 需要如何配置 nginx？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1280) 
+8. [第2702题：前端如何防止加载外域脚本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1279) 
+9. [第2703题：HTTP/3 是基于 UDP 的协议， 那么他是如何保障安全性的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1278) 
+10. [第2704题：http3 中的 QUIC 是什么协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1277) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
