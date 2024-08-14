@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2797题：Vue 是如何实现 MVVM 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1241) 
-2. [第2798题：vue2 中的虚拟 dom 是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1240) 
-3. [第2799题：虚拟 dom 原理是什么，手写一个简单的虚拟 dom 实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1239) 
-4. [第2800题：JS 内存泄露的问题该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1238) 
-5. [第2802题：说说 express middleware(中间件) 的工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1237) 
-6. [第2804题：前端怎么做错误监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1236) 
-7. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1235) 
-8. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1234) 
-9. [第2805题：前端如何实现即时通讯？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1233) 
-10. [第2806题：如何避免重绘或者重排？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1232) 
+1. [第2792题：说说你对 V8 引擎的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1242) 
+2. [第2797题：Vue 是如何实现 MVVM 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1241) 
+3. [第2798题：vue2 中的虚拟 dom 是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1240) 
+4. [第2799题：虚拟 dom 原理是什么，手写一个简单的虚拟 dom 实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1239) 
+5. [第2800题：JS 内存泄露的问题该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1238) 
+6. [第2802题：说说 express middleware(中间件) 的工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1237) 
+7. [第2804题：前端怎么做错误监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1236) 
+8. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1235) 
+9. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1234) 
+10. [第2805题：前端如何实现即时通讯？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1233) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
