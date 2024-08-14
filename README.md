@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2712题：为什么小程序中无法使用 dom 相关的 api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1270) 
-2. [第2714题：Vue 的响应式数据流驱动页面和传统的事件绑定命令式驱动页面，分别有什么优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1269) 
-3. [第2717题：在没有async/await 的时候, koa是怎么实现的洋葱模型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1268) 
-4. [第2718题：怎么在 koa 中，进行中间件的异常处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1267) 
-5. [第2723题：CSS 中的文档流是什么？
+1. [第2711题：Promise then 第二个参数和 Promise.catch 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1271) 
+2. [第2712题：为什么小程序中无法使用 dom 相关的 api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1270) 
+3. [第2714题：Vue 的响应式数据流驱动页面和传统的事件绑定命令式驱动页面，分别有什么优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1269) 
+4. [第2717题：在没有async/await 的时候, koa是怎么实现的洋葱模型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1268) 
+5. [第2718题：怎么在 koa 中，进行中间件的异常处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1267) 
+6. [第2723题：CSS 中的文档流是什么？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1266) 
-6. [第2724题：实现 table header 吸顶， 有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1265) 
-7. [第2728题：如何监控前端页面的崩溃？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1264) 
-8. [第2729题：HTTPS 加密算法和加解密过程是啥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1263) 
-9. [第2730题：HTTPS 中的 SSL/TLS 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1262) 
-10. [第2738题：如何组织 monorepo 工程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1261) 
+7. [第2724题：实现 table header 吸顶， 有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1265) 
+8. [第2728题：如何监控前端页面的崩溃？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1264) 
+9. [第2729题：HTTPS 加密算法和加解密过程是啥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1263) 
+10. [第2730题：HTTPS 中的 SSL/TLS 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1262) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
