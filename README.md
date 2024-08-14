@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2791题：怎么进行 Node  服务的内存优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1243) 
-2. [第2792题：说说你对 V8 引擎的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1242) 
-3. [第2797题：Vue 是如何实现 MVVM 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1241) 
-4. [第2798题：vue2 中的虚拟 dom 是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1240) 
-5. [第2799题：虚拟 dom 原理是什么，手写一个简单的虚拟 dom 实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1239) 
-6. [第2800题：JS 内存泄露的问题该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1238) 
-7. [第2802题：说说 express middleware(中间件) 的工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1237) 
-8. [第2804题：前端怎么做错误监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1236) 
-9. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1235) 
-10. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1234) 
+1. [第2788题：redux-thunk 和 redux 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1244) 
+2. [第2791题：怎么进行 Node  服务的内存优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1243) 
+3. [第2792题：说说你对 V8 引擎的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1242) 
+4. [第2797题：Vue 是如何实现 MVVM 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1241) 
+5. [第2798题：vue2 中的虚拟 dom 是怎么实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1240) 
+6. [第2799题：虚拟 dom 原理是什么，手写一个简单的虚拟 dom 实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1239) 
+7. [第2800题：JS 内存泄露的问题该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1238) 
+8. [第2802题：说说 express middleware(中间件) 的工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1237) 
+9. [第2804题：前端怎么做错误监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1236) 
+10. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1235) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
