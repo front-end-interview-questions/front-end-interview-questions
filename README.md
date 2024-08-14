@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2696题：js 中对于超过 Number 最大值的数怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1282) 
-2. [第2698题：前端如何实现截图？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1281) 
-3. [第2699题：前端单页应用 History 路由模式， 需要如何配置 nginx？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1280) 
-4. [第2702题：前端如何防止加载外域脚本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1279) 
-5. [第2703题：HTTP/3 是基于 UDP 的协议， 那么他是如何保障安全性的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1278) 
-6. [第2704题：http3 中的 QUIC 是什么协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1277) 
-7. [第2705题：http1.1 的持久连接和 http2 的多路复用有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1276) 
-8. [第2706题：HTTP协议的不同版本的主要特点有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1275) 
-9. [第2707题：useEffect的第二个参数，是如何判断实现依赖是否发生变化的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1274) 
-10. [第2708题：React中，useRef、ref、forwardsRef 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1273) 
+1. [第2694题：介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1283) 
+2. [第2696题：js 中对于超过 Number 最大值的数怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1282) 
+3. [第2698题：前端如何实现截图？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1281) 
+4. [第2699题：前端单页应用 History 路由模式， 需要如何配置 nginx？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1280) 
+5. [第2702题：前端如何防止加载外域脚本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1279) 
+6. [第2703题：HTTP/3 是基于 UDP 的协议， 那么他是如何保障安全性的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1278) 
+7. [第2704题：http3 中的 QUIC 是什么协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1277) 
+8. [第2705题：http1.1 的持久连接和 http2 的多路复用有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1276) 
+9. [第2706题：HTTP协议的不同版本的主要特点有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1275) 
+10. [第2707题：useEffect的第二个参数，是如何判断实现依赖是否发生变化的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1274) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
