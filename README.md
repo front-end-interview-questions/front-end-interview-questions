@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2802题：说说 express middleware(中间件) 的工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1237) 
-2. [第2804题：前端怎么做错误监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1236) 
-3. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1235) 
-4. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1234) 
-5. [第2805题：前端如何实现即时通讯？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1233) 
-6. [第2806题：如何避免重绘或者重排？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1232) 
-7. [第2811题：浏览器如何解析css选择器？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1231) 
-8. [第2817题：ESM 与 CJS 的差异有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1230) 
-9. [第2821题：process.nextTick, setTimeout 以及 setImmediate 三者的执行顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1229) 
-10. [第2827题：实现银行卡号每隔四位加一个空格， 例如：6222023100014763381 -->6222 0231 0001 4763 381](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1228) 
+1. [第2800题：JS 内存泄露的问题该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1238) 
+2. [第2802题：说说 express middleware(中间件) 的工作原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1237) 
+3. [第2804题：前端怎么做错误监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1236) 
+4. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1235) 
+5. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1234) 
+6. [第2805题：前端如何实现即时通讯？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1233) 
+7. [第2806题：如何避免重绘或者重排？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1232) 
+8. [第2811题：浏览器如何解析css选择器？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1231) 
+9. [第2817题：ESM 与 CJS 的差异有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1230) 
+10. [第2821题：process.nextTick, setTimeout 以及 setImmediate 三者的执行顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1229) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
