@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2762题：css 中三栏布局的实现方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1255) 
-2. [第2764题：Proxy 和 Object.defineProperty 的区别是啥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1254) 
-3. [第2766题：React Router 中，HashRouter 和 BrowserRouter 的区别和原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1253) 
-4. [第2767题：CSS 尺寸单位有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1252) 
-5. [第2771题：手写实现 Promise.allSettled](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1251) 
-6. [第2774题：promise.race、promise.all、promise.allSettled 有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1250) 
-7. [第2782题：一个 tcp 连接能发几个 http 请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1249) 
-8. [第2783题：实现：setObjectValue(obj: object, keys: string[], value: any) 方法， 支持安全设置对象的值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1248) 
-9. [第2784题：纯 TS 项目工程中, 如何使用 alias path?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1247) 
-10. [第2785题：如何做一个前端项目工程的自动化部署，有哪些规范和流程设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1246) 
+1. [第2753题：es5 和 es6 使用 new 关键字实例化对象的流程是一样的吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1256) 
+2. [第2762题：css 中三栏布局的实现方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1255) 
+3. [第2764题：Proxy 和 Object.defineProperty 的区别是啥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1254) 
+4. [第2766题：React Router 中，HashRouter 和 BrowserRouter 的区别和原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1253) 
+5. [第2767题：CSS 尺寸单位有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1252) 
+6. [第2771题：手写实现 Promise.allSettled](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1251) 
+7. [第2774题：promise.race、promise.all、promise.allSettled 有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1250) 
+8. [第2782题：一个 tcp 连接能发几个 http 请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1249) 
+9. [第2783题：实现：setObjectValue(obj: object, keys: string[], value: any) 方法， 支持安全设置对象的值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1248) 
+10. [第2784题：纯 TS 项目工程中, 如何使用 alias path?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1247) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
