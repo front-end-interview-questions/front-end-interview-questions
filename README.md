@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2708题：React中，useRef、ref、forwardsRef 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1273) 
-2. [第2709题：WebWorker、SharedWorker 和 ServiceWorker 有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1272) 
-3. [第2711题：Promise then 第二个参数和 Promise.catch 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1271) 
-4. [第2712题：为什么小程序中无法使用 dom 相关的 api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1270) 
-5. [第2714题：Vue 的响应式数据流驱动页面和传统的事件绑定命令式驱动页面，分别有什么优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1269) 
-6. [第2717题：在没有async/await 的时候, koa是怎么实现的洋葱模型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1268) 
-7. [第2718题：怎么在 koa 中，进行中间件的异常处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1267) 
-8. [第2723题：CSS 中的文档流是什么？
+1. [第2707题：useEffect的第二个参数，是如何判断实现依赖是否发生变化的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1274) 
+2. [第2708题：React中，useRef、ref、forwardsRef 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1273) 
+3. [第2709题：WebWorker、SharedWorker 和 ServiceWorker 有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1272) 
+4. [第2711题：Promise then 第二个参数和 Promise.catch 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1271) 
+5. [第2712题：为什么小程序中无法使用 dom 相关的 api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1270) 
+6. [第2714题：Vue 的响应式数据流驱动页面和传统的事件绑定命令式驱动页面，分别有什么优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1269) 
+7. [第2717题：在没有async/await 的时候, koa是怎么实现的洋葱模型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1268) 
+8. [第2718题：怎么在 koa 中，进行中间件的异常处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1267) 
+9. [第2723题：CSS 中的文档流是什么？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1266) 
-9. [第2724题：实现 table header 吸顶， 有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1265) 
-10. [第2728题：如何监控前端页面的崩溃？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1264) 
+10. [第2724题：实现 table header 吸顶， 有哪些实现方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1265) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
