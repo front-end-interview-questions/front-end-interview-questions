@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2841题：解释一下原型、构造函数、实例、原型链 之间的关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1226) 
-2. [第2843题：实现一个双向链表， 具备添加节点、删除节点、在特定位置插入节点、查找节点、遍历等功能](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1225) 
-3. [第2844题：请简述 HTTP 请求的过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1224) 
-4. [第2846题：HTTP建立连接的过程?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1223) 
-5. [第2847题：TCP 传输过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1222) 
-6. [第2848题：网络模型分层大概有哪些层级？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1221) 
-7. [第2850题：详细讲一下 Symbol 数据类型特征与实际使用案例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1220) 
-8. [第2851题：js 对象可以使用 for...of 迭代吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1219) 
-9. [第2852题：如何使对象 iterable 化， 使其可以支持 for...of 迭代](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1218) 
-10. [第2853题：JS 有哪些迭代器，该如何使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1217) 
+1. [第2830题：未知高度和宽度元素的水平垂直居中的方案有哪些， 简单手写一下？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1227) 
+2. [第2841题：解释一下原型、构造函数、实例、原型链 之间的关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1226) 
+3. [第2843题：实现一个双向链表， 具备添加节点、删除节点、在特定位置插入节点、查找节点、遍历等功能](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1225) 
+4. [第2844题：请简述 HTTP 请求的过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1224) 
+5. [第2846题：HTTP建立连接的过程?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1223) 
+6. [第2847题：TCP 传输过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1222) 
+7. [第2848题：网络模型分层大概有哪些层级？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1221) 
+8. [第2850题：详细讲一下 Symbol 数据类型特征与实际使用案例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1220) 
+9. [第2851题：js 对象可以使用 for...of 迭代吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1219) 
+10. [第2852题：如何使对象 iterable 化， 使其可以支持 for...of 迭代](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1218) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
