@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2774题：promise.race、promise.all、promise.allSettled 有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1250) 
-2. [第2782题：一个 tcp 连接能发几个 http 请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1249) 
-3. [第2783题：实现：setObjectValue(obj: object, keys: string[], value: any) 方法， 支持安全设置对象的值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1248) 
-4. [第2784题：纯 TS 项目工程中, 如何使用 alias path?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1247) 
-5. [第2785题：如何做一个前端项目工程的自动化部署，有哪些规范和流程设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1246) 
-6. [第2786题：如何给自己团队的大型前端项目设计单元测试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1245) 
-7. [第2788题：redux-thunk 和 redux 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1244) 
-8. [第2791题：怎么进行 Node  服务的内存优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1243) 
-9. [第2792题：说说你对 V8 引擎的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1242) 
-10. [第2797题：Vue 是如何实现 MVVM 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1241) 
+1. [第2771题：手写实现 Promise.allSettled](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1251) 
+2. [第2774题：promise.race、promise.all、promise.allSettled 有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1250) 
+3. [第2782题：一个 tcp 连接能发几个 http 请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1249) 
+4. [第2783题：实现：setObjectValue(obj: object, keys: string[], value: any) 方法， 支持安全设置对象的值](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1248) 
+5. [第2784题：纯 TS 项目工程中, 如何使用 alias path?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1247) 
+6. [第2785题：如何做一个前端项目工程的自动化部署，有哪些规范和流程设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1246) 
+7. [第2786题：如何给自己团队的大型前端项目设计单元测试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1245) 
+8. [第2788题：redux-thunk 和 redux 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1244) 
+9. [第2791题：怎么进行 Node  服务的内存优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1243) 
+10. [第2792题：说说你对 V8 引擎的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1242) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
