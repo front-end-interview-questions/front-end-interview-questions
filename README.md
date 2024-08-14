@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2729题：HTTPS 加密算法和加解密过程是啥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1263) 
-2. [第2730题：HTTPS 中的 SSL/TLS 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1262) 
-3. [第2738题：如何组织 monorepo 工程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1261) 
-4. [第2742题：以用户为中心的前端性能指标有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1260) 
-5. [第2743题：怎么分析页面加载慢的原因？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1259) 
-6. [第2751题：说说 axios 的拦截器原理及应用，并简单手写核心逻辑](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1258) 
-7. [第2752题：如何实现可过期的 localStorage 数据?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1257) 
-8. [第2753题：es5 和 es6 使用 new 关键字实例化对象的流程是一样的吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1256) 
-9. [第2762题：css 中三栏布局的实现方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1255) 
-10. [第2764题：Proxy 和 Object.defineProperty 的区别是啥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1254) 
+1. [第2728题：如何监控前端页面的崩溃？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1264) 
+2. [第2729题：HTTPS 加密算法和加解密过程是啥？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1263) 
+3. [第2730题：HTTPS 中的 SSL/TLS 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1262) 
+4. [第2738题：如何组织 monorepo 工程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1261) 
+5. [第2742题：以用户为中心的前端性能指标有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1260) 
+6. [第2743题：怎么分析页面加载慢的原因？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1259) 
+7. [第2751题：说说 axios 的拦截器原理及应用，并简单手写核心逻辑](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1258) 
+8. [第2752题：如何实现可过期的 localStorage 数据?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1257) 
+9. [第2753题：es5 和 es6 使用 new 关键字实例化对象的流程是一样的吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1256) 
+10. [第2762题：css 中三栏布局的实现方案有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1255) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
