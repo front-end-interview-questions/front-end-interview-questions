@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2703题：HTTP/3 是基于 UDP 的协议， 那么他是如何保障安全性的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1278) 
-2. [第2704题：http3 中的 QUIC 是什么协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1277) 
-3. [第2705题：http1.1 的持久连接和 http2 的多路复用有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1276) 
-4. [第2706题：HTTP协议的不同版本的主要特点有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1275) 
-5. [第2707题：useEffect的第二个参数，是如何判断实现依赖是否发生变化的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1274) 
-6. [第2708题：React中，useRef、ref、forwardsRef 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1273) 
-7. [第2709题：WebWorker、SharedWorker 和 ServiceWorker 有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1272) 
-8. [第2711题：Promise then 第二个参数和 Promise.catch 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1271) 
-9. [第2712题：为什么小程序中无法使用 dom 相关的 api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1270) 
-10. [第2714题：Vue 的响应式数据流驱动页面和传统的事件绑定命令式驱动页面，分别有什么优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1269) 
+1. [第2702题：前端如何防止加载外域脚本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1279) 
+2. [第2703题：HTTP/3 是基于 UDP 的协议， 那么他是如何保障安全性的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1278) 
+3. [第2704题：http3 中的 QUIC 是什么协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1277) 
+4. [第2705题：http1.1 的持久连接和 http2 的多路复用有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1276) 
+5. [第2706题：HTTP协议的不同版本的主要特点有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1275) 
+6. [第2707题：useEffect的第二个参数，是如何判断实现依赖是否发生变化的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1274) 
+7. [第2708题：React中，useRef、ref、forwardsRef 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1273) 
+8. [第2709题：WebWorker、SharedWorker 和 ServiceWorker 有哪些区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1272) 
+9. [第2711题：Promise then 第二个参数和 Promise.catch 的区别是什么?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1271) 
+10. [第2712题：为什么小程序中无法使用 dom 相关的 api？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1270) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
