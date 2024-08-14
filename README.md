@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2680题：浏览器缓存中 Memory Cache 和 Disk Cache，有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1287) 
-2. [第2681题：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1286) 
-3. [第2685题：Redux 和 Vuex 的设计思想是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1285) 
-4. [第2691题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1284) 
-5. [第2694题：介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1283) 
-6. [第2696题：js 中对于超过 Number 最大值的数怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1282) 
-7. [第2698题：前端如何实现截图？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1281) 
-8. [第2699题：前端单页应用 History 路由模式， 需要如何配置 nginx？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1280) 
-9. [第2702题：前端如何防止加载外域脚本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1279) 
-10. [第2703题：HTTP/3 是基于 UDP 的协议， 那么他是如何保障安全性的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1278) 
+1. [第2675题：[3, 15, 8, 29, 102, 22].sort()，结果是多少，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1288) 
+2. [第2680题：浏览器缓存中 Memory Cache 和 Disk Cache，有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1287) 
+3. [第2681题：全局作用域中，用 const 和 let 声明的变量不在 window 上，那到底在哪里？如何去获取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1286) 
+4. [第2685题：Redux 和 Vuex 的设计思想是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1285) 
+5. [第2691题：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1284) 
+6. [第2694题：介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1283) 
+7. [第2696题：js 中对于超过 Number 最大值的数怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1282) 
+8. [第2698题：前端如何实现截图？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1281) 
+9. [第2699题：前端单页应用 History 路由模式， 需要如何配置 nginx？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1280) 
+10. [第2702题：前端如何防止加载外域脚本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1279) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
