@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2851题：js 对象可以使用 for...of 迭代吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1219) 
-2. [第2852题：如何使对象 iterable 化， 使其可以支持 for...of 迭代](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1218) 
-3. [第2853题：JS 有哪些迭代器，该如何使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1217) 
-4. [第2856题：ajax如何获取下载进度?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1216) 
-5. [第2858题：JSONP 是如何实现跨域的?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1215) 
-6. [第2859题：CORS 是如何实现跨域的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1214) 
-7. [第2860题：postMessage 是如何解决跨域问题的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1213) 
-8. [第2862题：常见数组排序算法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1212) 
-9. [第2867题：如何检测对象是否循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1211) 
-10. [第2871题：async/await 原理， 手写 async 函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1210) 
+1. [第2850题：详细讲一下 Symbol 数据类型特征与实际使用案例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1220) 
+2. [第2851题：js 对象可以使用 for...of 迭代吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1219) 
+3. [第2852题：如何使对象 iterable 化， 使其可以支持 for...of 迭代](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1218) 
+4. [第2853题：JS 有哪些迭代器，该如何使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1217) 
+5. [第2856题：ajax如何获取下载进度?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1216) 
+6. [第2858题：JSONP 是如何实现跨域的?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1215) 
+7. [第2859题：CORS 是如何实现跨域的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1214) 
+8. [第2860题：postMessage 是如何解决跨域问题的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1213) 
+9. [第2862题：常见数组排序算法有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1212) 
+10. [第2867题：如何检测对象是否循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1211) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
