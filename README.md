@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2805题：前端如何实现即时通讯？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1233) 
-2. [第2806题：如何避免重绘或者重排？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1232) 
-3. [第2811题：浏览器如何解析css选择器？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1231) 
-4. [第2817题：ESM 与 CJS 的差异有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1230) 
-5. [第2821题：process.nextTick, setTimeout 以及 setImmediate 三者的执行顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1229) 
-6. [第2827题：实现银行卡号每隔四位加一个空格， 例如：6222023100014763381 -->6222 0231 0001 4763 381](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1228) 
-7. [第2830题：未知高度和宽度元素的水平垂直居中的方案有哪些， 简单手写一下？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1227) 
-8. [第2841题：解释一下原型、构造函数、实例、原型链 之间的关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1226) 
-9. [第2843题：实现一个双向链表， 具备添加节点、删除节点、在特定位置插入节点、查找节点、遍历等功能](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1225) 
-10. [第2844题：请简述 HTTP 请求的过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1224) 
+1. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1235) 
+2. [第2801题：手写 vue 的双向绑定](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1234) 
+3. [第2805题：前端如何实现即时通讯？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1233) 
+4. [第2806题：如何避免重绘或者重排？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1232) 
+5. [第2811题：浏览器如何解析css选择器？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1231) 
+6. [第2817题：ESM 与 CJS 的差异有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1230) 
+7. [第2821题：process.nextTick, setTimeout 以及 setImmediate 三者的执行顺序？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1229) 
+8. [第2827题：实现银行卡号每隔四位加一个空格， 例如：6222023100014763381 -->6222 0231 0001 4763 381](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1228) 
+9. [第2830题：未知高度和宽度元素的水平垂直居中的方案有哪些， 简单手写一下？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1227) 
+10. [第2841题：解释一下原型、构造函数、实例、原型链 之间的关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1226) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
