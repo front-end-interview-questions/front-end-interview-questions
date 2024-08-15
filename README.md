@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2656题：babel 的工作流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1302) 
-2. [第2658题：怎么实现同一个链接，PC 访问是 web 应用，而手机打开是一个 H5 应用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1301) 
-3. [第2657题：什么情况下会导致 webpack treeShaking 失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1300) 
-4. [第2660题：单线程的 nodejs 是如何充分利用计算机 CPU 资源的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1299) 
-5. [第2661题：进程、线程、协程分别是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1298) 
-6. [第2663题：ES6 代码转成 ES5 代码的实现思路是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1297) 
-7. [第2664题：对象取值中 a.b.c.d 和 a['b']['c']['d'] 有何区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1296) 
-8. [第2665题：介绍下如何实现 token 加密？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1295) 
-9. [第2666题：给定两个数组，写一个方法来计算它们的交集？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1294) 
-10. [第2667题：箭头函数为何不能作为构造函数使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1293) 
+1. [第2655题：canvas 与 svg 在可视化领域优劣如何](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1303) 
+2. [第2656题：babel 的工作流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1302) 
+3. [第2658题：怎么实现同一个链接，PC 访问是 web 应用，而手机打开是一个 H5 应用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1301) 
+4. [第2657题：什么情况下会导致 webpack treeShaking 失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1300) 
+5. [第2660题：单线程的 nodejs 是如何充分利用计算机 CPU 资源的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1299) 
+6. [第2661题：进程、线程、协程分别是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1298) 
+7. [第2663题：ES6 代码转成 ES5 代码的实现思路是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1297) 
+8. [第2664题：对象取值中 a.b.c.d 和 a['b']['c']['d'] 有何区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1296) 
+9. [第2665题：介绍下如何实现 token 加密？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1295) 
+10. [第2666题：给定两个数组，写一个方法来计算它们的交集？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1294) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
