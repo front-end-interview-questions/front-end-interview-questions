@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2604题：forwardRef 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1328) 
-2. [第2606题：站点一键换肤的实现方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1327) 
-3. [第2608题：promise 是否可以取消？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1326) 
-4. [第2609题：useState 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1325) 
-5. [第2610题：webpack 分包的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1324) 
-6. [第2611题：webpack 中的 externals 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1323) 
-7. [第2612题：说说 webpack 异步加载的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1322) 
-8. [第2620题：说说 const 和 readonly 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1321) 
-9. [第2621题：枚举和常量枚举的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1320) 
-10. [第2624题：vue3 的响应式库是独立出来的，如果单独使用是什么样的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1319) 
+1. [第2599题：canvas 性能为何会比 html/css 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1329) 
+2. [第2604题：forwardRef 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1328) 
+3. [第2606题：站点一键换肤的实现方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1327) 
+4. [第2608题：promise 是否可以取消？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1326) 
+5. [第2609题：useState 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1325) 
+6. [第2610题：webpack 分包的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1324) 
+7. [第2611题：webpack 中的 externals 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1323) 
+8. [第2612题：说说 webpack 异步加载的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1322) 
+9. [第2620题：说说 const 和 readonly 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1321) 
+10. [第2621题：枚举和常量枚举的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1320) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
