@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2570题：怎么实现扫码登录？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1349) 
-2. [第2571题：cookie 构成部分有哪些](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1348) 
-3. [第2573题：script 预加载方式有哪些，这些加载方式有何区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1347) 
-4. [第2574题：React 中，fiber 是如何实现时间切片的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1346) 
-5. [第2576题：说说 React commit 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1345) 
-6. [第2577题：说说 React render 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1344) 
-7. [第2578题：说说Fiber的含义与数据结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1343) 
-8. [第2579题：fiber 架构的工作原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1342) 
-9. [第2580题：React Reconciler 为何要采用 fiber 架构？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1341) 
-10. [第2584题：说说你对 npm 包管理的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1340) 
+1. [第2569题：DNS 协议了解多少?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1350) 
+2. [第2570题：怎么实现扫码登录？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1349) 
+3. [第2571题：cookie 构成部分有哪些](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1348) 
+4. [第2573题：script 预加载方式有哪些，这些加载方式有何区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1347) 
+5. [第2574题：React 中，fiber 是如何实现时间切片的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1346) 
+6. [第2576题：说说 React commit 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1345) 
+7. [第2577题：说说 React render 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1344) 
+8. [第2578题：说说Fiber的含义与数据结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1343) 
+9. [第2579题：fiber 架构的工作原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1342) 
+10. [第2580题：React Reconciler 为何要采用 fiber 架构？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1341) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
