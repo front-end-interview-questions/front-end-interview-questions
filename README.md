@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2596题：dom 渲染能使用 GPU 加速吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1330) 
-2. [第2599题：canvas 性能为何会比 html/css 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1329) 
-3. [第2604题：forwardRef 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1328) 
-4. [第2606题：站点一键换肤的实现方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1327) 
-5. [第2608题：promise 是否可以取消？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1326) 
-6. [第2609题：useState 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1325) 
-7. [第2610题：webpack 分包的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1324) 
-8. [第2611题：webpack 中的 externals 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1323) 
-9. [第2612题：说说 webpack 异步加载的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1322) 
-10. [第2620题：说说 const 和 readonly 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1321) 
+1. [第2595题：怎么获取函数组件的实例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1331) 
+2. [第2596题：dom 渲染能使用 GPU 加速吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1330) 
+3. [第2599题：canvas 性能为何会比 html/css 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1329) 
+4. [第2604题：forwardRef 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1328) 
+5. [第2606题：站点一键换肤的实现方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1327) 
+6. [第2608题：promise 是否可以取消？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1326) 
+7. [第2609题：useState 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1325) 
+8. [第2610题：webpack 分包的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1324) 
+9. [第2611题：webpack 中的 externals 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1323) 
+10. [第2612题：说说 webpack 异步加载的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1322) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
