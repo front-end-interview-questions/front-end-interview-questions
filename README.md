@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2553题：如何做 promise 缓存？上一次调用函数的 promise 没有返回， 那么下一次调用函数依然返回上一个 promise](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1359) 
-2. [第2555题：Javascript 数组中有哪些方法可以改变自身，哪些不可以？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1358) 
-3. [第2556题：说说对 new Function 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1357) 
-4. [第2557题：说说你对 eval 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1356) 
-5. [第2558题：说说你对 createPortal 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1355) 
-6. [第2561题：npm script 生命周期有哪些?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1354) 
-7. [第2563题：JavaScript 中的变量在内存中的具体存储形式是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1353) 
-8. [第2564题：JavaScript 对象的底层数据结构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1352) 
-9. [第2568题：TCP/IP 是如何保证数据包传输有序可靠的？
+1. [第2552题：怎么在前端页面中添加水印？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1360) 
+2. [第2553题：如何做 promise 缓存？上一次调用函数的 promise 没有返回， 那么下一次调用函数依然返回上一个 promise](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1359) 
+3. [第2555题：Javascript 数组中有哪些方法可以改变自身，哪些不可以？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1358) 
+4. [第2556题：说说对 new Function 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1357) 
+5. [第2557题：说说你对 eval 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1356) 
+6. [第2558题：说说你对 createPortal 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1355) 
+7. [第2561题：npm script 生命周期有哪些?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1354) 
+8. [第2563题：JavaScript 中的变量在内存中的具体存储形式是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1353) 
+9. [第2564题：JavaScript 对象的底层数据结构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1352) 
+10. [第2568题：TCP/IP 是如何保证数据包传输有序可靠的？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1351) 
-10. [第2569题：DNS 协议了解多少?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1350) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
