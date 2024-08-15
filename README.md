@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2632题：请实现一个 add 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1317) 
-2. [第2633题：移动零](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1316) 
-3. [第2634题：数组里面有10万个数据，取第一个元素和第10万个元素的时间相差多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1315) 
-4. [第2636题：说下 css 中的 BFC、IFC、GFC 和 FFC 分别指什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1314) 
-5. [第2637题：为什么普通 for 循环的性能高于 forEach ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1313) 
-6. [第2639题：说说你对 Server-sent events(SSE，服务端推送) 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1312) 
-7. [第2641题：Service Worker 是如何缓存 http 请求资源的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1311) 
-8. [第2642题：如果用户说 web 应用感觉很反应慢或者卡顿，该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1310) 
-9. [第2643题：如何设计一套统计全站请求耗时的工具](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1309) 
-10. [第2644题：如何解决页面请求接口大规模并发问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1308) 
+1. [第2628题：vue 文件中，在 v-for 时给每项元素绑定事件需要用事件代理吗，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1318) 
+2. [第2632题：请实现一个 add 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1317) 
+3. [第2633题：移动零](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1316) 
+4. [第2634题：数组里面有10万个数据，取第一个元素和第10万个元素的时间相差多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1315) 
+5. [第2636题：说下 css 中的 BFC、IFC、GFC 和 FFC 分别指什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1314) 
+6. [第2637题：为什么普通 for 循环的性能高于 forEach ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1313) 
+7. [第2639题：说说你对 Server-sent events(SSE，服务端推送) 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1312) 
+8. [第2641题：Service Worker 是如何缓存 http 请求资源的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1311) 
+9. [第2642题：如果用户说 web 应用感觉很反应慢或者卡顿，该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1310) 
+10. [第2643题：如何设计一套统计全站请求耗时的工具](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1309) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
