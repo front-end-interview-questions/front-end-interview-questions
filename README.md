@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2586题：npm lock 文件了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1338) 
-2. [第2587题：了解语义化版本 SemVer（Semantic Versioning）吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1337) 
-3. [第2588题：npm script 了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1336) 
-4. [第2589题：说说你对 package.json 中配置项的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1335) 
-5. [第2590题：webpack 中 module、chunk 、bundle 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1334) 
-6. [第2591题：web components 是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1333) 
-7. [第2592题：CSR、SSR、SSG、NSR、ESR、ISR 都是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1332) 
-8. [第2595题：怎么获取函数组件的实例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1331) 
-9. [第2596题：dom 渲染能使用 GPU 加速吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1330) 
-10. [第2599题：canvas 性能为何会比 html/css 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1329) 
+1. [第2585题：说说你对 npx 的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1339) 
+2. [第2586题：npm lock 文件了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1338) 
+3. [第2587题：了解语义化版本 SemVer（Semantic Versioning）吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1337) 
+4. [第2588题：npm script 了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1336) 
+5. [第2589题：说说你对 package.json 中配置项的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1335) 
+6. [第2590题：webpack 中 module、chunk 、bundle 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1334) 
+7. [第2591题：web components 是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1333) 
+8. [第2592题：CSR、SSR、SSG、NSR、ESR、ISR 都是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1332) 
+9. [第2595题：怎么获取函数组件的实例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1331) 
+10. [第2596题：dom 渲染能使用 GPU 加速吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1330) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
