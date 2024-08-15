@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2584题：说说你对 npm 包管理的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1340) 
-2. [第2585题：说说你对 npx 的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1339) 
-3. [第2586题：npm lock 文件了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1338) 
-4. [第2587题：了解语义化版本 SemVer（Semantic Versioning）吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1337) 
-5. [第2588题：npm script 了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1336) 
-6. [第2589题：说说你对 package.json 中配置项的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1335) 
-7. [第2590题：webpack 中 module、chunk 、bundle 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1334) 
-8. [第2591题：web components 是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1333) 
-9. [第2592题：CSR、SSR、SSG、NSR、ESR、ISR 都是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1332) 
-10. [第2595题：怎么获取函数组件的实例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1331) 
+1. [第2580题：React Reconciler 为何要采用 fiber 架构？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1341) 
+2. [第2584题：说说你对 npm 包管理的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1340) 
+3. [第2585题：说说你对 npx 的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1339) 
+4. [第2586题：npm lock 文件了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1338) 
+5. [第2587题：了解语义化版本 SemVer（Semantic Versioning）吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1337) 
+6. [第2588题：npm script 了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1336) 
+7. [第2589题：说说你对 package.json 中配置项的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1335) 
+8. [第2590题：webpack 中 module、chunk 、bundle 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1334) 
+9. [第2591题：web components 是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1333) 
+10. [第2592题：CSR、SSR、SSG、NSR、ESR、ISR 都是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1332) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
