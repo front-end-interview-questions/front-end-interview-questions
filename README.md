@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2648题：react 中怎么实现下拉菜单场景，要求点击区域外能关闭下拉组件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1306) 
-2. [第2649题：webpack 是如何给 web 应用注入环境变量的，说说它的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1305) 
-3. [第2653题：如何在前端团队快速落地代码规范](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1304) 
-4. [第2655题：canvas 与 svg 在可视化领域优劣如何](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1303) 
-5. [第2656题：babel 的工作流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1302) 
-6. [第2658题：怎么实现同一个链接，PC 访问是 web 应用，而手机打开是一个 H5 应用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1301) 
-7. [第2657题：什么情况下会导致 webpack treeShaking 失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1300) 
-8. [第2660题：单线程的 nodejs 是如何充分利用计算机 CPU 资源的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1299) 
-9. [第2661题：进程、线程、协程分别是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1298) 
-10. [第2663题：ES6 代码转成 ES5 代码的实现思路是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1297) 
+1. [第2645题：如何解决 node_modules 中，同一个包安装了多个不同版本的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1307) 
+2. [第2648题：react 中怎么实现下拉菜单场景，要求点击区域外能关闭下拉组件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1306) 
+3. [第2649题：webpack 是如何给 web 应用注入环境变量的，说说它的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1305) 
+4. [第2653题：如何在前端团队快速落地代码规范](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1304) 
+5. [第2655题：canvas 与 svg 在可视化领域优劣如何](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1303) 
+6. [第2656题：babel 的工作流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1302) 
+7. [第2658题：怎么实现同一个链接，PC 访问是 web 应用，而手机打开是一个 H5 应用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1301) 
+8. [第2657题：什么情况下会导致 webpack treeShaking 失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1300) 
+9. [第2660题：单线程的 nodejs 是如何充分利用计算机 CPU 资源的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1299) 
+10. [第2661题：进程、线程、协程分别是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1298) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
