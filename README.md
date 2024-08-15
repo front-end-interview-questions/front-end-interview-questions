@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2574题：React 中，fiber 是如何实现时间切片的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1346) 
-2. [第2576题：说说 React commit 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1345) 
-3. [第2577题：说说 React render 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1344) 
-4. [第2578题：说说Fiber的含义与数据结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1343) 
-5. [第2579题：fiber 架构的工作原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1342) 
-6. [第2580题：React Reconciler 为何要采用 fiber 架构？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1341) 
-7. [第2584题：说说你对 npm 包管理的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1340) 
-8. [第2585题：说说你对 npx 的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1339) 
-9. [第2586题：npm lock 文件了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1338) 
-10. [第2587题：了解语义化版本 SemVer（Semantic Versioning）吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1337) 
+1. [第2573题：script 预加载方式有哪些，这些加载方式有何区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1347) 
+2. [第2574题：React 中，fiber 是如何实现时间切片的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1346) 
+3. [第2576题：说说 React commit 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1345) 
+4. [第2577题：说说 React render 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1344) 
+5. [第2578题：说说Fiber的含义与数据结构](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1343) 
+6. [第2579题：fiber 架构的工作原理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1342) 
+7. [第2580题：React Reconciler 为何要采用 fiber 架构？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1341) 
+8. [第2584题：说说你对 npm 包管理的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1340) 
+9. [第2585题：说说你对 npx 的了解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1339) 
+10. [第2586题：npm lock 文件了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1338) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
