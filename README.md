@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2609题：useState 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1325) 
-2. [第2610题：webpack 分包的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1324) 
-3. [第2611题：webpack 中的 externals 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1323) 
-4. [第2612题：说说 webpack 异步加载的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1322) 
-5. [第2620题：说说 const 和 readonly 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1321) 
-6. [第2621题：枚举和常量枚举的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1320) 
-7. [第2624题：vue3 的响应式库是独立出来的，如果单独使用是什么样的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1319) 
-8. [第2628题：vue 文件中，在 v-for 时给每项元素绑定事件需要用事件代理吗，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1318) 
-9. [第2632题：请实现一个 add 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1317) 
-10. [第2633题：移动零](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1316) 
+1. [第2608题：promise 是否可以取消？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1326) 
+2. [第2609题：useState 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1325) 
+3. [第2610题：webpack 分包的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1324) 
+4. [第2611题：webpack 中的 externals 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1323) 
+5. [第2612题：说说 webpack 异步加载的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1322) 
+6. [第2620题：说说 const 和 readonly 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1321) 
+7. [第2621题：枚举和常量枚举的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1320) 
+8. [第2624题：vue3 的响应式库是独立出来的，如果单独使用是什么样的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1319) 
+9. [第2628题：vue 文件中，在 v-for 时给每项元素绑定事件需要用事件代理吗，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1318) 
+10. [第2632题：请实现一个 add 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1317) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
