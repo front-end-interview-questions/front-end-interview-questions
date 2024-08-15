@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2563题：JavaScript 中的变量在内存中的具体存储形式是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1353) 
-2. [第2564题：JavaScript 对象的底层数据结构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1352) 
-3. [第2568题：TCP/IP 是如何保证数据包传输有序可靠的？
+1. [第2561题：npm script 生命周期有哪些?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1354) 
+2. [第2563题：JavaScript 中的变量在内存中的具体存储形式是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1353) 
+3. [第2564题：JavaScript 对象的底层数据结构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1352) 
+4. [第2568题：TCP/IP 是如何保证数据包传输有序可靠的？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1351) 
-4. [第2569题：DNS 协议了解多少?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1350) 
-5. [第2570题：怎么实现扫码登录？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1349) 
-6. [第2571题：cookie 构成部分有哪些](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1348) 
-7. [第2573题：script 预加载方式有哪些，这些加载方式有何区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1347) 
-8. [第2574题：React 中，fiber 是如何实现时间切片的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1346) 
-9. [第2576题：说说 React commit 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1345) 
-10. [第2577题：说说 React render 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1344) 
+5. [第2569题：DNS 协议了解多少?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1350) 
+6. [第2570题：怎么实现扫码登录？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1349) 
+7. [第2571题：cookie 构成部分有哪些](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1348) 
+8. [第2573题：script 预加载方式有哪些，这些加载方式有何区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1347) 
+9. [第2574题：React 中，fiber 是如何实现时间切片的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1346) 
+10. [第2576题：说说 React commit 阶段的执行过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1345) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
