@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2591题：web components 是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1333) 
-2. [第2592题：CSR、SSR、SSG、NSR、ESR、ISR 都是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1332) 
-3. [第2595题：怎么获取函数组件的实例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1331) 
-4. [第2596题：dom 渲染能使用 GPU 加速吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1330) 
-5. [第2599题：canvas 性能为何会比 html/css 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1329) 
-6. [第2604题：forwardRef 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1328) 
-7. [第2606题：站点一键换肤的实现方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1327) 
-8. [第2608题：promise 是否可以取消？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1326) 
-9. [第2609题：useState 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1325) 
-10. [第2610题：webpack 分包的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1324) 
+1. [第2590题：webpack 中 module、chunk 、bundle 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1334) 
+2. [第2591题：web components 是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1333) 
+3. [第2592题：CSR、SSR、SSG、NSR、ESR、ISR 都是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1332) 
+4. [第2595题：怎么获取函数组件的实例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1331) 
+5. [第2596题：dom 渲染能使用 GPU 加速吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1330) 
+6. [第2599题：canvas 性能为何会比 html/css 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1329) 
+7. [第2604题：forwardRef 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1328) 
+8. [第2606题：站点一键换肤的实现方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1327) 
+9. [第2608题：promise 是否可以取消？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1326) 
+10. [第2609题：useState 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1325) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
