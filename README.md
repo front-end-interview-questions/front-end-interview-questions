@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2639题：说说你对 Server-sent events(SSE，服务端推送) 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1312) 
-2. [第2641题：Service Worker 是如何缓存 http 请求资源的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1311) 
-3. [第2642题：如果用户说 web 应用感觉很反应慢或者卡顿，该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1310) 
-4. [第2643题：如何设计一套统计全站请求耗时的工具](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1309) 
-5. [第2644题：如何解决页面请求接口大规模并发问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1308) 
-6. [第2645题：如何解决 node_modules 中，同一个包安装了多个不同版本的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1307) 
-7. [第2648题：react 中怎么实现下拉菜单场景，要求点击区域外能关闭下拉组件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1306) 
-8. [第2649题：webpack 是如何给 web 应用注入环境变量的，说说它的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1305) 
-9. [第2653题：如何在前端团队快速落地代码规范](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1304) 
-10. [第2655题：canvas 与 svg 在可视化领域优劣如何](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1303) 
+1. [第2637题：为什么普通 for 循环的性能高于 forEach ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1313) 
+2. [第2639题：说说你对 Server-sent events(SSE，服务端推送) 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1312) 
+3. [第2641题：Service Worker 是如何缓存 http 请求资源的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1311) 
+4. [第2642题：如果用户说 web 应用感觉很反应慢或者卡顿，该如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1310) 
+5. [第2643题：如何设计一套统计全站请求耗时的工具](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1309) 
+6. [第2644题：如何解决页面请求接口大规模并发问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1308) 
+7. [第2645题：如何解决 node_modules 中，同一个包安装了多个不同版本的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1307) 
+8. [第2648题：react 中怎么实现下拉菜单场景，要求点击区域外能关闭下拉组件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1306) 
+9. [第2649题：webpack 是如何给 web 应用注入环境变量的，说说它的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1305) 
+10. [第2653题：如何在前端团队快速落地代码规范](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1304) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
