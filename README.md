@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2557题：说说你对 eval 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1356) 
-2. [第2558题：说说你对 createPortal 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1355) 
-3. [第2561题：npm script 生命周期有哪些?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1354) 
-4. [第2563题：JavaScript 中的变量在内存中的具体存储形式是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1353) 
-5. [第2564题：JavaScript 对象的底层数据结构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1352) 
-6. [第2568题：TCP/IP 是如何保证数据包传输有序可靠的？
+1. [第2556题：说说对 new Function 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1357) 
+2. [第2557题：说说你对 eval 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1356) 
+3. [第2558题：说说你对 createPortal 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1355) 
+4. [第2561题：npm script 生命周期有哪些?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1354) 
+5. [第2563题：JavaScript 中的变量在内存中的具体存储形式是什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1353) 
+6. [第2564题：JavaScript 对象的底层数据结构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1352) 
+7. [第2568题：TCP/IP 是如何保证数据包传输有序可靠的？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1351) 
-7. [第2569题：DNS 协议了解多少?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1350) 
-8. [第2570题：怎么实现扫码登录？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1349) 
-9. [第2571题：cookie 构成部分有哪些](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1348) 
-10. [第2573题：script 预加载方式有哪些，这些加载方式有何区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1347) 
+8. [第2569题：DNS 协议了解多少?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1350) 
+9. [第2570题：怎么实现扫码登录？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1349) 
+10. [第2571题：cookie 构成部分有哪些](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1348) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
