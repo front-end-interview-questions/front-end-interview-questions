@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2589题：说说你对 package.json 中配置项的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1335) 
-2. [第2590题：webpack 中 module、chunk 、bundle 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1334) 
-3. [第2591题：web components 是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1333) 
-4. [第2592题：CSR、SSR、SSG、NSR、ESR、ISR 都是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1332) 
-5. [第2595题：怎么获取函数组件的实例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1331) 
-6. [第2596题：dom 渲染能使用 GPU 加速吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1330) 
-7. [第2599题：canvas 性能为何会比 html/css 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1329) 
-8. [第2604题：forwardRef 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1328) 
-9. [第2606题：站点一键换肤的实现方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1327) 
-10. [第2608题：promise 是否可以取消？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1326) 
+1. [第2588题：npm script 了解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1336) 
+2. [第2589题：说说你对 package.json 中配置项的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1335) 
+3. [第2590题：webpack 中 module、chunk 、bundle 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1334) 
+4. [第2591题：web components 是多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1333) 
+5. [第2592题：CSR、SSR、SSG、NSR、ESR、ISR 都是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1332) 
+6. [第2595题：怎么获取函数组件的实例？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1331) 
+7. [第2596题：dom 渲染能使用 GPU 加速吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1330) 
+8. [第2599题：canvas 性能为何会比 html/css 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1329) 
+9. [第2604题：forwardRef 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1328) 
+10. [第2606题：站点一键换肤的实现方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1327) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
