@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2644题：如何解决页面请求接口大规模并发问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1308) 
-2. [第2645题：如何解决 node_modules 中，同一个包安装了多个不同版本的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1307) 
-3. [第2648题：react 中怎么实现下拉菜单场景，要求点击区域外能关闭下拉组件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1306) 
-4. [第2649题：webpack 是如何给 web 应用注入环境变量的，说说它的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1305) 
-5. [第2653题：如何在前端团队快速落地代码规范](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1304) 
-6. [第2655题：canvas 与 svg 在可视化领域优劣如何](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1303) 
-7. [第2656题：babel 的工作流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1302) 
-8. [第2658题：怎么实现同一个链接，PC 访问是 web 应用，而手机打开是一个 H5 应用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1301) 
-9. [第2657题：什么情况下会导致 webpack treeShaking 失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1300) 
-10. [第2660题：单线程的 nodejs 是如何充分利用计算机 CPU 资源的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1299) 
+1. [第2643题：如何设计一套统计全站请求耗时的工具](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1309) 
+2. [第2644题：如何解决页面请求接口大规模并发问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1308) 
+3. [第2645题：如何解决 node_modules 中，同一个包安装了多个不同版本的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1307) 
+4. [第2648题：react 中怎么实现下拉菜单场景，要求点击区域外能关闭下拉组件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1306) 
+5. [第2649题：webpack 是如何给 web 应用注入环境变量的，说说它的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1305) 
+6. [第2653题：如何在前端团队快速落地代码规范](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1304) 
+7. [第2655题：canvas 与 svg 在可视化领域优劣如何](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1303) 
+8. [第2656题：babel 的工作流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1302) 
+9. [第2658题：怎么实现同一个链接，PC 访问是 web 应用，而手机打开是一个 H5 应用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1301) 
+10. [第2657题：什么情况下会导致 webpack treeShaking 失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1300) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
