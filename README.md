@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2533题：Object.prototype.hasOwnProperty() 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1369) 
-2. [第2534题：React 中的 createContext 和 useContext 分别有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1368) 
-3. [第2535题：一直在 window 上面挂内容（数据，方法等等），是否有什么风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1367) 
-4. [第2537题：react native 工作原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1366) 
-5. [第2539题：如何优化大规模 dom 操作的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1365) 
-6. [第2545题：base64 的编码原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1364) 
-7. [第2546题：如何将JavaScript代码解析成抽象语法树(AST)？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1363) 
-8. [第2548题：如何防止 CSS 阻塞渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1362) 
-9. [第2549题：CSS 伪类和伪元素有哪些，它们的区别和实际应用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1361) 
-10. [第2552题：怎么在前端页面中添加水印？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1360) 
+1. [第2532题：npm 中的“幽灵依赖”是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1370) 
+2. [第2533题：Object.prototype.hasOwnProperty() 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1369) 
+3. [第2534题：React 中的 createContext 和 useContext 分别有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1368) 
+4. [第2535题：一直在 window 上面挂内容（数据，方法等等），是否有什么风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1367) 
+5. [第2537题：react native 工作原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1366) 
+6. [第2539题：如何优化大规模 dom 操作的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1365) 
+7. [第2545题：base64 的编码原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1364) 
+8. [第2546题：如何将JavaScript代码解析成抽象语法树(AST)？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1363) 
+9. [第2548题：如何防止 CSS 阻塞渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1362) 
+10. [第2549题：CSS 伪类和伪元素有哪些，它们的区别和实际应用](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1361) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
