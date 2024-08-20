@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2520题：说说你对 Source Map  的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1373) 
-2. [第2521题：说说对 node 子进程的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1372) 
-3. [第2523题：vue 是如何识别和解析指令的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1371) 
-4. [第2532题：npm 中的“幽灵依赖”是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1370) 
-5. [第2533题：Object.prototype.hasOwnProperty() 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1369) 
-6. [第2534题：React 中的 createContext 和 useContext 分别有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1368) 
-7. [第2535题：一直在 window 上面挂内容（数据，方法等等），是否有什么风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1367) 
-8. [第2537题：react native 工作原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1366) 
-9. [第2539题：如何优化大规模 dom 操作的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1365) 
-10. [第2545题：base64 的编码原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1364) 
+1. [第2873题：get 请求的参数是否能够使用数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1374) 
+2. [第2520题：说说你对 Source Map  的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1373) 
+3. [第2521题：说说对 node 子进程的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1372) 
+4. [第2523题：vue 是如何识别和解析指令的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1371) 
+5. [第2532题：npm 中的“幽灵依赖”是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1370) 
+6. [第2533题：Object.prototype.hasOwnProperty() 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1369) 
+7. [第2534题：React 中的 createContext 和 useContext 分别有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1368) 
+8. [第2535题：一直在 window 上面挂内容（数据，方法等等），是否有什么风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1367) 
+9. [第2537题：react native 工作原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1366) 
+10. [第2539题：如何优化大规模 dom 操作的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1365) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -174,7 +174,7 @@
 30. [第141题：以下哪一项会对对象 `person` 有副作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/132) 
 31. [第142题：以下哪一项会对对象 `person` 有副作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/133) 
 32. [第143题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/134) 
-33. [第144题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/135) 
+33. [第144题：输出什么？【JavaScript原生class私有属性】](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/135) 
 34. [第145题：选择哪一个？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/136) 
 35. [第146题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/137) 
 36. [第147题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/138) 
