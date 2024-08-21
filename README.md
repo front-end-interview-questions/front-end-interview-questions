@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2508题：vue3 相比较于 vue2，在编译阶段有哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1377) 
-2. [第2512题：使用 react-router 跳转时，如何将参数传递给下一个页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1376) 
-3. [第2516题：哪些原因会导致js里this指向混乱？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1375) 
-4. [第2873题：get 请求的参数是否能够使用数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1374) 
-5. [第2520题：说说你对 Source Map  的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1373) 
-6. [第2521题：说说对 node 子进程的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1372) 
-7. [第2523题：vue 是如何识别和解析指令的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1371) 
-8. [第2532题：npm 中的“幽灵依赖”是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1370) 
-9. [第2533题：Object.prototype.hasOwnProperty() 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1369) 
-10. [第2534题：React 中的 createContext 和 useContext 分别有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1368) 
+1. [第2506题：HTTP Header 中有哪些信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1378) 
+2. [第2508题：vue3 相比较于 vue2，在编译阶段有哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1377) 
+3. [第2512题：使用 react-router 跳转时，如何将参数传递给下一个页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1376) 
+4. [第2516题：哪些原因会导致js里this指向混乱？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1375) 
+5. [第2873题：get 请求的参数是否能够使用数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1374) 
+6. [第2520题：说说你对 Source Map  的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1373) 
+7. [第2521题：说说对 node 子进程的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1372) 
+8. [第2523题：vue 是如何识别和解析指令的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1371) 
+9. [第2532题：npm 中的“幽灵依赖”是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1370) 
+10. [第2533题：Object.prototype.hasOwnProperty() 作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1369) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
