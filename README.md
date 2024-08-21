@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2504题： 说说对 XMLHttpRequest 对象的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1380) 
-2. [第2505题：304 状态码用于什么场景， 好处和坏处分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1379) 
-3. [第2506题：HTTP Header 中有哪些信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1378) 
-4. [第2508题：vue3 相比较于 vue2，在编译阶段有哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1377) 
-5. [第2512题：使用 react-router 跳转时，如何将参数传递给下一个页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1376) 
-6. [第2516题：哪些原因会导致js里this指向混乱？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1375) 
-7. [第2873题：get 请求的参数是否能够使用数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1374) 
-8. [第2520题：说说你对 Source Map  的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1373) 
-9. [第2521题：说说对 node 子进程的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1372) 
-10. [第2523题：vue 是如何识别和解析指令的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1371) 
+1. [第2498题：说说对数字证书的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1381) 
+2. [第2504题： 说说对 XMLHttpRequest 对象的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1380) 
+3. [第2505题：304 状态码用于什么场景， 好处和坏处分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1379) 
+4. [第2506题：HTTP Header 中有哪些信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1378) 
+5. [第2508题：vue3 相比较于 vue2，在编译阶段有哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1377) 
+6. [第2512题：使用 react-router 跳转时，如何将参数传递给下一个页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1376) 
+7. [第2516题：哪些原因会导致js里this指向混乱？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1375) 
+8. [第2873题：get 请求的参数是否能够使用数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1374) 
+9. [第2520题：说说你对 Source Map  的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1373) 
+10. [第2521题：说说对 node 子进程的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1372) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
