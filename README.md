@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2483题：如何避免全局样式污染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1387) 
-2. [第2484题：html 元素节点上， 有多个 class 名称，这几个class 名称对应的样式渲染优先级是如何的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1386) 
-3. [第2487题：PostCSS 是什么，有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1385) 
-4. [第2493题：什么是 HTML 文档的预解析？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1384) 
-5. [第2496题：token过期后，页面如何实现无感刷新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1383) 
-6. [第2497题：TCP 粘包（TCP packet sticking）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1382) 
-7. [第2498题：说说对数字证书的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1381) 
-8. [第2504题： 说说对 XMLHttpRequest 对象的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1380) 
-9. [第2505题：304 状态码用于什么场景， 好处和坏处分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1379) 
-10. [第2506题：HTTP Header 中有哪些信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1378) 
+1. [第2478题：web 应用中如何对静态资源加载失败的场景做降级处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1388) 
+2. [第2483题：如何避免全局样式污染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1387) 
+3. [第2484题：html 元素节点上， 有多个 class 名称，这几个class 名称对应的样式渲染优先级是如何的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1386) 
+4. [第2487题：PostCSS 是什么，有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1385) 
+5. [第2493题：什么是 HTML 文档的预解析？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1384) 
+6. [第2496题：token过期后，页面如何实现无感刷新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1383) 
+7. [第2497题：TCP 粘包（TCP packet sticking）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1382) 
+8. [第2498题：说说对数字证书的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1381) 
+9. [第2504题： 说说对 XMLHttpRequest 对象的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1380) 
+10. [第2505题：304 状态码用于什么场景， 好处和坏处分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1379) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -306,7 +306,7 @@
 56. [第267题：iframe是什么？有哪些优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/258) 
 57. [第268题：HTML 标签中的 src 和 href 有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/259) 
 58. [第269题：script 标签为什么建议放在 body 标签的底部（defer、async）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/260) 
-59. [第270题：DOCTYPE 标签有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/261) 
+59. [第270题：<!DOCTYPE html> 标签有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/261) 
 60. [第271题：HTML5 有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/262) 
 61. [第272题：URI、URL、URN分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/263) 
 62. [第273题：简述 html 页面渲染过程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/264) 
