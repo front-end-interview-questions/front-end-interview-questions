@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
-2. [第2474题：js 函数参数有默认值时，如果传递的参数是 undefined 那么会被默认值赋值吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1392) 
-3. [第2475题：typeof null 的结果是什么，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1391) 
-4. [第2476题：判断数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1390) 
-5. [第2477题：html 中前缀为 data- 开头的元素属性是什么？【热度：903】](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1389) 
-6. [第2478题：web 应用中如何对静态资源加载失败的场景做降级处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1388) 
-7. [第2483题：如何避免全局样式污染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1387) 
-8. [第2484题：html 元素节点上， 有多个 class 名称，这几个class 名称对应的样式渲染优先级是如何的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1386) 
-9. [第2487题：PostCSS 是什么，有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1385) 
-10. [第2493题：什么是 HTML 文档的预解析？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1384) 
+1. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
+2. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
+3. [第2474题：js 函数参数有默认值时，如果传递的参数是 undefined 那么会被默认值赋值吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1392) 
+4. [第2475题：typeof null 的结果是什么，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1391) 
+5. [第2476题：判断数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1390) 
+6. [第2477题：html 中前缀为 data- 开头的元素属性是什么？【热度：903】](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1389) 
+7. [第2478题：web 应用中如何对静态资源加载失败的场景做降级处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1388) 
+8. [第2483题：如何避免全局样式污染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1387) 
+9. [第2484题：html 元素节点上， 有多个 class 名称，这几个class 名称对应的样式渲染优先级是如何的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1386) 
+10. [第2487题：PostCSS 是什么，有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1385) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
