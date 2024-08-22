@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2461题：手写实现一个缓存函数 memoize](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1399) 
-2. [第2462题：JS 中的数组和函数在内存中是如何存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1398) 
-3. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
-4. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
-5. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
-6. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
-7. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
-8. [第2474题：js 函数参数有默认值时，如果传递的参数是 undefined 那么会被默认值赋值吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1392) 
-9. [第2475题：typeof null 的结果是什么，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1391) 
-10. [第2476题：判断数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1390) 
+1. [第2459题：普通函数动态参数 和 箭头函数的动态参数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1400) 
+2. [第2461题：手写实现一个缓存函数 memoize](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1399) 
+3. [第2462题：JS 中的数组和函数在内存中是如何存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1398) 
+4. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
+5. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
+6. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
+7. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
+8. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
+9. [第2474题：js 函数参数有默认值时，如果传递的参数是 undefined 那么会被默认值赋值吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1392) 
+10. [第2475题：typeof null 的结果是什么，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1391) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
