@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
-2. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
-3. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
-4. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
-5. [第2474题：js 函数参数有默认值时，如果传递的参数是 undefined 那么会被默认值赋值吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1392) 
-6. [第2475题：typeof null 的结果是什么，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1391) 
-7. [第2476题：判断数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1390) 
-8. [第2477题：html 中前缀为 data- 开头的元素属性是什么？【热度：903】](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1389) 
-9. [第2478题：web 应用中如何对静态资源加载失败的场景做降级处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1388) 
-10. [第2483题：如何避免全局样式污染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1387) 
+1. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
+2. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
+3. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
+4. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
+5. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
+6. [第2474题：js 函数参数有默认值时，如果传递的参数是 undefined 那么会被默认值赋值吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1392) 
+7. [第2475题：typeof null 的结果是什么，为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1391) 
+8. [第2476题：判断数组的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1390) 
+9. [第2477题：html 中前缀为 data- 开头的元素属性是什么？【热度：903】](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1389) 
+10. [第2478题：web 应用中如何对静态资源加载失败的场景做降级处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1388) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
