@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2484题：html 元素节点上， 有多个 class 名称，这几个class 名称对应的样式渲染优先级是如何的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1386) 
-2. [第2487题：PostCSS 是什么，有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1385) 
-3. [第2493题：什么是 HTML 文档的预解析？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1384) 
-4. [第2496题：token过期后，页面如何实现无感刷新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1383) 
-5. [第2497题：TCP 粘包（TCP packet sticking）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1382) 
-6. [第2498题：说说对数字证书的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1381) 
-7. [第2504题： 说说对 XMLHttpRequest 对象的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1380) 
-8. [第2505题：304 状态码用于什么场景， 好处和坏处分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1379) 
-9. [第2506题：HTTP Header 中有哪些信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1378) 
-10. [第2508题：vue3 相比较于 vue2，在编译阶段有哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1377) 
+1. [第2483题：如何避免全局样式污染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1387) 
+2. [第2484题：html 元素节点上， 有多个 class 名称，这几个class 名称对应的样式渲染优先级是如何的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1386) 
+3. [第2487题：PostCSS 是什么，有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1385) 
+4. [第2493题：什么是 HTML 文档的预解析？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1384) 
+5. [第2496题：token过期后，页面如何实现无感刷新？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1383) 
+6. [第2497题：TCP 粘包（TCP packet sticking）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1382) 
+7. [第2498题：说说对数字证书的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1381) 
+8. [第2504题： 说说对 XMLHttpRequest 对象的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1380) 
+9. [第2505题：304 状态码用于什么场景， 好处和坏处分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1379) 
+10. [第2506题：HTTP Header 中有哪些信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1378) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
