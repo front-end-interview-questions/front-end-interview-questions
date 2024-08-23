@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2457题：JS 创建对象的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1402) 
-2. [第2458题：函数声明与函数表达式有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1401) 
-3. [第2459题：普通函数动态参数 和 箭头函数的动态参数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1400) 
-4. [第2461题：手写实现一个缓存函数 memoize](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1399) 
-5. [第2462题：JS 中的数组和函数在内存中是如何存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1398) 
-6. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
-7. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
-8. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
-9. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
-10. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
+1. [第2456题：hasOwnProperty 与 instanceof 有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1403) 
+2. [第2457题：JS 创建对象的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1402) 
+3. [第2458题：函数声明与函数表达式有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1401) 
+4. [第2459题：普通函数动态参数 和 箭头函数的动态参数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1400) 
+5. [第2461题：手写实现一个缓存函数 memoize](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1399) 
+6. [第2462题：JS 中的数组和函数在内存中是如何存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1398) 
+7. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
+8. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
+9. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
+10. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
