@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2458题：函数声明与函数表达式有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1401) 
-2. [第2459题：普通函数动态参数 和 箭头函数的动态参数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1400) 
-3. [第2461题：手写实现一个缓存函数 memoize](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1399) 
-4. [第2462题：JS 中的数组和函数在内存中是如何存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1398) 
-5. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
-6. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
-7. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
-8. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
-9. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
-10. [第2474题：js 函数参数有默认值时，如果传递的参数是 undefined 那么会被默认值赋值吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1392) 
+1. [第2457题：JS 创建对象的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1402) 
+2. [第2458题：函数声明与函数表达式有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1401) 
+3. [第2459题：普通函数动态参数 和 箭头函数的动态参数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1400) 
+4. [第2461题：手写实现一个缓存函数 memoize](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1399) 
+5. [第2462题：JS 中的数组和函数在内存中是如何存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1398) 
+6. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
+7. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
+8. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
+9. [第2469题：escape、encodeURI、encodeURIComponent 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1394) 
+10. [第2472题：什么是伪数组和类数组？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1393) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
