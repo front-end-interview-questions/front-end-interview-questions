@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2455题：原型链的终点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1404) 
-2. [第2456题：hasOwnProperty 与 instanceof 有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1403) 
-3. [第2457题：JS 创建对象的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1402) 
-4. [第2458题：函数声明与函数表达式有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1401) 
-5. [第2459题：普通函数动态参数 和 箭头函数的动态参数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1400) 
-6. [第2461题：手写实现一个缓存函数 memoize](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1399) 
-7. [第2462题：JS 中的数组和函数在内存中是如何存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1398) 
-8. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
-9. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
-10. [第2468题：use strict是什么，有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1395) 
+1. [第2452题：JS里的类就是构造函数的语法糖，这个说法是否正确？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1405) 
+2. [第2455题：原型链的终点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1404) 
+3. [第2456题：hasOwnProperty 与 instanceof 有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1403) 
+4. [第2457题：JS 创建对象的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1402) 
+5. [第2458题：函数声明与函数表达式有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1401) 
+6. [第2459题：普通函数动态参数 和 箭头函数的动态参数有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1400) 
+7. [第2461题：手写实现一个缓存函数 memoize](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1399) 
+8. [第2462题：JS 中的数组和函数在内存中是如何存储的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1398) 
+9. [第2465题：深度遍历与广度遍历有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1397) 
+10. [第2467题：解释性语言和编译型语言有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1396) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
