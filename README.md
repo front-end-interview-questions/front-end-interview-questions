@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2429题：使用 async/await 时，是否有必要加 try catch?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1412) 
-2. [第2436题：package.json 里面 sideEffects 属性的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1411) 
-3. [第2444题：react 中，在什么场景下需要使用 useContext？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1410) 
-4. [第2445题：react 中，数组用useState做状态管理的时候，使用push，pop，splice等直接更改数组对象，会引起页面渲染吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1409) 
-5. [第2447题：斐波拉契数列是什么，用 JS 实现，用尾调优化斐波拉契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1408) 
-6. [第2448题：实现数组的flat方法，支持深度层级参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1407) 
-7. [第2450题：手写实现 Object.create](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1406) 
-8. [第2452题：JS里的类就是构造函数的语法糖，这个说法是否正确？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1405) 
-9. [第2455题：原型链的终点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1404) 
-10. [第2456题：hasOwnProperty 与 instanceof 有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1403) 
+1. [第2428题：如何搭建一套灰度系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1413) 
+2. [第2429题：使用 async/await 时，是否有必要加 try catch?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1412) 
+3. [第2436题：package.json 里面 sideEffects 属性的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1411) 
+4. [第2444题：react 中，在什么场景下需要使用 useContext？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1410) 
+5. [第2445题：react 中，数组用useState做状态管理的时候，使用push，pop，splice等直接更改数组对象，会引起页面渲染吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1409) 
+6. [第2447题：斐波拉契数列是什么，用 JS 实现，用尾调优化斐波拉契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1408) 
+7. [第2448题：实现数组的flat方法，支持深度层级参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1407) 
+8. [第2450题：手写实现 Object.create](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1406) 
+9. [第2452题：JS里的类就是构造函数的语法糖，这个说法是否正确？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1405) 
+10. [第2455题：原型链的终点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1404) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
