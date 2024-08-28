@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2444题：react 中，在什么场景下需要使用 useContext？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1410) 
-2. [第2445题：react 中，数组用useState做状态管理的时候，使用push，pop，splice等直接更改数组对象，会引起页面渲染吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1409) 
-3. [第2447题：斐波拉契数列是什么，用 JS 实现，用尾调优化斐波拉契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1408) 
-4. [第2448题：实现数组的flat方法，支持深度层级参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1407) 
-5. [第2450题：手写实现 Object.create](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1406) 
-6. [第2452题：JS里的类就是构造函数的语法糖，这个说法是否正确？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1405) 
-7. [第2455题：原型链的终点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1404) 
-8. [第2456题：hasOwnProperty 与 instanceof 有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1403) 
-9. [第2457题：JS 创建对象的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1402) 
-10. [第2458题：函数声明与函数表达式有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1401) 
+1. [第2436题：package.json 里面 sideEffects 属性的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1411) 
+2. [第2444题：react 中，在什么场景下需要使用 useContext？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1410) 
+3. [第2445题：react 中，数组用useState做状态管理的时候，使用push，pop，splice等直接更改数组对象，会引起页面渲染吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1409) 
+4. [第2447题：斐波拉契数列是什么，用 JS 实现，用尾调优化斐波拉契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1408) 
+5. [第2448题：实现数组的flat方法，支持深度层级参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1407) 
+6. [第2450题：手写实现 Object.create](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1406) 
+7. [第2452题：JS里的类就是构造函数的语法糖，这个说法是否正确？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1405) 
+8. [第2455题：原型链的终点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1404) 
+9. [第2456题：hasOwnProperty 与 instanceof 有什么区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1403) 
+10. [第2457题：JS 创建对象的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1402) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
