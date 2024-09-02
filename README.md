@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2418题：实现管道函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1418) 
-2. [第2419题：如何优化 DOM 树解析过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1417) 
-3. [第2421题：Vue 项目中，你做过哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1416) 
-4. [第2424题：如何冻结一个 JS 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1415) 
-5. [第2425题：script 标签上有那些属性，作用分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1414) 
-6. [第2428题：如何搭建一套灰度系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1413) 
-7. [第2429题：使用 async/await 时，是否有必要加 try catch?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1412) 
-8. [第2436题：package.json 里面 sideEffects 属性的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1411) 
-9. [第2444题：react 中，在什么场景下需要使用 useContext？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1410) 
-10. [第2445题：react 中，数组用useState做状态管理的时候，使用push，pop，splice等直接更改数组对象，会引起页面渲染吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1409) 
+1. [第2417题：为什么 SPA 应用都会提供一个 hash 路由，好处是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1419) 
+2. [第2418题：实现管道函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1418) 
+3. [第2419题：如何优化 DOM 树解析过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1417) 
+4. [第2421题：Vue 项目中，你做过哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1416) 
+5. [第2424题：如何冻结一个 JS 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1415) 
+6. [第2425题：script 标签上有那些属性，作用分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1414) 
+7. [第2428题：如何搭建一套灰度系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1413) 
+8. [第2429题：使用 async/await 时，是否有必要加 try catch?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1412) 
+9. [第2436题：package.json 里面 sideEffects 属性的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1411) 
+10. [第2444题：react 中，在什么场景下需要使用 useContext？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1410) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
