@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2421题：Vue 项目中，你做过哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1416) 
-2. [第2424题：如何冻结一个 JS 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1415) 
-3. [第2425题：script 标签上有那些属性，作用分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1414) 
-4. [第2428题：如何搭建一套灰度系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1413) 
-5. [第2429题：使用 async/await 时，是否有必要加 try catch?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1412) 
-6. [第2436题：package.json 里面 sideEffects 属性的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1411) 
-7. [第2444题：react 中，在什么场景下需要使用 useContext？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1410) 
-8. [第2445题：react 中，数组用useState做状态管理的时候，使用push，pop，splice等直接更改数组对象，会引起页面渲染吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1409) 
-9. [第2447题：斐波拉契数列是什么，用 JS 实现，用尾调优化斐波拉契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1408) 
-10. [第2448题：实现数组的flat方法，支持深度层级参数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1407) 
+1. [第2419题：如何优化 DOM 树解析过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1417) 
+2. [第2421题：Vue 项目中，你做过哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1416) 
+3. [第2424题：如何冻结一个 JS 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1415) 
+4. [第2425题：script 标签上有那些属性，作用分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1414) 
+5. [第2428题：如何搭建一套灰度系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1413) 
+6. [第2429题：使用 async/await 时，是否有必要加 try catch?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1412) 
+7. [第2436题：package.json 里面 sideEffects 属性的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1411) 
+8. [第2444题：react 中，在什么场景下需要使用 useContext？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1410) 
+9. [第2445题：react 中，数组用useState做状态管理的时候，使用push，pop，splice等直接更改数组对象，会引起页面渲染吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1409) 
+10. [第2447题：斐波拉契数列是什么，用 JS 实现，用尾调优化斐波拉契数列](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1408) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
