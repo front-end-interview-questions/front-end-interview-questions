@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2411题：如何封装一个请求，让其多次调用的时候，实际只发起一个请求的时候，返回同一份结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1423) 
-2. [第2412题：前端项目里，一般对请求 request 做哪些统一的封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1422) 
-3. [第2413题：onpopstate 可以监听到 pushstate 的事件吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1421) 
-4. [第2415题：原生 js 如何进行监听路由的变化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1420) 
-5. [第2417题：为什么 SPA 应用都会提供一个 hash 路由，好处是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1419) 
-6. [第2418题：实现管道函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1418) 
-7. [第2419题：如何优化 DOM 树解析过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1417) 
-8. [第2421题：Vue 项目中，你做过哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1416) 
-9. [第2424题：如何冻结一个 JS 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1415) 
-10. [第2425题：script 标签上有那些属性，作用分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1414) 
+1. [第2874题：浏览器是否支持 CommonJs 规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1424) 
+2. [第2411题：如何封装一个请求，让其多次调用的时候，实际只发起一个请求的时候，返回同一份结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1423) 
+3. [第2412题：前端项目里，一般对请求 request 做哪些统一的封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1422) 
+4. [第2413题：onpopstate 可以监听到 pushstate 的事件吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1421) 
+5. [第2415题：原生 js 如何进行监听路由的变化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1420) 
+6. [第2417题：为什么 SPA 应用都会提供一个 hash 路由，好处是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1419) 
+7. [第2418题：实现管道函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1418) 
+8. [第2419题：如何优化 DOM 树解析过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1417) 
+9. [第2421题：Vue 项目中，你做过哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1416) 
+10. [第2424题：如何冻结一个 JS 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1415) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
