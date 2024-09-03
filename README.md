@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2413题：onpopstate 可以监听到 pushstate 的事件吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1421) 
-2. [第2415题：原生 js 如何进行监听路由的变化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1420) 
-3. [第2417题：为什么 SPA 应用都会提供一个 hash 路由，好处是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1419) 
-4. [第2418题：实现管道函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1418) 
-5. [第2419题：如何优化 DOM 树解析过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1417) 
-6. [第2421题：Vue 项目中，你做过哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1416) 
-7. [第2424题：如何冻结一个 JS 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1415) 
-8. [第2425题：script 标签上有那些属性，作用分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1414) 
-9. [第2428题：如何搭建一套灰度系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1413) 
-10. [第2429题：使用 async/await 时，是否有必要加 try catch?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1412) 
+1. [第2412题：前端项目里，一般对请求 request 做哪些统一的封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1422) 
+2. [第2413题：onpopstate 可以监听到 pushstate 的事件吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1421) 
+3. [第2415题：原生 js 如何进行监听路由的变化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1420) 
+4. [第2417题：为什么 SPA 应用都会提供一个 hash 路由，好处是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1419) 
+5. [第2418题：实现管道函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1418) 
+6. [第2419题：如何优化 DOM 树解析过程？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1417) 
+7. [第2421题：Vue 项目中，你做过哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1416) 
+8. [第2424题：如何冻结一个 JS 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1415) 
+9. [第2425题：script 标签上有那些属性，作用分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1414) 
+10. [第2428题：如何搭建一套灰度系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1413) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
