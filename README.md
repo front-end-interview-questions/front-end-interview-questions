@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1430) 
-2. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1429) 
-3. [第2406题：React 中的 hooks 和 memorizedState 是什么关系?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1428) 
-4. [第2875题：怎么处理微信小程序里的静默授权异步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1427) 
-5. [第2407题：如何判断一个单向链表是否是循环链表？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1426) 
-6. [第2408题：为什么 webpack 可以通过文件打包，让浏览器可以支持 CommonJS 规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1425) 
-7. [第2874题：浏览器是否支持 CommonJs 规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1424) 
-8. [第2411题：如何封装一个请求，让其多次调用的时候，实际只发起一个请求的时候，返回同一份结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1423) 
-9. [第2412题：前端项目里，一般对请求 request 做哪些统一的封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1422) 
-10. [第2413题：onpopstate 可以监听到 pushstate 的事件吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1421) 
+1. [第2404题：never 是什么类型，详细讲一下](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1431) 
+2. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1430) 
+3. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1429) 
+4. [第2406题：React 中的 hooks 和 memorizedState 是什么关系?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1428) 
+5. [第2875题：怎么处理微信小程序里的静默授权异步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1427) 
+6. [第2407题：如何判断一个单向链表是否是循环链表？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1426) 
+7. [第2408题：为什么 webpack 可以通过文件打包，让浏览器可以支持 CommonJS 规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1425) 
+8. [第2874题：浏览器是否支持 CommonJs 规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1424) 
+9. [第2411题：如何封装一个请求，让其多次调用的时候，实际只发起一个请求的时候，返回同一份结果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1423) 
+10. [第2412题：前端项目里，一般对请求 request 做哪些统一的封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1422) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
