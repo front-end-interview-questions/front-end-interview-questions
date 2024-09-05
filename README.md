@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2395题：衡量页面性能的指标有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1438) 
-2. [第2397题：link 标签有哪些属性，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1437) 
-3. [第2398题：in 运算符作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1436) 
-4. [第2400题：infer 关键字是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1435) 
-5. [第2401题：extends 条件类型怎么定义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1434) 
-6. [第2402题：联合类型是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1433) 
-7. [第2403题：unknown 是什么类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1432) 
-8. [第2404题：never 是什么类型，详细讲一下](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1431) 
-9. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1430) 
-10. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1429) 
+1. [第2394题：怎么统计页面的性能指标？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1439) 
+2. [第2395题：衡量页面性能的指标有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1438) 
+3. [第2397题：link 标签有哪些属性，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1437) 
+4. [第2398题：in 运算符作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1436) 
+5. [第2400题：infer 关键字是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1435) 
+6. [第2401题：extends 条件类型怎么定义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1434) 
+7. [第2402题：联合类型是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1433) 
+8. [第2403题：unknown 是什么类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1432) 
+9. [第2404题：never 是什么类型，详细讲一下](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1431) 
+10. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1430) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
