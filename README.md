@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2400题：infer 关键字是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1435) 
-2. [第2401题：extends 条件类型怎么定义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1434) 
-3. [第2402题：联合类型是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1433) 
-4. [第2403题：unknown 是什么类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1432) 
-5. [第2404题：never 是什么类型，详细讲一下](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1431) 
-6. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1430) 
-7. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1429) 
-8. [第2406题：React 中的 hooks 和 memorizedState 是什么关系?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1428) 
-9. [第2875题：怎么处理微信小程序里的静默授权异步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1427) 
-10. [第2407题：如何判断一个单向链表是否是循环链表？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1426) 
+1. [第2398题：in 运算符作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1436) 
+2. [第2400题：infer 关键字是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1435) 
+3. [第2401题：extends 条件类型怎么定义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1434) 
+4. [第2402题：联合类型是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1433) 
+5. [第2403题：unknown 是什么类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1432) 
+6. [第2404题：never 是什么类型，详细讲一下](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1431) 
+7. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1430) 
+8. [第2405题：React 中，怎么给 children 添加额外的属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1429) 
+9. [第2406题：React 中的 hooks 和 memorizedState 是什么关系?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1428) 
+10. [第2875题：怎么处理微信小程序里的静默授权异步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1427) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
