@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2393题： link 标签的 rel 属性中，preload 和 prefetch 这两个值的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1440) 
-2. [第2394题：怎么统计页面的性能指标？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1439) 
-3. [第2395题：衡量页面性能的指标有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1438) 
-4. [第2397题：link 标签有哪些属性，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1437) 
-5. [第2398题：in 运算符作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1436) 
-6. [第2400题：infer 关键字是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1435) 
-7. [第2401题：extends 条件类型怎么定义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1434) 
-8. [第2402题：联合类型是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1433) 
-9. [第2403题：unknown 是什么类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1432) 
-10. [第2404题：never 是什么类型，详细讲一下](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1431) 
+1. [第2392题：HTML 部分标签中的 crossorigin 属性，作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1441) 
+2. [第2393题： link 标签的 rel 属性中，preload 和 prefetch 这两个值的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1440) 
+3. [第2394题：怎么统计页面的性能指标？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1439) 
+4. [第2395题：衡量页面性能的指标有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1438) 
+5. [第2397题：link 标签有哪些属性，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1437) 
+6. [第2398题：in 运算符作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1436) 
+7. [第2400题：infer 关键字是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1435) 
+8. [第2401题：extends 条件类型怎么定义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1434) 
+9. [第2402题：联合类型是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1433) 
+10. [第2403题：unknown 是什么类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1432) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
