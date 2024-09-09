@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2345题：实现一个函数， 计算两个日期之间的天数差](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1456) 
-2. [第2348题：JavaScript 中， 隐藏类是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1455) 
-3. [第2362题：用户访问页面白屏了， 原因是啥， 如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1454) 
-4. [第2350题：JavaScript 和 BOM、DOM 、ECMAScript、Nodejs 之间是什么关系](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1453) 
-5. [第2352题：splice 和 slice 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1452) 
-6. [第2353题：什么是匿名函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1451) 
-7. [第2356题：为什么现代前端应用需要打包工具进行打包编译？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1450) 
-8. [第2371题：箭头函数解决了什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1449) 
-9. [第2369题：副作用是什么概念](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1448) 
-10. [第2361题：JS 中如何实现大对象深度对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1447) 
+1. [第2342题：Object 对象有哪些场景 api ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1458) 
+2. [第2344题：实现日期格式化 format 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1457) 
+3. [第2345题：实现一个函数， 计算两个日期之间的天数差](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1456) 
+4. [第2348题：JavaScript 中， 隐藏类是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1455) 
+5. [第2362题：用户访问页面白屏了， 原因是啥， 如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1454) 
+6. [第2350题：JavaScript 和 BOM、DOM 、ECMAScript、Nodejs 之间是什么关系](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1453) 
+7. [第2352题：splice 和 slice 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1452) 
+8. [第2353题：什么是匿名函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1451) 
+9. [第2356题：为什么现代前端应用需要打包工具进行打包编译？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1450) 
+10. [第2371题：箭头函数解决了什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1449) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
