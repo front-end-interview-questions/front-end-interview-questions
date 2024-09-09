@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2362题：用户访问页面白屏了， 原因是啥， 如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1454) 
-2. [第2350题：JavaScript 和 BOM、DOM 、ECMAScript、Nodejs 之间是什么关系](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1453) 
-3. [第2352题：splice 和 slice 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1452) 
-4. [第2353题：什么是匿名函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1451) 
-5. [第2356题：为什么现代前端应用需要打包工具进行打包编译？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1450) 
-6. [第2371题：箭头函数解决了什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1449) 
-7. [第2369题：副作用是什么概念](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1448) 
-8. [第2361题：JS 中如何实现大对象深度对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1447) 
-9. [第2367题：web 网页如何禁止别人移除水印](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1446) 
-10. [第2387题：webpack tree-shaking 在什么情况下会失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1445) 
+1. [第2348题：JavaScript 中， 隐藏类是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1455) 
+2. [第2362题：用户访问页面白屏了， 原因是啥， 如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1454) 
+3. [第2350题：JavaScript 和 BOM、DOM 、ECMAScript、Nodejs 之间是什么关系](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1453) 
+4. [第2352题：splice 和 slice 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1452) 
+5. [第2353题：什么是匿名函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1451) 
+6. [第2356题：为什么现代前端应用需要打包工具进行打包编译？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1450) 
+7. [第2371题：箭头函数解决了什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1449) 
+8. [第2369题：副作用是什么概念](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1448) 
+9. [第2361题：JS 中如何实现大对象深度对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1447) 
+10. [第2367题：web 网页如何禁止别人移除水印](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1446) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
