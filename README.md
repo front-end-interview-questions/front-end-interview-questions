@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2330题：[React] Class Components 和 Function Components 有区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1464) 
-2. [第2372题：引用类型有哪些，有什么特点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1463) 
-3. [第2334题：将静态资源缓存在本地的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1462) 
-4. [第2341题：Vue2 动态给 data 添加一个新的属性时会发生什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1461) 
-5. [第2336题：[Vue] 为什么 data 属性是一个函数而不是一个对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1460) 
-6. [第2340题：如何拦截 web 应用的请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1459) 
-7. [第2342题：Object 对象有哪些场景 api ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1458) 
-8. [第2344题：实现日期格式化 format 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1457) 
-9. [第2345题：实现一个函数， 计算两个日期之间的天数差](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1456) 
-10. [第2348题：JavaScript 中， 隐藏类是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1455) 
+1. [第2335题：SPA首屏加载速度慢的怎么解决](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1465) 
+2. [第2330题：[React] Class Components 和 Function Components 有区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1464) 
+3. [第2372题：引用类型有哪些，有什么特点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1463) 
+4. [第2334题：将静态资源缓存在本地的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1462) 
+5. [第2341题：Vue2 动态给 data 添加一个新的属性时会发生什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1461) 
+6. [第2336题：[Vue] 为什么 data 属性是一个函数而不是一个对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1460) 
+7. [第2340题：如何拦截 web 应用的请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1459) 
+8. [第2342题：Object 对象有哪些场景 api ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1458) 
+9. [第2344题：实现日期格式化 format 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1457) 
+10. [第2345题：实现一个函数， 计算两个日期之间的天数差](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1456) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
