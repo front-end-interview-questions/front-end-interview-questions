@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2341题：Vue2 动态给 data 添加一个新的属性时会发生什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1461) 
-2. [第2336题：[Vue] 为什么 data 属性是一个函数而不是一个对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1460) 
-3. [第2340题：如何拦截 web 应用的请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1459) 
-4. [第2342题：Object 对象有哪些场景 api ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1458) 
-5. [第2344题：实现日期格式化 format 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1457) 
-6. [第2345题：实现一个函数， 计算两个日期之间的天数差](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1456) 
-7. [第2348题：JavaScript 中， 隐藏类是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1455) 
-8. [第2362题：用户访问页面白屏了， 原因是啥， 如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1454) 
-9. [第2350题：JavaScript 和 BOM、DOM 、ECMAScript、Nodejs 之间是什么关系](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1453) 
-10. [第2352题：splice 和 slice 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1452) 
+1. [第2334题：将静态资源缓存在本地的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1462) 
+2. [第2341题：Vue2 动态给 data 添加一个新的属性时会发生什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1461) 
+3. [第2336题：[Vue] 为什么 data 属性是一个函数而不是一个对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1460) 
+4. [第2340题：如何拦截 web 应用的请求](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1459) 
+5. [第2342题：Object 对象有哪些场景 api ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1458) 
+6. [第2344题：实现日期格式化 format 函数](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1457) 
+7. [第2345题：实现一个函数， 计算两个日期之间的天数差](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1456) 
+8. [第2348题：JavaScript 中， 隐藏类是什么概念？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1455) 
+9. [第2362题：用户访问页面白屏了， 原因是啥， 如何排查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1454) 
+10. [第2350题：JavaScript 和 BOM、DOM 、ECMAScript、Nodejs 之间是什么关系](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1453) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
