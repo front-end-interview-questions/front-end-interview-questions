@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2371题：箭头函数解决了什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1449) 
-2. [第2369题：副作用是什么概念](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1448) 
-3. [第2361题：JS 中如何实现大对象深度对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1447) 
-4. [第2367题：web 网页如何禁止别人移除水印](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1446) 
-5. [第2387题：webpack tree-shaking 在什么情况下会失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1445) 
-6. [第2389题：实现一个可以用 for...of 遍历的对象](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1444) 
-7. [第2876题：Js 中，有哪些方法可以退出循环](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1443) 
-8. [第2390题：for...of、for...in、for 循环， 三者有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1442) 
-9. [第2392题：HTML 部分标签中的 crossorigin 属性，作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1441) 
-10. [第2393题： link 标签的 rel 属性中，preload 和 prefetch 这两个值的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1440) 
+1. [第2356题：为什么现代前端应用需要打包工具进行打包编译？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1450) 
+2. [第2371题：箭头函数解决了什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1449) 
+3. [第2369题：副作用是什么概念](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1448) 
+4. [第2361题：JS 中如何实现大对象深度对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1447) 
+5. [第2367题：web 网页如何禁止别人移除水印](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1446) 
+6. [第2387题：webpack tree-shaking 在什么情况下会失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1445) 
+7. [第2389题：实现一个可以用 for...of 遍历的对象](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1444) 
+8. [第2876题：Js 中，有哪些方法可以退出循环](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1443) 
+9. [第2390题：for...of、for...in、for 循环， 三者有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1442) 
+10. [第2392题：HTML 部分标签中的 crossorigin 属性，作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1441) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
