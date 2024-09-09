@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2352题：splice 和 slice 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1452) 
-2. [第2353题：什么是匿名函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1451) 
-3. [第2356题：为什么现代前端应用需要打包工具进行打包编译？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1450) 
-4. [第2371题：箭头函数解决了什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1449) 
-5. [第2369题：副作用是什么概念](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1448) 
-6. [第2361题：JS 中如何实现大对象深度对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1447) 
-7. [第2367题：web 网页如何禁止别人移除水印](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1446) 
-8. [第2387题：webpack tree-shaking 在什么情况下会失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1445) 
-9. [第2389题：实现一个可以用 for...of 遍历的对象](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1444) 
-10. [第2876题：Js 中，有哪些方法可以退出循环](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1443) 
+1. [第2350题：JavaScript 和 BOM、DOM 、ECMAScript、Nodejs 之间是什么关系](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1453) 
+2. [第2352题：splice 和 slice 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1452) 
+3. [第2353题：什么是匿名函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1451) 
+4. [第2356题：为什么现代前端应用需要打包工具进行打包编译？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1450) 
+5. [第2371题：箭头函数解决了什么问题](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1449) 
+6. [第2369题：副作用是什么概念](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1448) 
+7. [第2361题：JS 中如何实现大对象深度对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1447) 
+8. [第2367题：web 网页如何禁止别人移除水印](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1446) 
+9. [第2387题：webpack tree-shaking 在什么情况下会失效？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1445) 
+10. [第2389题：实现一个可以用 for...of 遍历的对象](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1444) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
