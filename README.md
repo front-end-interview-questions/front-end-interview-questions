@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2878题：如果想在小程序中嵌入 markdown 的文档，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1470) 
-2. [第2324题：全局样式命名冲突和样式覆盖问题怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1469) 
-3. [第2323题：css  module 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1468) 
-4. [第2328题：[React] 从 React 层面上， 能做的性能优化有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1467) 
-5. [第2329题：[React] 高阶组件理解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1466) 
-6. [第2335题：SPA首屏加载速度慢的怎么解决](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1465) 
-7. [第2330题：[React] Class Components 和 Function Components 有区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1464) 
-8. [第2372题：引用类型有哪些，有什么特点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1463) 
-9. [第2334题：将静态资源缓存在本地的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1462) 
-10. [第2341题：Vue2 动态给 data 添加一个新的属性时会发生什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1461) 
+1. [第2877题：假如让你负责一个商城系统的开发，现在需要统计商品的点击量，你有什么样设计与实现的思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1471) 
+2. [第2878题：如果想在小程序中嵌入 markdown 的文档，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1470) 
+3. [第2324题：全局样式命名冲突和样式覆盖问题怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1469) 
+4. [第2323题：css  module 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1468) 
+5. [第2328题：[React] 从 React 层面上， 能做的性能优化有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1467) 
+6. [第2329题：[React] 高阶组件理解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1466) 
+7. [第2335题：SPA首屏加载速度慢的怎么解决](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1465) 
+8. [第2330题：[React] Class Components 和 Function Components 有区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1464) 
+9. [第2372题：引用类型有哪些，有什么特点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1463) 
+10. [第2334题：将静态资源缓存在本地的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1462) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
