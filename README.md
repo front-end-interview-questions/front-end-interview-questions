@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2324题：全局样式命名冲突和样式覆盖问题怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1469) 
-2. [第2323题：css  module 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1468) 
-3. [第2328题：[React] 从 React 层面上， 能做的性能优化有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1467) 
-4. [第2329题：[React] 高阶组件理解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1466) 
-5. [第2335题：SPA首屏加载速度慢的怎么解决](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1465) 
-6. [第2330题：[React] Class Components 和 Function Components 有区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1464) 
-7. [第2372题：引用类型有哪些，有什么特点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1463) 
-8. [第2334题：将静态资源缓存在本地的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1462) 
-9. [第2341题：Vue2 动态给 data 添加一个新的属性时会发生什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1461) 
-10. [第2336题：[Vue] 为什么 data 属性是一个函数而不是一个对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1460) 
+1. [第2878题：如果想在小程序中嵌入 markdown 的文档，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1470) 
+2. [第2324题：全局样式命名冲突和样式覆盖问题怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1469) 
+3. [第2323题：css  module 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1468) 
+4. [第2328题：[React] 从 React 层面上， 能做的性能优化有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1467) 
+5. [第2329题：[React] 高阶组件理解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1466) 
+6. [第2335题：SPA首屏加载速度慢的怎么解决](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1465) 
+7. [第2330题：[React] Class Components 和 Function Components 有区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1464) 
+8. [第2372题：引用类型有哪些，有什么特点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1463) 
+9. [第2334题：将静态资源缓存在本地的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1462) 
+10. [第2341题：Vue2 动态给 data 添加一个新的属性时会发生什么](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1461) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -174,7 +174,7 @@
 30. [第141题：以下哪一项会对对象 `person` 有副作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/132) 
 31. [第142题：以下哪一项会对对象 `person` 有副作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/133) 
 32. [第143题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/134) 
-33. [第144题：输出什么？【JavaScript原生class私有属性】](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/135) 
+33. [第144题：输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/135) 
 34. [第145题：选择哪一个？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/136) 
 35. [第146题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/137) 
 36. [第147题：输出什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/138) 
