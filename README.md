@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2360题：实现一个方法，可以对两个数组的维数进行对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1474) 
-2. [第2366题：你是怎么理解前端架构的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1473) 
-3. [第2368题：你参与过哪些前端基建方面的建设？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1472) 
-4. [第2877题：假如让你负责一个商城系统的开发，现在需要统计商品的点击量，你有什么样设计与实现的思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1471) 
-5. [第2878题：如果想在小程序中嵌入 markdown 的文档，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1470) 
-6. [第2324题：全局样式命名冲突和样式覆盖问题怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1469) 
-7. [第2323题：css  module 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1468) 
-8. [第2328题：[React] 从 React 层面上， 能做的性能优化有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1467) 
-9. [第2329题：[React] 高阶组件理解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1466) 
-10. [第2335题：SPA首屏加载速度慢的怎么解决](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1465) 
+1. [第2357题：vue-cli 有哪些功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1475) 
+2. [第2360题：实现一个方法，可以对两个数组的维数进行对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1474) 
+3. [第2366题：你是怎么理解前端架构的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1473) 
+4. [第2368题：你参与过哪些前端基建方面的建设？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1472) 
+5. [第2877题：假如让你负责一个商城系统的开发，现在需要统计商品的点击量，你有什么样设计与实现的思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1471) 
+6. [第2878题：如果想在小程序中嵌入 markdown 的文档，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1470) 
+7. [第2324题：全局样式命名冲突和样式覆盖问题怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1469) 
+8. [第2323题：css  module 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1468) 
+9. [第2328题：[React] 从 React 层面上， 能做的性能优化有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1467) 
+10. [第2329题：[React] 高阶组件理解多少？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1466) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
