@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2331题：React 中，构建组件的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1478) 
-2. [第2332题：React 如何实现 vue 中 keep-alive 的功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1477) 
-3. [第2349题：JavaScript 是怎么做内存管理的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1476) 
-4. [第2357题：vue-cli 有哪些功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1475) 
-5. [第2360题：实现一个方法，可以对两个数组的维数进行对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1474) 
-6. [第2366题：你是怎么理解前端架构的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1473) 
-7. [第2368题：你参与过哪些前端基建方面的建设？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1472) 
-8. [第2877题：假如让你负责一个商城系统的开发，现在需要统计商品的点击量，你有什么样设计与实现的思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1471) 
-9. [第2878题：如果想在小程序中嵌入 markdown 的文档，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1470) 
-10. [第2324题：全局样式命名冲突和样式覆盖问题怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1469) 
+1. [第2327题：React 是怎么渲染出页面的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1479) 
+2. [第2331题：React 中，构建组件的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1478) 
+3. [第2332题：React 如何实现 vue 中 keep-alive 的功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1477) 
+4. [第2349题：JavaScript 是怎么做内存管理的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1476) 
+5. [第2357题：vue-cli 有哪些功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1475) 
+6. [第2360题：实现一个方法，可以对两个数组的维数进行对比](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1474) 
+7. [第2366题：你是怎么理解前端架构的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1473) 
+8. [第2368题：你参与过哪些前端基建方面的建设？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1472) 
+9. [第2877题：假如让你负责一个商城系统的开发，现在需要统计商品的点击量，你有什么样设计与实现的思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1471) 
+10. [第2878题：如果想在小程序中嵌入 markdown 的文档，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1470) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
