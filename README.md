@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2310题：为何现在市面上做表格渲染可视化技术的，大多数都是 canvas ， 而很少用 svg 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1486) 
-2. [第2879题：JS中本地对象、内置对象、宿主对象分别是什么，有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1485) 
-3. [第2313题：请在不使用 setTimeout 的前提下，实现 setInterval](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1484) 
-4. [第2314题：PM2 部署 nodejs 有哪些优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1483) 
-5. [第2315题：http1.1 的 keep-alive 和 http2 的多路复用有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1482) 
-6. [第2316题：为什么 http2 能非常快速的过渡到 HTTP3 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1481) 
-7. [第2320题：怎么使用 webpack，将 JS 文件中的 css 提取到单独的样式文件中？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1480) 
-8. [第2327题：React 是怎么渲染出页面的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1479) 
-9. [第2331题：React 中，构建组件的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1478) 
-10. [第2332题：React 如何实现 vue 中 keep-alive 的功能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1477) 
+1. [第2309题：微前端的设计原则有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1487) 
+2. [第2310题：为何现在市面上做表格渲染可视化技术的，大多数都是 canvas ， 而很少用 svg 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1486) 
+3. [第2879题：JS中本地对象、内置对象、宿主对象分别是什么，有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1485) 
+4. [第2313题：请在不使用 setTimeout 的前提下，实现 setInterval](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1484) 
+5. [第2314题：PM2 部署 nodejs 有哪些优势？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1483) 
+6. [第2315题：http1.1 的 keep-alive 和 http2 的多路复用有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1482) 
+7. [第2316题：为什么 http2 能非常快速的过渡到 HTTP3 ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1481) 
+8. [第2320题：怎么使用 webpack，将 JS 文件中的 css 提取到单独的样式文件中？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1480) 
+9. [第2327题：React 是怎么渲染出页面的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1479) 
+10. [第2331题：React 中，构建组件的方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1478) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
