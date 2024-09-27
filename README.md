@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2884题：如何使用 JavaScript 控制 <audio> 和 <video> 元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1498) 
-2. [第2883题：html 中的视频，怎么添加字幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1497) 
-3. [第2881题：怎么理解 Vue3 提供的 markRaw ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1496) 
-4. [第2882题：现在要开发一个响应式的网站，怎么实现根据设备的尺寸和分辨率，加载不同尺寸的 banner？要求不使用 JavaScript](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1495) 
-5. [第2298题：Vue中的 ref、toRef 和 toRefs 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1494) 
-6. [第2304题：Webpack 怎么配置多入口应用， 并实现公共依赖的提取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1493) 
-7. [第2305题：Webpack 有哪些常见配置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1492) 
-8. [第2306题：为什么在技术选型中选择了 webpack？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1491) 
-9. [第2308题：微前端中的路由加载流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1490) 
-10. [第2307题：Webpack 中的 chunk 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1489) 
+1. [第2885题：如何优化音频和视频的加载性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1499) 
+2. [第2884题：如何使用 JavaScript 控制 <audio> 和 <video> 元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1498) 
+3. [第2883题：html 中的视频，怎么添加字幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1497) 
+4. [第2881题：怎么理解 Vue3 提供的 markRaw ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1496) 
+5. [第2882题：现在要开发一个响应式的网站，怎么实现根据设备的尺寸和分辨率，加载不同尺寸的 banner？要求不使用 JavaScript](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1495) 
+6. [第2298题：Vue中的 ref、toRef 和 toRefs 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1494) 
+7. [第2304题：Webpack 怎么配置多入口应用， 并实现公共依赖的提取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1493) 
+8. [第2305题：Webpack 有哪些常见配置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1492) 
+9. [第2306题：为什么在技术选型中选择了 webpack？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1491) 
+10. [第2308题：微前端中的路由加载流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1490) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
