@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2881题：怎么理解 Vue3 提供的 markRaw ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1496) 
-2. [第2882题：现在要开发一个响应式的网站，怎么实现根据设备的尺寸和分辨率，加载不同尺寸的 banner？要求不使用 JavaScript](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1495) 
-3. [第2298题：Vue中的 ref、toRef 和 toRefs 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1494) 
-4. [第2304题：Webpack 怎么配置多入口应用， 并实现公共依赖的提取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1493) 
-5. [第2305题：Webpack 有哪些常见配置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1492) 
-6. [第2306题：为什么在技术选型中选择了 webpack？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1491) 
-7. [第2308题：微前端中的路由加载流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1490) 
-8. [第2307题：Webpack 中的 chunk 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1489) 
-9. [第2880题：Vue 中的 h 函数有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1488) 
-10. [第2309题：微前端的设计原则有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1487) 
+1. [第2883题：html 中的视频，怎么添加字幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1497) 
+2. [第2881题：怎么理解 Vue3 提供的 markRaw ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1496) 
+3. [第2882题：现在要开发一个响应式的网站，怎么实现根据设备的尺寸和分辨率，加载不同尺寸的 banner？要求不使用 JavaScript](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1495) 
+4. [第2298题：Vue中的 ref、toRef 和 toRefs 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1494) 
+5. [第2304题：Webpack 怎么配置多入口应用， 并实现公共依赖的提取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1493) 
+6. [第2305题：Webpack 有哪些常见配置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1492) 
+7. [第2306题：为什么在技术选型中选择了 webpack？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1491) 
+8. [第2308题：微前端中的路由加载流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1490) 
+9. [第2307题：Webpack 中的 chunk 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1489) 
+10. [第2880题：Vue 中的 h 函数有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1488) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
