@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2298题：Vue中的 ref、toRef 和 toRefs 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1494) 
-2. [第2304题：Webpack 怎么配置多入口应用， 并实现公共依赖的提取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1493) 
-3. [第2305题：Webpack 有哪些常见配置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1492) 
-4. [第2306题：为什么在技术选型中选择了 webpack？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1491) 
-5. [第2308题：微前端中的路由加载流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1490) 
-6. [第2307题：Webpack 中的 chunk 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1489) 
-7. [第2880题：Vue 中的 h 函数有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1488) 
-8. [第2309题：微前端的设计原则有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1487) 
-9. [第2310题：为何现在市面上做表格渲染可视化技术的，大多数都是 canvas ， 而很少用 svg 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1486) 
-10. [第2879题：JS中本地对象、内置对象、宿主对象分别是什么，有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1485) 
+1. [第2882题：现在要开发一个响应式的网站，怎么实现根据设备的尺寸和分辨率，加载不同尺寸的 banner？要求不使用 JavaScript](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1495) 
+2. [第2298题：Vue中的 ref、toRef 和 toRefs 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1494) 
+3. [第2304题：Webpack 怎么配置多入口应用， 并实现公共依赖的提取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1493) 
+4. [第2305题：Webpack 有哪些常见配置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1492) 
+5. [第2306题：为什么在技术选型中选择了 webpack？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1491) 
+6. [第2308题：微前端中的路由加载流程是怎么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1490) 
+7. [第2307题：Webpack 中的 chunk 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1489) 
+8. [第2880题：Vue 中的 h 函数有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1488) 
+9. [第2309题：微前端的设计原则有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1487) 
+10. [第2310题：为何现在市面上做表格渲染可视化技术的，大多数都是 canvas ， 而很少用 svg 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1486) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
