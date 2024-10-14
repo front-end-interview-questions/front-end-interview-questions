@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2302题：一个使用了 Webpack 的前端项目，该怎么配置，实现使用 babel-loader 来编译 tsx 文件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1501) 
-2. [第2303题：Webpack 中的运行时 chunk 是什么？在项目工程中， 如何打包和加载这个运行时 chunk ?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1500) 
-3. [第2885题：如何优化音频和视频的加载性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1499) 
-4. [第2884题：如何使用 JavaScript 控制 <audio> 和 <video> 元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1498) 
-5. [第2883题：html 中的视频，怎么添加字幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1497) 
-6. [第2881题：怎么理解 Vue3 提供的 markRaw ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1496) 
-7. [第2882题：现在要开发一个响应式的网站，怎么实现根据设备的尺寸和分辨率，加载不同尺寸的 banner？要求不使用 JavaScript](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1495) 
-8. [第2298题：Vue中的 ref、toRef 和 toRefs 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1494) 
-9. [第2304题：Webpack 怎么配置多入口应用， 并实现公共依赖的提取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1493) 
-10. [第2305题：Webpack 有哪些常见配置？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1492) 
+1. [第2886题：怎么实现表单项间的联动？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1502) 
+2. [第2302题：一个使用了 Webpack 的前端项目，该怎么配置，实现使用 babel-loader 来编译 tsx 文件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1501) 
+3. [第2303题：Webpack 中的运行时 chunk 是什么？在项目工程中， 如何打包和加载这个运行时 chunk ?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1500) 
+4. [第2885题：如何优化音频和视频的加载性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1499) 
+5. [第2884题：如何使用 JavaScript 控制 <audio> 和 <video> 元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1498) 
+6. [第2883题：html 中的视频，怎么添加字幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1497) 
+7. [第2881题：怎么理解 Vue3 提供的 markRaw ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1496) 
+8. [第2882题：现在要开发一个响应式的网站，怎么实现根据设备的尺寸和分辨率，加载不同尺寸的 banner？要求不使用 JavaScript](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1495) 
+9. [第2298题：Vue中的 ref、toRef 和 toRefs 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1494) 
+10. [第2304题：Webpack 怎么配置多入口应用， 并实现公共依赖的提取？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1493) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
