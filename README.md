@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2296题：Vue 中的路由守卫是什么，可以在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1506) 
-2. [第2889题：html 中有哪些常见的实体字符？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1505) 
-3. [第2888题：html 文档中常见的 &nbsp; 是什么，有什么作用？
+1. [第2295题：React 中，如何实现类似于 Vue-router 提供的路由守卫？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1507) 
+2. [第2296题：Vue 中的路由守卫是什么，可以在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1506) 
+3. [第2889题：html 中有哪些常见的实体字符？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1505) 
+4. [第2888题：html 文档中常见的 &nbsp; 是什么，有什么作用？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1504) 
-4. [第2887题：说说你对 html 嵌套规则的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1503) 
-5. [第2886题：怎么实现表单项间的联动？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1502) 
-6. [第2302题：一个使用了 Webpack 的前端项目，该怎么配置，实现使用 babel-loader 来编译 tsx 文件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1501) 
-7. [第2303题：Webpack 中的运行时 chunk 是什么？在项目工程中， 如何打包和加载这个运行时 chunk ?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1500) 
-8. [第2885题：如何优化音频和视频的加载性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1499) 
-9. [第2884题：如何使用 JavaScript 控制 <audio> 和 <video> 元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1498) 
-10. [第2883题：html 中的视频，怎么添加字幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1497) 
+5. [第2887题：说说你对 html 嵌套规则的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1503) 
+6. [第2886题：怎么实现表单项间的联动？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1502) 
+7. [第2302题：一个使用了 Webpack 的前端项目，该怎么配置，实现使用 babel-loader 来编译 tsx 文件？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1501) 
+8. [第2303题：Webpack 中的运行时 chunk 是什么？在项目工程中， 如何打包和加载这个运行时 chunk ?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1500) 
+9. [第2885题：如何优化音频和视频的加载性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1499) 
+10. [第2884题：如何使用 JavaScript 控制 <audio> 和 <video> 元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1498) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
