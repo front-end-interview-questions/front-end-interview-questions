@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2286题：低代码平台怎么设计渲染模块？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1511) 
-2. [第2288题：如果公司要做一个低代码平台，你会怎么进行架构设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1510) 
-3. [第2891题：怎么让页面上的某块区域全屏展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1509) 
-4. [第2890题：怎么在页面上获取用户的定位信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1508) 
-5. [第2295题：React 中，如何实现类似于 Vue-router 提供的路由守卫？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1507) 
-6. [第2296题：Vue 中的路由守卫是什么，可以在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1506) 
-7. [第2889题：html 中有哪些常见的实体字符？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1505) 
-8. [第2888题：html 文档中常见的 &nbsp; 是什么，有什么作用？
+1. [第2287题：低代码平台的页面数据结构该怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1512) 
+2. [第2286题：低代码平台怎么设计渲染模块？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1511) 
+3. [第2288题：如果公司要做一个低代码平台，你会怎么进行架构设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1510) 
+4. [第2891题：怎么让页面上的某块区域全屏展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1509) 
+5. [第2890题：怎么在页面上获取用户的定位信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1508) 
+6. [第2295题：React 中，如何实现类似于 Vue-router 提供的路由守卫？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1507) 
+7. [第2296题：Vue 中的路由守卫是什么，可以在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1506) 
+8. [第2889题：html 中有哪些常见的实体字符？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1505) 
+9. [第2888题：html 文档中常见的 &nbsp; 是什么，有什么作用？
 
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1504) 
-9. [第2887题：说说你对 html 嵌套规则的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1503) 
-10. [第2886题：怎么实现表单项间的联动？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1502) 
+10. [第2887题：说说你对 html 嵌套规则的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1503) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
