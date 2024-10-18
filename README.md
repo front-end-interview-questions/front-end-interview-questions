@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2285题：在前端应用中，怎么进行系统权限的设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1514) 
-2. [第2892题：怎么在 react 技术栈的低代码平台中，实现组件的脚本注入？
+1. [第2284题：说说 jwt 中的 token，是怎么进行身份验证的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1515) 
+2. [第2285题：在前端应用中，怎么进行系统权限的设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1514) 
+3. [第2892题：怎么在 react 技术栈的低代码平台中，实现组件的脚本注入？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1513) 
-3. [第2287题：低代码平台的页面数据结构该怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1512) 
-4. [第2286题：低代码平台怎么设计渲染模块？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1511) 
-5. [第2288题：如果公司要做一个低代码平台，你会怎么进行架构设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1510) 
-6. [第2891题：怎么让页面上的某块区域全屏展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1509) 
-7. [第2890题：怎么在页面上获取用户的定位信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1508) 
-8. [第2295题：React 中，如何实现类似于 Vue-router 提供的路由守卫？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1507) 
-9. [第2296题：Vue 中的路由守卫是什么，可以在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1506) 
-10. [第2889题：html 中有哪些常见的实体字符？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1505) 
+4. [第2287题：低代码平台的页面数据结构该怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1512) 
+5. [第2286题：低代码平台怎么设计渲染模块？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1511) 
+6. [第2288题：如果公司要做一个低代码平台，你会怎么进行架构设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1510) 
+7. [第2891题：怎么让页面上的某块区域全屏展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1509) 
+8. [第2890题：怎么在页面上获取用户的定位信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1508) 
+9. [第2295题：React 中，如何实现类似于 Vue-router 提供的路由守卫？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1507) 
+10. [第2296题：Vue 中的路由守卫是什么，可以在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1506) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
