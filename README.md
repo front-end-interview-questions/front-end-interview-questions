@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2893题：git merge master 与 git merge origin master 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1518) 
-2. [第2281题：想要实现页面加载速度提升（性能优化），可以从哪些方向来尝试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1517) 
-3. [第2283题：如果让你实现一个前端日志埋点 SDK，你会有什么样的设计思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1516) 
-4. [第2284题：说说 jwt 中的 token，是怎么进行身份验证的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1515) 
-5. [第2285题：在前端应用中，怎么进行系统权限的设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1514) 
-6. [第2892题：怎么在 react 技术栈的低代码平台中，实现组件的脚本注入？
+1. [第2894题：怎么实现一段文字颜色渐变的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1519) 
+2. [第2893题：git merge master 与 git merge origin master 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1518) 
+3. [第2281题：想要实现页面加载速度提升（性能优化），可以从哪些方向来尝试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1517) 
+4. [第2283题：如果让你实现一个前端日志埋点 SDK，你会有什么样的设计思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1516) 
+5. [第2284题：说说 jwt 中的 token，是怎么进行身份验证的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1515) 
+6. [第2285题：在前端应用中，怎么进行系统权限的设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1514) 
+7. [第2892题：怎么在 react 技术栈的低代码平台中，实现组件的脚本注入？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1513) 
-7. [第2287题：低代码平台的页面数据结构该怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1512) 
-8. [第2286题：低代码平台怎么设计渲染模块？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1511) 
-9. [第2288题：如果公司要做一个低代码平台，你会怎么进行架构设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1510) 
-10. [第2891题：怎么让页面上的某块区域全屏展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1509) 
+8. [第2287题：低代码平台的页面数据结构该怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1512) 
+9. [第2286题：低代码平台怎么设计渲染模块？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1511) 
+10. [第2288题：如果公司要做一个低代码平台，你会怎么进行架构设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1510) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
