@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2896题：有一个新的前端项目需要部署到线上，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1520) 
-2. [第2894题：怎么实现一段文字颜色渐变的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1519) 
-3. [第2893题：git merge master 与 git merge origin master 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1518) 
-4. [第2281题：想要实现页面加载速度提升（性能优化），可以从哪些方向来尝试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1517) 
-5. [第2283题：如果让你实现一个前端日志埋点 SDK，你会有什么样的设计思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1516) 
-6. [第2284题：说说 jwt 中的 token，是怎么进行身份验证的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1515) 
-7. [第2285题：在前端应用中，怎么进行系统权限的设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1514) 
-8. [第2892题：怎么在 react 技术栈的低代码平台中，实现组件的脚本注入？
+1. [第2897题：ChatGPT 的对话功能实现，为什么选择 SSE 协议而非 Websocket ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1521) 
+2. [第2896题：有一个新的前端项目需要部署到线上，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1520) 
+3. [第2894题：怎么实现一段文字颜色渐变的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1519) 
+4. [第2893题：git merge master 与 git merge origin master 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1518) 
+5. [第2281题：想要实现页面加载速度提升（性能优化），可以从哪些方向来尝试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1517) 
+6. [第2283题：如果让你实现一个前端日志埋点 SDK，你会有什么样的设计思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1516) 
+7. [第2284题：说说 jwt 中的 token，是怎么进行身份验证的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1515) 
+8. [第2285题：在前端应用中，怎么进行系统权限的设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1514) 
+9. [第2892题：怎么在 react 技术栈的低代码平台中，实现组件的脚本注入？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1513) 
-9. [第2287题：低代码平台的页面数据结构该怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1512) 
-10. [第2286题：低代码平台怎么设计渲染模块？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1511) 
+10. [第2287题：低代码平台的页面数据结构该怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1512) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
