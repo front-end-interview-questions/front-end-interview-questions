@@ -18,17 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2280题：在项目中封装组件时，你会有些什么样的原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1522) 
-2. [第2897题：ChatGPT 的对话功能实现，为什么选择 SSE 协议而非 Websocket ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1521) 
-3. [第2896题：有一个新的前端项目需要部署到线上，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1520) 
-4. [第2894题：怎么实现一段文字颜色渐变的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1519) 
-5. [第2893题：git merge master 与 git merge origin master 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1518) 
-6. [第2281题：想要实现页面加载速度提升（性能优化），可以从哪些方向来尝试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1517) 
-7. [第2283题：如果让你实现一个前端日志埋点 SDK，你会有什么样的设计思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1516) 
-8. [第2284题：说说 jwt 中的 token，是怎么进行身份验证的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1515) 
-9. [第2285题：在前端应用中，怎么进行系统权限的设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1514) 
-10. [第2892题：怎么在 react 技术栈的低代码平台中，实现组件的脚本注入？
-](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1513) 
+1. [第2279题：后端一次性返回树形结构数据，数据量非常大, 前端该如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1523) 
+2. [第2280题：在项目中封装组件时，你会有些什么样的原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1522) 
+3. [第2897题：ChatGPT 的对话功能实现，为什么选择 SSE 协议而非 Websocket ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1521) 
+4. [第2896题：有一个新的前端项目需要部署到线上，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1520) 
+5. [第2894题：怎么实现一段文字颜色渐变的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1519) 
+6. [第2893题：git merge master 与 git merge origin master 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1518) 
+7. [第2281题：想要实现页面加载速度提升（性能优化），可以从哪些方向来尝试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1517) 
+8. [第2283题：如果让你实现一个前端日志埋点 SDK，你会有什么样的设计思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1516) 
+9. [第2284题：说说 jwt 中的 token，是怎么进行身份验证的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1515) 
+10. [第2285题：在前端应用中，怎么进行系统权限的设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1514) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
