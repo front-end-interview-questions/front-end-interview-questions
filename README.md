@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2275题：基于 axios 实现请求超时后，自动重试](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1526) 
-2. [第2277题：前端系统中，怎么统一处理登录态过期的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1525) 
-3. [第2278题：Node.js 是单线程的，那该如何充分利用多核 CPU 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1524) 
-4. [第2279题：后端一次性返回树形结构数据，数据量非常大, 前端该如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1523) 
-5. [第2280题：在项目中封装组件时，你会有些什么样的原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1522) 
-6. [第2897题：ChatGPT 的对话功能实现，为什么选择 SSE 协议而非 Websocket ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1521) 
-7. [第2896题：有一个新的前端项目需要部署到线上，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1520) 
-8. [第2894题：怎么实现一段文字颜色渐变的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1519) 
-9. [第2893题：git merge master 与 git merge origin master 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1518) 
-10. [第2281题：想要实现页面加载速度提升（性能优化），可以从哪些方向来尝试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1517) 
+1. [第2272题：vite 使用了哪些编译器，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1527) 
+2. [第2275题：基于 axios 实现请求超时后，自动重试](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1526) 
+3. [第2277题：前端系统中，怎么统一处理登录态过期的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1525) 
+4. [第2278题：Node.js 是单线程的，那该如何充分利用多核 CPU 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1524) 
+5. [第2279题：后端一次性返回树形结构数据，数据量非常大, 前端该如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1523) 
+6. [第2280题：在项目中封装组件时，你会有些什么样的原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1522) 
+7. [第2897题：ChatGPT 的对话功能实现，为什么选择 SSE 协议而非 Websocket ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1521) 
+8. [第2896题：有一个新的前端项目需要部署到线上，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1520) 
+9. [第2894题：怎么实现一段文字颜色渐变的效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1519) 
+10. [第2893题：git merge master 与 git merge origin master 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1518) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
