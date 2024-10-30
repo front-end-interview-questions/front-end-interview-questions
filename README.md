@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2265题：常见的登录鉴权方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1533) 
-2. [第2266题：webpack 中的 webpack-dev-server 为什么不适用于线上环境？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1532) 
-3. [第2267题：webpack 中的 webpack-dev-server 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1531) 
-4. [第2268题：在域名 A 的网站上，跨域请求域名 B 上的接口，怎么在跨域请求中携带域名 B 的 Cookie 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1530) 
-5. [第2269题：vite 和  webpack 在热更新的实现上有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1529) 
-6. [第2270题：esbuild 和 rollup 都是 vite 的基础依赖，它们有什么不同呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1528) 
-7. [第2272题：vite 使用了哪些编译器，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1527) 
-8. [第2275题：基于 axios 实现请求超时后，自动重试](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1526) 
-9. [第2277题：前端系统中，怎么统一处理登录态过期的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1525) 
-10. [第2278题：Node.js 是单线程的，那该如何充分利用多核 CPU 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1524) 
+1. [第2263题：OAuth2.0 是什么，是怎么实现授权第三方应用登录的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1534) 
+2. [第2265题：常见的登录鉴权方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1533) 
+3. [第2266题：webpack 中的 webpack-dev-server 为什么不适用于线上环境？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1532) 
+4. [第2267题：webpack 中的 webpack-dev-server 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1531) 
+5. [第2268题：在域名 A 的网站上，跨域请求域名 B 上的接口，怎么在跨域请求中携带域名 B 的 Cookie 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1530) 
+6. [第2269题：vite 和  webpack 在热更新的实现上有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1529) 
+7. [第2270题：esbuild 和 rollup 都是 vite 的基础依赖，它们有什么不同呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1528) 
+8. [第2272题：vite 使用了哪些编译器，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1527) 
+9. [第2275题：基于 axios 实现请求超时后，自动重试](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1526) 
+10. [第2277题：前端系统中，怎么统一处理登录态过期的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1525) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
