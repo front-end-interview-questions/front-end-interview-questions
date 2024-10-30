@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2269题：vite 和  webpack 在热更新的实现上有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1529) 
-2. [第2270题：esbuild 和 rollup 都是 vite 的基础依赖，它们有什么不同呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1528) 
-3. [第2272题：vite 使用了哪些编译器，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1527) 
-4. [第2275题：基于 axios 实现请求超时后，自动重试](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1526) 
-5. [第2277题：前端系统中，怎么统一处理登录态过期的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1525) 
-6. [第2278题：Node.js 是单线程的，那该如何充分利用多核 CPU 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1524) 
-7. [第2279题：后端一次性返回树形结构数据，数据量非常大, 前端该如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1523) 
-8. [第2280题：在项目中封装组件时，你会有些什么样的原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1522) 
-9. [第2897题：ChatGPT 的对话功能实现，为什么选择 SSE 协议而非 Websocket ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1521) 
-10. [第2896题：有一个新的前端项目需要部署到线上，你有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1520) 
+1. [第2268题：在域名 A 的网站上，跨域请求域名 B 上的接口，怎么在跨域请求中携带域名 B 的 Cookie 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1530) 
+2. [第2269题：vite 和  webpack 在热更新的实现上有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1529) 
+3. [第2270题：esbuild 和 rollup 都是 vite 的基础依赖，它们有什么不同呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1528) 
+4. [第2272题：vite 使用了哪些编译器，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1527) 
+5. [第2275题：基于 axios 实现请求超时后，自动重试](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1526) 
+6. [第2277题：前端系统中，怎么统一处理登录态过期的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1525) 
+7. [第2278题：Node.js 是单线程的，那该如何充分利用多核 CPU 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1524) 
+8. [第2279题：后端一次性返回树形结构数据，数据量非常大, 前端该如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1523) 
+9. [第2280题：在项目中封装组件时，你会有些什么样的原则？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1522) 
+10. [第2897题：ChatGPT 的对话功能实现，为什么选择 SSE 协议而非 Websocket ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1521) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
