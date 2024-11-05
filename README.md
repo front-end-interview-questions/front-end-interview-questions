@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2262题：请求 Header 中的 Content-Type ，有哪些常见的值?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1535) 
-2. [第2263题：OAuth2.0 是什么，是怎么实现授权第三方应用登录的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1534) 
-3. [第2265题：常见的登录鉴权方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1533) 
-4. [第2266题：webpack 中的 webpack-dev-server 为什么不适用于线上环境？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1532) 
-5. [第2267题：webpack 中的 webpack-dev-server 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1531) 
-6. [第2268题：在域名 A 的网站上，跨域请求域名 B 上的接口，怎么在跨域请求中携带域名 B 的 Cookie 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1530) 
-7. [第2269题：vite 和  webpack 在热更新的实现上有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1529) 
-8. [第2270题：esbuild 和 rollup 都是 vite 的基础依赖，它们有什么不同呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1528) 
-9. [第2272题：vite 使用了哪些编译器，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1527) 
-10. [第2275题：基于 axios 实现请求超时后，自动重试](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1526) 
+1. [第2898题：浏览器是怎么解析 HTML 文档的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1536) 
+2. [第2262题：请求 Header 中的 Content-Type ，有哪些常见的值?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1535) 
+3. [第2263题：OAuth2.0 是什么，是怎么实现授权第三方应用登录的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1534) 
+4. [第2265题：常见的登录鉴权方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1533) 
+5. [第2266题：webpack 中的 webpack-dev-server 为什么不适用于线上环境？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1532) 
+6. [第2267题：webpack 中的 webpack-dev-server 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1531) 
+7. [第2268题：在域名 A 的网站上，跨域请求域名 B 上的接口，怎么在跨域请求中携带域名 B 的 Cookie 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1530) 
+8. [第2269题：vite 和  webpack 在热更新的实现上有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1529) 
+9. [第2270题：esbuild 和 rollup 都是 vite 的基础依赖，它们有什么不同呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1528) 
+10. [第2272题：vite 使用了哪些编译器，分别有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1527) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
