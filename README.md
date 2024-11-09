@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2901题：position 的 sticky 有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1539) 
-2. [第2900题：说说你对 CSS 变量的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1538) 
-3. [第2899题：说说你对高阶函数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1537) 
-4. [第2898题：浏览器是怎么解析 HTML 文档的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1536) 
-5. [第2262题：请求 Header 中的 Content-Type ，有哪些常见的值?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1535) 
-6. [第2263题：OAuth2.0 是什么，是怎么实现授权第三方应用登录的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1534) 
-7. [第2265题：常见的登录鉴权方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1533) 
-8. [第2266题：webpack 中的 webpack-dev-server 为什么不适用于线上环境？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1532) 
-9. [第2267题：webpack 中的 webpack-dev-server 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1531) 
-10. [第2268题：在域名 A 的网站上，跨域请求域名 B 上的接口，怎么在跨域请求中携带域名 B 的 Cookie 呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1530) 
+1. [第2902题：说说你对原子化 CSS 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1540) 
+2. [第2901题：position 的 sticky 有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1539) 
+3. [第2900题：说说你对 CSS 变量的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1538) 
+4. [第2899题：说说你对高阶函数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1537) 
+5. [第2898题：浏览器是怎么解析 HTML 文档的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1536) 
+6. [第2262题：请求 Header 中的 Content-Type ，有哪些常见的值?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1535) 
+7. [第2263题：OAuth2.0 是什么，是怎么实现授权第三方应用登录的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1534) 
+8. [第2265题：常见的登录鉴权方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1533) 
+9. [第2266题：webpack 中的 webpack-dev-server 为什么不适用于线上环境？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1532) 
+10. [第2267题：webpack 中的 webpack-dev-server 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1531) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
