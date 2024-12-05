@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2903题：使用 const 定义函数和直接用 function 声明有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1542) 
-2. [第2261题：如果想在图片这块做性能优化，你有哪些思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1541) 
-3. [第2902题：说说你对原子化 CSS 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1540) 
-4. [第2901题：position 的 sticky 有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1539) 
-5. [第2900题：说说你对 CSS 变量的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1538) 
-6. [第2899题：说说你对高阶函数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1537) 
-7. [第2898题：浏览器是怎么解析 HTML 文档的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1536) 
-8. [第2262题：请求 Header 中的 Content-Type ，有哪些常见的值?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1535) 
-9. [第2263题：OAuth2.0 是什么，是怎么实现授权第三方应用登录的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1534) 
-10. [第2265题：常见的登录鉴权方式有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1533) 
+1. [第2260题：如何禁止他人使用控制台调试前端页面代码?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1543) 
+2. [第2903题：使用 const 定义函数和直接用 function 声明有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1542) 
+3. [第2261题：如果想在图片这块做性能优化，你有哪些思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1541) 
+4. [第2902题：说说你对原子化 CSS 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1540) 
+5. [第2901题：position 的 sticky 有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1539) 
+6. [第2900题：说说你对 CSS 变量的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1538) 
+7. [第2899题：说说你对高阶函数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1537) 
+8. [第2898题：浏览器是怎么解析 HTML 文档的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1536) 
+9. [第2262题：请求 Header 中的 Content-Type ，有哪些常见的值?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1535) 
+10. [第2263题：OAuth2.0 是什么，是怎么实现授权第三方应用登录的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1534) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
