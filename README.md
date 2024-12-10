@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2257题：如果有 git 仓库需要迁移，应该怎么操作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1546) 
-2. [第2258题：说说 TypeScript 中，有哪些内置的类型方法和工具类型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1545) 
-3. [第2904题：使用第三方库可能带来哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1544) 
-4. [第2260题：如何禁止他人使用控制台调试前端页面代码?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1543) 
-5. [第2903题：使用 const 定义函数和直接用 function 声明有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1542) 
-6. [第2261题：如果想在图片这块做性能优化，你有哪些思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1541) 
-7. [第2902题：说说你对原子化 CSS 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1540) 
-8. [第2901题：position 的 sticky 有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1539) 
-9. [第2900题：说说你对 CSS 变量的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1538) 
-10. [第2899题：说说你对高阶函数的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1537) 
+1. [第2256题：有了解过 Protobuf 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1547) 
+2. [第2257题：如果有 git 仓库需要迁移，应该怎么操作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1546) 
+3. [第2258题：说说 TypeScript 中，有哪些内置的类型方法和工具类型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1545) 
+4. [第2904题：使用第三方库可能带来哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1544) 
+5. [第2260题：如何禁止他人使用控制台调试前端页面代码?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1543) 
+6. [第2903题：使用 const 定义函数和直接用 function 声明有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1542) 
+7. [第2261题：如果想在图片这块做性能优化，你有哪些思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1541) 
+8. [第2902题：说说你对原子化 CSS 的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1540) 
+9. [第2901题：position 的 sticky 有什么应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1539) 
+10. [第2900题：说说你对 CSS 变量的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1538) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
