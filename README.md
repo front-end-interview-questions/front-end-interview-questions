@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2249题：CORS 请求中，什么情况下会触发预检请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1555) 
-2. [第2250题：说说你对 http 协议中 HSTS 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1554) 
-3. [第2251题：http 协议中的 CSP 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1553) 
-4. [第2907题：Pinia 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1552) 
-5. [第2906题：说说 Pinia 与 Vuex 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1551) 
-6. [第2905题：说说你对 Vue 中异步组件的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1550) 
-7. [第2252题：如果需要使用 JS 执行 100 万个任务，如何保证浏览器不卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1549) 
-8. [第2254题：你知道哪些常见的网络协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1548) 
-9. [第2256题：有了解过 Protobuf 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1547) 
-10. [第2257题：如果有 git 仓库需要迁移，应该怎么操作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1546) 
+1. [第2248题：对于分页的列表，怎么解决快速翻页场景下的竞态问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1556) 
+2. [第2249题：CORS 请求中，什么情况下会触发预检请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1555) 
+3. [第2250题：说说你对 http 协议中 HSTS 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1554) 
+4. [第2251题：http 协议中的 CSP 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1553) 
+5. [第2907题：Pinia 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1552) 
+6. [第2906题：说说 Pinia 与 Vuex 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1551) 
+7. [第2905题：说说你对 Vue 中异步组件的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1550) 
+8. [第2252题：如果需要使用 JS 执行 100 万个任务，如何保证浏览器不卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1549) 
+9. [第2254题：你知道哪些常见的网络协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1548) 
+10. [第2256题：有了解过 Protobuf 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1547) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
