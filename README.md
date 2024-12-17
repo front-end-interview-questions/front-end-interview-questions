@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2906题：说说 Pinia 与 Vuex 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1551) 
-2. [第2905题：说说你对 Vue 中异步组件的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1550) 
-3. [第2252题：如果需要使用 JS 执行 100 万个任务，如何保证浏览器不卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1549) 
-4. [第2254题：你知道哪些常见的网络协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1548) 
-5. [第2256题：有了解过 Protobuf 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1547) 
-6. [第2257题：如果有 git 仓库需要迁移，应该怎么操作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1546) 
-7. [第2258题：说说 TypeScript 中，有哪些内置的类型方法和工具类型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1545) 
-8. [第2904题：使用第三方库可能带来哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1544) 
-9. [第2260题：如何禁止他人使用控制台调试前端页面代码?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1543) 
-10. [第2903题：使用 const 定义函数和直接用 function 声明有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1542) 
+1. [第2907题：Pinia 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1552) 
+2. [第2906题：说说 Pinia 与 Vuex 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1551) 
+3. [第2905题：说说你对 Vue 中异步组件的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1550) 
+4. [第2252题：如果需要使用 JS 执行 100 万个任务，如何保证浏览器不卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1549) 
+5. [第2254题：你知道哪些常见的网络协议？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1548) 
+6. [第2256题：有了解过 Protobuf 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1547) 
+7. [第2257题：如果有 git 仓库需要迁移，应该怎么操作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1546) 
+8. [第2258题：说说 TypeScript 中，有哪些内置的类型方法和工具类型](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1545) 
+9. [第2904题：使用第三方库可能带来哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1544) 
+10. [第2260题：如何禁止他人使用控制台调试前端页面代码?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1543) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
