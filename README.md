@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2908题：watch与watchEffect 有什么区别，分别在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1558) 
-2. [第2247题：JS 代码放在 head 里和放在 body 里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1557) 
-3. [第2248题：对于分页的列表，怎么解决快速翻页场景下的竞态问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1556) 
-4. [第2249题：CORS 请求中，什么情况下会触发预检请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1555) 
-5. [第2250题：说说你对 http 协议中 HSTS 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1554) 
-6. [第2251题：http 协议中的 CSP 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1553) 
-7. [第2907题：Pinia 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1552) 
-8. [第2906题：说说 Pinia 与 Vuex 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1551) 
-9. [第2905题：说说你对 Vue 中异步组件的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1550) 
-10. [第2252题：如果需要使用 JS 执行 100 万个任务，如何保证浏览器不卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1549) 
+1. [第2245题：如何检测网页空闲状态（即一定时间内无操作）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1559) 
+2. [第2908题：watch与watchEffect 有什么区别，分别在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1558) 
+3. [第2247题：JS 代码放在 head 里和放在 body 里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1557) 
+4. [第2248题：对于分页的列表，怎么解决快速翻页场景下的竞态问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1556) 
+5. [第2249题：CORS 请求中，什么情况下会触发预检请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1555) 
+6. [第2250题：说说你对 http 协议中 HSTS 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1554) 
+7. [第2251题：http 协议中的 CSP 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1553) 
+8. [第2907题：Pinia 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1552) 
+9. [第2906题：说说 Pinia 与 Vuex 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1551) 
+10. [第2905题：说说你对 Vue 中异步组件的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1550) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
