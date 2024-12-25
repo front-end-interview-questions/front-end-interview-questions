@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2240题：说说 Eslint 进行代码检查的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1562) 
-2. [第2242题：CSS 属性值计算 - calc 怎么使用，具体有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1561) 
-3. [第2244题：HTTP是一个无状态的协议，那么Web应用是怎么保持用户的登录态的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1560) 
-4. [第2245题：如何检测网页空闲状态（即一定时间内无操作）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1559) 
-5. [第2908题：watch与watchEffect 有什么区别，分别在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1558) 
-6. [第2247题：JS 代码放在 head 里和放在 body 里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1557) 
-7. [第2248题：对于分页的列表，怎么解决快速翻页场景下的竞态问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1556) 
-8. [第2249题：CORS 请求中，什么情况下会触发预检请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1555) 
-9. [第2250题：说说你对 http 协议中 HSTS 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1554) 
-10. [第2251题：http 协议中的 CSP 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1553) 
+1. [第2239题：前端应用上线后，怎么通知用户刷新当前页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1563) 
+2. [第2240题：说说 Eslint 进行代码检查的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1562) 
+3. [第2242题：CSS 属性值计算 - calc 怎么使用，具体有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1561) 
+4. [第2244题：HTTP是一个无状态的协议，那么Web应用是怎么保持用户的登录态的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1560) 
+5. [第2245题：如何检测网页空闲状态（即一定时间内无操作）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1559) 
+6. [第2908题：watch与watchEffect 有什么区别，分别在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1558) 
+7. [第2247题：JS 代码放在 head 里和放在 body 里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1557) 
+8. [第2248题：对于分页的列表，怎么解决快速翻页场景下的竞态问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1556) 
+9. [第2249题：CORS 请求中，什么情况下会触发预检请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1555) 
+10. [第2250题：说说你对 http 协议中 HSTS 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1554) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
