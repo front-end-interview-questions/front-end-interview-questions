@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2238题：JS 的严格模式有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1564) 
-2. [第2239题：前端应用上线后，怎么通知用户刷新当前页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1563) 
-3. [第2240题：说说 Eslint 进行代码检查的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1562) 
-4. [第2242题：CSS 属性值计算 - calc 怎么使用，具体有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1561) 
-5. [第2244题：HTTP是一个无状态的协议，那么Web应用是怎么保持用户的登录态的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1560) 
-6. [第2245题：如何检测网页空闲状态（即一定时间内无操作）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1559) 
-7. [第2908题：watch与watchEffect 有什么区别，分别在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1558) 
-8. [第2247题：JS 代码放在 head 里和放在 body 里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1557) 
-9. [第2248题：对于分页的列表，怎么解决快速翻页场景下的竞态问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1556) 
-10. [第2249题：CORS 请求中，什么情况下会触发预检请求？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1555) 
+1. [第2237题：JS 的严格模式为什么会禁用 with 语句？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1565) 
+2. [第2238题：JS 的严格模式有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1564) 
+3. [第2239题：前端应用上线后，怎么通知用户刷新当前页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1563) 
+4. [第2240题：说说 Eslint 进行代码检查的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1562) 
+5. [第2242题：CSS 属性值计算 - calc 怎么使用，具体有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1561) 
+6. [第2244题：HTTP是一个无状态的协议，那么Web应用是怎么保持用户的登录态的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1560) 
+7. [第2245题：如何检测网页空闲状态（即一定时间内无操作）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1559) 
+8. [第2908题：watch与watchEffect 有什么区别，分别在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1558) 
+9. [第2247题：JS 代码放在 head 里和放在 body 里有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1557) 
+10. [第2248题：对于分页的列表，怎么解决快速翻页场景下的竞态问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1556) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
