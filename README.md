@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2233题：在Babel里，stage0、stage1、stage2 和 stage3 分别代表什么含义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1569) 
-2. [第2234题：对于一个使用 Webpack 的项目，如果需要直接通过 script 标签引入第三方的资源，应该怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1568) 
-3. [第2235题：怎么遍历 ES6 中的 Map 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1567) 
-4. [第2236题：怎么遍历 ES6 中的 Set 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1566) 
-5. [第2237题：JS 的严格模式为什么会禁用 with 语句？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1565) 
-6. [第2238题：JS 的严格模式有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1564) 
-7. [第2239题：前端应用上线后，怎么通知用户刷新当前页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1563) 
-8. [第2240题：说说 Eslint 进行代码检查的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1562) 
-9. [第2242题：CSS 属性值计算 - calc 怎么使用，具体有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1561) 
-10. [第2244题：HTTP是一个无状态的协议，那么Web应用是怎么保持用户的登录态的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1560) 
+1. [第2230题：Proxy 和 Reflect 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1570) 
+2. [第2233题：在Babel里，stage0、stage1、stage2 和 stage3 分别代表什么含义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1569) 
+3. [第2234题：对于一个使用 Webpack 的项目，如果需要直接通过 script 标签引入第三方的资源，应该怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1568) 
+4. [第2235题：怎么遍历 ES6 中的 Map 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1567) 
+5. [第2236题：怎么遍历 ES6 中的 Set 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1566) 
+6. [第2237题：JS 的严格模式为什么会禁用 with 语句？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1565) 
+7. [第2238题：JS 的严格模式有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1564) 
+8. [第2239题：前端应用上线后，怎么通知用户刷新当前页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1563) 
+9. [第2240题：说说 Eslint 进行代码检查的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1562) 
+10. [第2242题：CSS 属性值计算 - calc 怎么使用，具体有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1561) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
