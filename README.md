@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2235题：怎么遍历 ES6 中的 Map 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1567) 
-2. [第2236题：怎么遍历 ES6 中的 Set 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1566) 
-3. [第2237题：JS 的严格模式为什么会禁用 with 语句？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1565) 
-4. [第2238题：JS 的严格模式有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1564) 
-5. [第2239题：前端应用上线后，怎么通知用户刷新当前页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1563) 
-6. [第2240题：说说 Eslint 进行代码检查的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1562) 
-7. [第2242题：CSS 属性值计算 - calc 怎么使用，具体有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1561) 
-8. [第2244题：HTTP是一个无状态的协议，那么Web应用是怎么保持用户的登录态的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1560) 
-9. [第2245题：如何检测网页空闲状态（即一定时间内无操作）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1559) 
-10. [第2908题：watch与watchEffect 有什么区别，分别在什么场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1558) 
+1. [第2234题：对于一个使用 Webpack 的项目，如果需要直接通过 script 标签引入第三方的资源，应该怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1568) 
+2. [第2235题：怎么遍历 ES6 中的 Map 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1567) 
+3. [第2236题：怎么遍历 ES6 中的 Set 对象？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1566) 
+4. [第2237题：JS 的严格模式为什么会禁用 with 语句？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1565) 
+5. [第2238题：JS 的严格模式有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1564) 
+6. [第2239题：前端应用上线后，怎么通知用户刷新当前页面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1563) 
+7. [第2240题：说说 Eslint 进行代码检查的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1562) 
+8. [第2242题：CSS 属性值计算 - calc 怎么使用，具体有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1561) 
+9. [第2244题：HTTP是一个无状态的协议，那么Web应用是怎么保持用户的登录态的呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1560) 
+10. [第2245题：如何检测网页空闲状态（即一定时间内无操作）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1559) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
