@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2222题：webpack 在打包时，给生成的文件名上添加的 hash 码，是如何生成的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1577) 
-2. [第2223题：如何从 0 到 1 搭建前端基建？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1576) 
-3. [第2224题：为什么 react 组件中， 都需要声明 `import React from 'react';`](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1575) 
-4. [第2225题：babel 的核心库有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1574) 
-5. [第2226题：在开发过程中， 使用过哪些 TS 的特性或者能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1573) 
-6. [第2228题：JS 的加载是否会阻塞浏览器渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1572) 
-7. [第2229题：浏览器对“队头阻塞”有什么优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1571) 
-8. [第2230题：Proxy 和 Reflect 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1570) 
-9. [第2233题：在Babel里，stage0、stage1、stage2 和 stage3 分别代表什么含义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1569) 
-10. [第2234题：对于一个使用 Webpack 的项目，如果需要直接通过 script 标签引入第三方的资源，应该怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1568) 
+1. [第2219题：说说你对 API IntersectionObserver 的理解，它有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1578) 
+2. [第2222题：webpack 在打包时，给生成的文件名上添加的 hash 码，是如何生成的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1577) 
+3. [第2223题：如何从 0 到 1 搭建前端基建？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1576) 
+4. [第2224题：为什么 react 组件中， 都需要声明 `import React from 'react';`](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1575) 
+5. [第2225题：babel 的核心库有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1574) 
+6. [第2226题：在开发过程中， 使用过哪些 TS 的特性或者能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1573) 
+7. [第2228题：JS 的加载是否会阻塞浏览器渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1572) 
+8. [第2229题：浏览器对“队头阻塞”有什么优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1571) 
+9. [第2230题：Proxy 和 Reflect 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1570) 
+10. [第2233题：在Babel里，stage0、stage1、stage2 和 stage3 分别代表什么含义？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1569) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
