@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2214题：react-router 和原生路由有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1582) 
-2. [第2215题：在 React 项目中， 是否可以不用 react-router， 使用浏览器原生 history 路由来组织页面路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1581) 
-3. [第2216题：Husky 和 lint-staged 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1580) 
-4. [第2218题：在表单校验场景中， 如何实现页面视口滚动到报错的位置](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1579) 
-5. [第2219题：说说你对 API IntersectionObserver 的理解，它有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1578) 
-6. [第2222题：webpack 在打包时，给生成的文件名上添加的 hash 码，是如何生成的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1577) 
-7. [第2223题：如何从 0 到 1 搭建前端基建？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1576) 
-8. [第2224题：为什么 react 组件中， 都需要声明 `import React from 'react';`](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1575) 
-9. [第2225题：babel 的核心库有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1574) 
-10. [第2226题：在开发过程中， 使用过哪些 TS 的特性或者能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1573) 
+1. [第2212题：怎么给某个元素的背景设置渐变色？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1583) 
+2. [第2214题：react-router 和原生路由有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1582) 
+3. [第2215题：在 React 项目中， 是否可以不用 react-router， 使用浏览器原生 history 路由来组织页面路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1581) 
+4. [第2216题：Husky 和 lint-staged 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1580) 
+5. [第2218题：在表单校验场景中， 如何实现页面视口滚动到报错的位置](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1579) 
+6. [第2219题：说说你对 API IntersectionObserver 的理解，它有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1578) 
+7. [第2222题：webpack 在打包时，给生成的文件名上添加的 hash 码，是如何生成的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1577) 
+8. [第2223题：如何从 0 到 1 搭建前端基建？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1576) 
+9. [第2224题：为什么 react 组件中， 都需要声明 `import React from 'react';`](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1575) 
+10. [第2225题：babel 的核心库有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1574) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
