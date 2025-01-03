@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2202题：实现一个函数， 通过 id 来查找 tree 数据结构对应的节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1588) 
-2. [第2203题：documentFragment api 是什么， 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1587) 
-3. [第2204题：前端渲染和后端渲染分别有什么优缺点， 为什么现在的技术大方向，又逐渐往“后端渲染”方向靠了呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1586) 
-4. [第2205题：express 里面的"中间件"和"插件"是同一个东西吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1585) 
-5. [第2208题：React 为什么要自己实现调度器， 而不是直接使用 requestIdleCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1584) 
-6. [第2212题：怎么给某个元素的背景设置渐变色？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1583) 
-7. [第2214题：react-router 和原生路由有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1582) 
-8. [第2215题：在 React 项目中， 是否可以不用 react-router， 使用浏览器原生 history 路由来组织页面路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1581) 
-9. [第2216题：Husky 和 lint-staged 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1580) 
-10. [第2218题：在表单校验场景中， 如何实现页面视口滚动到报错的位置](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1579) 
+1. [第2198题：说说你对 MutationObserver 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1589) 
+2. [第2202题：实现一个函数， 通过 id 来查找 tree 数据结构对应的节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1588) 
+3. [第2203题：documentFragment api 是什么， 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1587) 
+4. [第2204题：前端渲染和后端渲染分别有什么优缺点， 为什么现在的技术大方向，又逐渐往“后端渲染”方向靠了呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1586) 
+5. [第2205题：express 里面的"中间件"和"插件"是同一个东西吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1585) 
+6. [第2208题：React 为什么要自己实现调度器， 而不是直接使用 requestIdleCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1584) 
+7. [第2212题：怎么给某个元素的背景设置渐变色？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1583) 
+8. [第2214题：react-router 和原生路由有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1582) 
+9. [第2215题：在 React 项目中， 是否可以不用 react-router， 使用浏览器原生 history 路由来组织页面路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1581) 
+10. [第2216题：Husky 和 lint-staged 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1580) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
