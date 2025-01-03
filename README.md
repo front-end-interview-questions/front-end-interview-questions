@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2205题：express 里面的"中间件"和"插件"是同一个东西吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1585) 
-2. [第2208题：React 为什么要自己实现调度器， 而不是直接使用 requestIdleCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1584) 
-3. [第2212题：怎么给某个元素的背景设置渐变色？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1583) 
-4. [第2214题：react-router 和原生路由有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1582) 
-5. [第2215题：在 React 项目中， 是否可以不用 react-router， 使用浏览器原生 history 路由来组织页面路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1581) 
-6. [第2216题：Husky 和 lint-staged 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1580) 
-7. [第2218题：在表单校验场景中， 如何实现页面视口滚动到报错的位置](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1579) 
-8. [第2219题：说说你对 API IntersectionObserver 的理解，它有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1578) 
-9. [第2222题：webpack 在打包时，给生成的文件名上添加的 hash 码，是如何生成的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1577) 
-10. [第2223题：如何从 0 到 1 搭建前端基建？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1576) 
+1. [第2204题：前端渲染和后端渲染分别有什么优缺点， 为什么现在的技术大方向，又逐渐往“后端渲染”方向靠了呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1586) 
+2. [第2205题：express 里面的"中间件"和"插件"是同一个东西吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1585) 
+3. [第2208题：React 为什么要自己实现调度器， 而不是直接使用 requestIdleCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1584) 
+4. [第2212题：怎么给某个元素的背景设置渐变色？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1583) 
+5. [第2214题：react-router 和原生路由有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1582) 
+6. [第2215题：在 React 项目中， 是否可以不用 react-router， 使用浏览器原生 history 路由来组织页面路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1581) 
+7. [第2216题：Husky 和 lint-staged 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1580) 
+8. [第2218题：在表单校验场景中， 如何实现页面视口滚动到报错的位置](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1579) 
+9. [第2219题：说说你对 API IntersectionObserver 的理解，它有什么使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1578) 
+10. [第2222题：webpack 在打包时，给生成的文件名上添加的 hash 码，是如何生成的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1577) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
