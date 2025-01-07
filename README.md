@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2195题：mouseEnter、mouseLeave、mouseOver、mouseOut 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1590) 
-2. [第2198题：说说你对 MutationObserver 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1589) 
-3. [第2202题：实现一个函数， 通过 id 来查找 tree 数据结构对应的节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1588) 
-4. [第2203题：documentFragment api 是什么， 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1587) 
-5. [第2204题：前端渲染和后端渲染分别有什么优缺点， 为什么现在的技术大方向，又逐渐往“后端渲染”方向靠了呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1586) 
-6. [第2205题：express 里面的"中间件"和"插件"是同一个东西吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1585) 
-7. [第2208题：React 为什么要自己实现调度器， 而不是直接使用 requestIdleCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1584) 
-8. [第2212题：怎么给某个元素的背景设置渐变色？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1583) 
-9. [第2214题：react-router 和原生路由有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1582) 
-10. [第2215题：在 React 项目中， 是否可以不用 react-router， 使用浏览器原生 history 路由来组织页面路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1581) 
+1. [第2909题：如何理解 ES6 模块化方案的缓存机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1591) 
+2. [第2195题：mouseEnter、mouseLeave、mouseOver、mouseOut 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1590) 
+3. [第2198题：说说你对 MutationObserver 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1589) 
+4. [第2202题：实现一个函数， 通过 id 来查找 tree 数据结构对应的节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1588) 
+5. [第2203题：documentFragment api 是什么， 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1587) 
+6. [第2204题：前端渲染和后端渲染分别有什么优缺点， 为什么现在的技术大方向，又逐渐往“后端渲染”方向靠了呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1586) 
+7. [第2205题：express 里面的"中间件"和"插件"是同一个东西吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1585) 
+8. [第2208题：React 为什么要自己实现调度器， 而不是直接使用 requestIdleCallback ？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1584) 
+9. [第2212题：怎么给某个元素的背景设置渐变色？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1583) 
+10. [第2214题：react-router 和原生路由有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1582) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
