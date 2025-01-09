@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2182题：V8 里面的 JIT 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1597) 
-2. [第2183题：实现一个 cookies 解析函数，输出结果要求是一个对象](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1596) 
-3. [第2185题：React 中的 forwardsRef，作用是什么， 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1595) 
-4. [第2186题：vue 中 Scoped Styles 是如何实现样式隔离的？说说具体的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1594) 
-5. [第2189题：在 JS 中， 如何解决递归导致栈溢出问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1593) 
-6. [第2191题：如果你有一个内容站点，怎么防止其他人爬虫？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1592) 
-7. [第2909题：如何理解 ES6 模块化方案的缓存机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1591) 
-8. [第2195题：mouseEnter、mouseLeave、mouseOver、mouseOut 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1590) 
-9. [第2198题：说说你对 MutationObserver 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1589) 
-10. [第2202题：实现一个函数， 通过 id 来查找 tree 数据结构对应的节点](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1588) 
+1. [第2173题：React 19 有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1598) 
+2. [第2182题：V8 里面的 JIT 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1597) 
+3. [第2183题：实现一个 cookies 解析函数，输出结果要求是一个对象](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1596) 
+4. [第2185题：React 中的 forwardsRef，作用是什么， 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1595) 
+5. [第2186题：vue 中 Scoped Styles 是如何实现样式隔离的？说说具体的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1594) 
+6. [第2189题：在 JS 中， 如何解决递归导致栈溢出问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1593) 
+7. [第2191题：如果你有一个内容站点，怎么防止其他人爬虫？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1592) 
+8. [第2909题：如何理解 ES6 模块化方案的缓存机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1591) 
+9. [第2195题：mouseEnter、mouseLeave、mouseOver、mouseOut 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1590) 
+10. [第2198题：说说你对 MutationObserver 的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1589) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
