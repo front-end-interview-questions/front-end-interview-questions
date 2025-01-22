@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2148题：React 中，如何避免使用 context 时， 引起整个挂载节点树的重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1601) 
-2. [第2155题：怎么实现 commit lint？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1600) 
-3. [第2171题：less 文件中怎么使用函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1599) 
-4. [第2173题：React 19 有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1598) 
-5. [第2182题：V8 里面的 JIT 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1597) 
-6. [第2183题：实现一个 cookies 解析函数，输出结果要求是一个对象](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1596) 
-7. [第2185题：React 中的 forwardsRef，作用是什么， 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1595) 
-8. [第2186题：vue 中 Scoped Styles 是如何实现样式隔离的？说说具体的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1594) 
-9. [第2189题：在 JS 中， 如何解决递归导致栈溢出问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1593) 
-10. [第2191题：如果你有一个内容站点，怎么防止其他人爬虫？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1592) 
+1. [第2147题：React 的循环渲染中，为什么不推荐使用 index 作为元素的 key？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1602) 
+2. [第2148题：React 中，如何避免使用 context 时， 引起整个挂载节点树的重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1601) 
+3. [第2155题：怎么实现 commit lint？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1600) 
+4. [第2171题：less 文件中怎么使用函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1599) 
+5. [第2173题：React 19 有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1598) 
+6. [第2182题：V8 里面的 JIT 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1597) 
+7. [第2183题：实现一个 cookies 解析函数，输出结果要求是一个对象](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1596) 
+8. [第2185题：React 中的 forwardsRef，作用是什么， 有哪些使用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1595) 
+9. [第2186题：vue 中 Scoped Styles 是如何实现样式隔离的？说说具体的原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1594) 
+10. [第2189题：在 JS 中， 如何解决递归导致栈溢出问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1593) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
