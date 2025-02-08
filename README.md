@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2138题：请求失败会弹出一个 toast，如何保证批量请求失败时， 只弹出一个 toast？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1606) 
-2. [第2143题：业务需要实现前端项目的灰度发布，你会怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1605) 
-3. [第2145题：qiankun 是如何实现 JS 隔离的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1604) 
-4. [第2146题：微前端架构中，一般是如何做到 JavaScript 隔离的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1603) 
-5. [第2147题：React 的循环渲染中，为什么不推荐使用 index 作为元素的 key？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1602) 
-6. [第2148题：React 中，如何避免使用 context 时， 引起整个挂载节点树的重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1601) 
-7. [第2155题：怎么实现 commit lint？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1600) 
-8. [第2171题：less 文件中怎么使用函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1599) 
-9. [第2173题：React 19 有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1598) 
-10. [第2182题：V8 里面的 JIT 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1597) 
+1. [第2140题：一般怎么做代码重构？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1607) 
+2. [第2138题：请求失败会弹出一个 toast，如何保证批量请求失败时， 只弹出一个 toast？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1606) 
+3. [第2143题：业务需要实现前端项目的灰度发布，你会怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1605) 
+4. [第2145题：qiankun 是如何实现 JS 隔离的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1604) 
+5. [第2146题：微前端架构中，一般是如何做到 JavaScript 隔离的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1603) 
+6. [第2147题：React 的循环渲染中，为什么不推荐使用 index 作为元素的 key？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1602) 
+7. [第2148题：React 中，如何避免使用 context 时， 引起整个挂载节点树的重新渲染](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1601) 
+8. [第2155题：怎么实现 commit lint？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1600) 
+9. [第2171题：less 文件中怎么使用函数？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1599) 
+10. [第2173题：React 19 有哪些新特性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1598) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
