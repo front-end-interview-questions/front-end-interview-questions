@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2912题：说说 Typscript 的 extends 关键字会在哪些场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1611) 
-2. [第2913题：你了解 ts 工具类型 Exclude 与 Omit 的使用吗？及它们两个的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1610) 
-3. [第2141题：如何清理源码里面没有被使用的代码？主要是 JS、TS、CSS 代码](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1609) 
-4. [第2910题：如何通过 React.memo 优化条件渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1608) 
-5. [第2140题：一般怎么做代码重构？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1607) 
-6. [第2138题：请求失败会弹出一个 toast，如何保证批量请求失败时， 只弹出一个 toast？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1606) 
-7. [第2143题：业务需要实现前端项目的灰度发布，你会怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1605) 
-8. [第2145题：qiankun 是如何实现 JS 隔离的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1604) 
-9. [第2146题：微前端架构中，一般是如何做到 JavaScript 隔离的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1603) 
-10. [第2147题：React 的循环渲染中，为什么不推荐使用 index 作为元素的 key？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1602) 
+1. [第2914题：Boolean 和 boolean 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1612) 
+2. [第2912题：说说 Typscript 的 extends 关键字会在哪些场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1611) 
+3. [第2913题：你了解 ts 工具类型 Exclude 与 Omit 的使用吗？及它们两个的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1610) 
+4. [第2141题：如何清理源码里面没有被使用的代码？主要是 JS、TS、CSS 代码](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1609) 
+5. [第2910题：如何通过 React.memo 优化条件渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1608) 
+6. [第2140题：一般怎么做代码重构？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1607) 
+7. [第2138题：请求失败会弹出一个 toast，如何保证批量请求失败时， 只弹出一个 toast？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1606) 
+8. [第2143题：业务需要实现前端项目的灰度发布，你会怎么设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1605) 
+9. [第2145题：qiankun 是如何实现 JS 隔离的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1604) 
+10. [第2146题：微前端架构中，一般是如何做到 JavaScript 隔离的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1603) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
