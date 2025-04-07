@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2919题：下面可以继承的属性有哪些？（多选）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1617) 
-2. [第2918题：在 React 项目中，一般怎么处理错误？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1616) 
-3. [第2917题：在 React 中如何实现代码分割？有哪些常见方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1615) 
-4. [第2916题：前端实现的倒计时为什么会有误差？有什么减小误差的解决方案吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1614) 
-5. [第2915题：template 标签为什么不可以使用 v-show？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1613) 
-6. [第2914题：Boolean 和 boolean 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1612) 
-7. [第2912题：说说 Typscript 的 extends 关键字会在哪些场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1611) 
-8. [第2913题：你了解 ts 工具类型 Exclude 与 Omit 的使用吗？及它们两个的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1610) 
-9. [第2141题：如何清理源码里面没有被使用的代码？主要是 JS、TS、CSS 代码](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1609) 
-10. [第2910题：如何通过 React.memo 优化条件渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1608) 
+1. [第2920题：下列哪些不可以实现浏览器存储数据？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1619) 
+2. [第2921题：对以下代码说法正确的是？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1618) 
+3. [第2919题：下面不可以继承的属性有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1617) 
+4. [第2918题：在 React 项目中，一般怎么处理错误？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1616) 
+5. [第2917题：在 React 中如何实现代码分割？有哪些常见方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1615) 
+6. [第2916题：前端实现的倒计时为什么会有误差？有什么减小误差的解决方案吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1614) 
+7. [第2915题：template 标签为什么不可以使用 v-show？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1613) 
+8. [第2914题：Boolean 和 boolean 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1612) 
+9. [第2912题：说说 Typscript 的 extends 关键字会在哪些场景下使用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1611) 
+10. [第2913题：你了解 ts 工具类型 Exclude 与 Omit 的使用吗？及它们两个的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1610) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
