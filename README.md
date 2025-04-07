@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2124题：如何自定义鼠标右键菜单？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1630) 
-2. [第2125题：对于富文本编辑器中的划词交互（鼠标滑动选择一组字符， 对该组字符进行操作），你有什么实现思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1629) 
-3. [第2128题：如果想将一个前端项目中的 px 全部转为 rem，你有什么思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1628) 
-4. [第2129题：浏览器有同源策略，但是为什么我们可以将静态资源放到 CDN 上，使用不同的域名访问，这不会有跨域限制吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1627) 
-5. [第2130题：cookie 可以实现在不同域名下共享吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1626) 
-6. [第2133题：在 DOM 中，如何判定 a 元素是否是 b 元素的子元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1625) 
-7. [第2134题：请仅使用 css，实现类似 ChatGPT 中，文案一个个输出的打字机效果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1624) 
-8. [第2135题：实现 isObjectEmpty 方法，判断一个对象是否为空](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1623) 
-9. [第2136题：请使用 js 实现 isEmpty 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1622) 
-10. [第2137题：请使用 css 实现卡片翻转的动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1621) 
+1. [第2123题：如何在浏览器中实现 PDF 文件的预览？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1631) 
+2. [第2124题：如何自定义鼠标右键菜单？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1630) 
+3. [第2125题：对于富文本编辑器中的划词交互（鼠标滑动选择一组字符， 对该组字符进行操作），你有什么实现思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1629) 
+4. [第2128题：如果想将一个前端项目中的 px 全部转为 rem，你有什么思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1628) 
+5. [第2129题：浏览器有同源策略，但是为什么我们可以将静态资源放到 CDN 上，使用不同的域名访问，这不会有跨域限制吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1627) 
+6. [第2130题：cookie 可以实现在不同域名下共享吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1626) 
+7. [第2133题：在 DOM 中，如何判定 a 元素是否是 b 元素的子元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1625) 
+8. [第2134题：请仅使用 css，实现类似 ChatGPT 中，文案一个个输出的打字机效果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1624) 
+9. [第2135题：实现 isObjectEmpty 方法，判断一个对象是否为空](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1623) 
+10. [第2136题：请使用 js 实现 isEmpty 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1622) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
