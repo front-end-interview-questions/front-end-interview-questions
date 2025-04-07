@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2130题：cookie 可以实现在不同域名下共享吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1626) 
-2. [第2133题：在 DOM 中，如何判定 a 元素是否是 b 元素的子元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1625) 
-3. [第2134题：请仅使用 css，实现类似 ChatGPT 中，文案一个个输出的打字机效果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1624) 
-4. [第2135题：实现 isObjectEmpty 方法，判断一个对象是否为空](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1623) 
-5. [第2136题：请使用 js 实现 isEmpty 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1622) 
-6. [第2137题：请使用 css 实现卡片翻转的动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1621) 
-7. [第2911题：对于 PC 端的 banner 组件，你会怎么适配超宽的屏幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1620) 
-8. [第2920题：下列哪些不可以实现浏览器存储数据？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1619) 
-9. [第2921题：对以下代码说法正确的是？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1618) 
-10. [第2919题：下面不可以继承的属性有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1617) 
+1. [第2129题：浏览器有同源策略，但是为什么我们可以将静态资源放到 CDN 上，使用不同的域名访问，这不会有跨域限制吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1627) 
+2. [第2130题：cookie 可以实现在不同域名下共享吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1626) 
+3. [第2133题：在 DOM 中，如何判定 a 元素是否是 b 元素的子元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1625) 
+4. [第2134题：请仅使用 css，实现类似 ChatGPT 中，文案一个个输出的打字机效果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1624) 
+5. [第2135题：实现 isObjectEmpty 方法，判断一个对象是否为空](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1623) 
+6. [第2136题：请使用 js 实现 isEmpty 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1622) 
+7. [第2137题：请使用 css 实现卡片翻转的动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1621) 
+8. [第2911题：对于 PC 端的 banner 组件，你会怎么适配超宽的屏幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1620) 
+9. [第2920题：下列哪些不可以实现浏览器存储数据？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1619) 
+10. [第2921题：对以下代码说法正确的是？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1618) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
