@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2134题：请仅使用 css，实现类似 ChatGPT 中，文案一个个输出的打字机效果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1624) 
-2. [第2135题：实现 isObjectEmpty 方法，判断一个对象是否为空](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1623) 
-3. [第2136题：请使用 js 实现 isEmpty 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1622) 
-4. [第2137题：请使用 css 实现卡片翻转的动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1621) 
-5. [第2911题：对于 PC 端的 banner 组件，你会怎么适配超宽的屏幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1620) 
-6. [第2920题：下列哪些不可以实现浏览器存储数据？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1619) 
-7. [第2921题：对以下代码说法正确的是？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1618) 
-8. [第2919题：下面不可以继承的属性有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1617) 
-9. [第2918题：在 React 项目中，一般怎么处理错误？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1616) 
-10. [第2917题：在 React 中如何实现代码分割？有哪些常见方式？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1615) 
+1. [第2133题：在 DOM 中，如何判定 a 元素是否是 b 元素的子元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1625) 
+2. [第2134题：请仅使用 css，实现类似 ChatGPT 中，文案一个个输出的打字机效果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1624) 
+3. [第2135题：实现 isObjectEmpty 方法，判断一个对象是否为空](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1623) 
+4. [第2136题：请使用 js 实现 isEmpty 方法](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1622) 
+5. [第2137题：请使用 css 实现卡片翻转的动画](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1621) 
+6. [第2911题：对于 PC 端的 banner 组件，你会怎么适配超宽的屏幕？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1620) 
+7. [第2920题：下列哪些不可以实现浏览器存储数据？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1619) 
+8. [第2921题：对以下代码说法正确的是？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1618) 
+9. [第2919题：下面不可以继承的属性有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1617) 
+10. [第2918题：在 React 项目中，一般怎么处理错误？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1616) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
