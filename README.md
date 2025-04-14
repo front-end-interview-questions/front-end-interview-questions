@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2929题：你知道什么是 AIGC 吗，是否有参与过相关工具的研发？
+1. [第2930题：当前主流大模型 API（如 OpenAI、Claude、文心一言）在前端调用时需要注意哪些问题？如何做统一封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1640) 
+2. [第2929题：你知道什么是 AIGC 吗，是否有参与过相关工具的研发？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1639) 
-2. [第2928题：请设计一个能自动生成产品文案的前端小工具，简述如何设计 UI ，以及与后端 AI 服务的交互流程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1638) 
-3. [第2927题：你了解哪些 AI 前端工具或库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1637) 
-4. [第2926题：如何在前端安全地使用大语言模型 API，比如调用 OpenAI 接口进行文本生成？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1636) 
-5. [第2925题：假如要做一个类似 ChatGPT 的聊天 UI，前端如何处理流式响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1635) 
-6. [第2924题：如何在前端项目中集成 AI 能力，例如实现智能对话、图像识别或推荐系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1634) 
-7. [第2923题：怎么理解 ESM 中的 export * from "a.js" 这种写法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1633) 
-8. [第2122题：说说你对 React 生态的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1632) 
-9. [第2123题：如何在浏览器中实现 PDF 文件的预览？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1631) 
-10. [第2124题：如何自定义鼠标右键菜单？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1630) 
+3. [第2928题：请设计一个能自动生成产品文案的前端小工具，简述如何设计 UI ，以及与后端 AI 服务的交互流程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1638) 
+4. [第2927题：你了解哪些 AI 前端工具或库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1637) 
+5. [第2926题：如何在前端安全地使用大语言模型 API，比如调用 OpenAI 接口进行文本生成？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1636) 
+6. [第2925题：假如要做一个类似 ChatGPT 的聊天 UI，前端如何处理流式响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1635) 
+7. [第2924题：如何在前端项目中集成 AI 能力，例如实现智能对话、图像识别或推荐系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1634) 
+8. [第2923题：怎么理解 ESM 中的 export * from "a.js" 这种写法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1633) 
+9. [第2122题：说说你对 React 生态的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1632) 
+10. [第2123题：如何在浏览器中实现 PDF 文件的预览？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1631) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
