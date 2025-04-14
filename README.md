@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2923题：怎么理解 ESM 中的 export * from "a.js" 这种写法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1633) 
-2. [第2122题：说说你对 React 生态的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1632) 
-3. [第2123题：如何在浏览器中实现 PDF 文件的预览？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1631) 
-4. [第2124题：如何自定义鼠标右键菜单？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1630) 
-5. [第2125题：对于富文本编辑器中的划词交互（鼠标滑动选择一组字符， 对该组字符进行操作），你有什么实现思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1629) 
-6. [第2128题：如果想将一个前端项目中的 px 全部转为 rem，你有什么思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1628) 
-7. [第2129题：浏览器有同源策略，但是为什么我们可以将静态资源放到 CDN 上，使用不同的域名访问，这不会有跨域限制吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1627) 
-8. [第2130题：cookie 可以实现在不同域名下共享吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1626) 
-9. [第2133题：在 DOM 中，如何判定 a 元素是否是 b 元素的子元素？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1625) 
-10. [第2134题：请仅使用 css，实现类似 ChatGPT 中，文案一个个输出的打字机效果](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1624) 
+1. [第2925题：假如要做一个类似 ChatGPT 的聊天 UI，前端如何处理流式响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1635) 
+2. [第2924题：如何在前端项目中集成 AI 能力，例如实现智能对话、图像识别或推荐系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1634) 
+3. [第2923题：怎么理解 ESM 中的 export * from "a.js" 这种写法？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1633) 
+4. [第2122题：说说你对 React 生态的了解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1632) 
+5. [第2123题：如何在浏览器中实现 PDF 文件的预览？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1631) 
+6. [第2124题：如何自定义鼠标右键菜单？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1630) 
+7. [第2125题：对于富文本编辑器中的划词交互（鼠标滑动选择一组字符， 对该组字符进行操作），你有什么实现思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1629) 
+8. [第2128题：如果想将一个前端项目中的 px 全部转为 rem，你有什么思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1628) 
+9. [第2129题：浏览器有同源策略，但是为什么我们可以将静态资源放到 CDN 上，使用不同的域名访问，这不会有跨域限制吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1627) 
+10. [第2130题：cookie 可以实现在不同域名下共享吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1626) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
