@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2936题：请设计一个面向设计师的“AI 助手”前端界面，可以生成文本、图像并自动插入到设计稿中](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1643) 
-2. [第2895题：gap 属性是用来设置什么的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1642) 
-3. [第2937题：AI 工具中，经常提到的 mcp 是什么，有哪些与前端方向结合的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1641) 
-4. [第2930题：当前主流大模型 API（如 OpenAI、Claude、文心一言）在前端调用时需要注意哪些问题？如何做统一封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1640) 
-5. [第2929题：你知道什么是 AIGC 吗，是否有参与过相关工具的研发？
+1. [第2922题：你用过Cursor的哪些AI功能？举例说明你常用哪些快捷键或命令触发AI交互？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1644) 
+2. [第2936题：请设计一个面向设计师的“AI 助手”前端界面，可以生成文本、图像并自动插入到设计稿中](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1643) 
+3. [第2895题：gap 属性是用来设置什么的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1642) 
+4. [第2937题：AI 工具中，经常提到的 mcp 是什么，有哪些与前端方向结合的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1641) 
+5. [第2930题：当前主流大模型 API（如 OpenAI、Claude、文心一言）在前端调用时需要注意哪些问题？如何做统一封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1640) 
+6. [第2929题：你知道什么是 AIGC 吗，是否有参与过相关工具的研发？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1639) 
-6. [第2928题：请设计一个能自动生成产品文案的前端小工具，简述如何设计 UI ，以及与后端 AI 服务的交互流程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1638) 
-7. [第2927题：你了解哪些 AI 前端工具或库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1637) 
-8. [第2926题：如何在前端安全地使用大语言模型 API，比如调用 OpenAI 接口进行文本生成？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1636) 
-9. [第2925题：假如要做一个类似 ChatGPT 的聊天 UI，前端如何处理流式响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1635) 
-10. [第2924题：如何在前端项目中集成 AI 能力，例如实现智能对话、图像识别或推荐系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1634) 
+7. [第2928题：请设计一个能自动生成产品文案的前端小工具，简述如何设计 UI ，以及与后端 AI 服务的交互流程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1638) 
+8. [第2927题：你了解哪些 AI 前端工具或库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1637) 
+9. [第2926题：如何在前端安全地使用大语言模型 API，比如调用 OpenAI 接口进行文本生成？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1636) 
+10. [第2925题：假如要做一个类似 ChatGPT 的聊天 UI，前端如何处理流式响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1635) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
