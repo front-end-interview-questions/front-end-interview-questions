@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2932题：如何在富文本中插入可控组件，如“可编辑 AI 卡片”、“模型输入块”等？会有哪些技术难点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1649) 
-2. [第2933题：如何封装一个 AI 图片生成组件，支持选择模型、输入 prompt、展示图像并支持本地保存？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1648) 
-3. [第2934题：假设要做一个 AI 语音生成工具（TTS），如何处理音频播放、缓存与断点续播？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1647) 
-4. [第2935题：如何保障前端调用 AI 接口时的安全性与权限控制？你是否考虑过代理服务或签名机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1646) 
-5. [第2938题：如果你有一个业务组件库，希望打包输出为 esm + cjs + dts，有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1645) 
-6. [第2922题：你用过Cursor的哪些AI功能？举例说明你常用哪些快捷键或命令触发AI交互？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1644) 
-7. [第2936题：请设计一个面向设计师的“AI 助手”前端界面，可以生成文本、图像并自动插入到设计稿中](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1643) 
-8. [第2895题：gap 属性是用来设置什么的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1642) 
-9. [第2937题：AI 工具中，经常提到的 mcp 是什么，有哪些与前端方向结合的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1641) 
-10. [第2930题：当前主流大模型 API（如 OpenAI、Claude、文心一言）在前端调用时需要注意哪些问题？如何做统一封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1640) 
+1. [第2931题：如何基于现有富文本编辑器（如 Slate、TipTap、Monaco）扩展支持 AIGC 插件？比如一键生成段落或续写？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1650) 
+2. [第2932题：如何在富文本中插入可控组件，如“可编辑 AI 卡片”、“模型输入块”等？会有哪些技术难点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1649) 
+3. [第2933题：如何封装一个 AI 图片生成组件，支持选择模型、输入 prompt、展示图像并支持本地保存？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1648) 
+4. [第2934题：假设要做一个 AI 语音生成工具（TTS），如何处理音频播放、缓存与断点续播？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1647) 
+5. [第2935题：如何保障前端调用 AI 接口时的安全性与权限控制？你是否考虑过代理服务或签名机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1646) 
+6. [第2938题：如果你有一个业务组件库，希望打包输出为 esm + cjs + dts，有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1645) 
+7. [第2922题：你用过Cursor的哪些AI功能？举例说明你常用哪些快捷键或命令触发AI交互？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1644) 
+8. [第2936题：请设计一个面向设计师的“AI 助手”前端界面，可以生成文本、图像并自动插入到设计稿中](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1643) 
+9. [第2895题：gap 属性是用来设置什么的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1642) 
+10. [第2937题：AI 工具中，经常提到的 mcp 是什么，有哪些与前端方向结合的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1641) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
