@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2934题：假设要做一个 AI 语音生成工具（TTS），如何处理音频播放、缓存与断点续播？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1647) 
-2. [第2935题：如何保障前端调用 AI 接口时的安全性与权限控制？你是否考虑过代理服务或签名机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1646) 
-3. [第2938题：如果你有一个业务组件库，希望打包输出为 esm + cjs + dts，有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1645) 
-4. [第2922题：你用过Cursor的哪些AI功能？举例说明你常用哪些快捷键或命令触发AI交互？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1644) 
-5. [第2936题：请设计一个面向设计师的“AI 助手”前端界面，可以生成文本、图像并自动插入到设计稿中](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1643) 
-6. [第2895题：gap 属性是用来设置什么的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1642) 
-7. [第2937题：AI 工具中，经常提到的 mcp 是什么，有哪些与前端方向结合的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1641) 
-8. [第2930题：当前主流大模型 API（如 OpenAI、Claude、文心一言）在前端调用时需要注意哪些问题？如何做统一封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1640) 
-9. [第2929题：你知道什么是 AIGC 吗，是否有参与过相关工具的研发？
+1. [第2933题：如何封装一个 AI 图片生成组件，支持选择模型、输入 prompt、展示图像并支持本地保存？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1648) 
+2. [第2934题：假设要做一个 AI 语音生成工具（TTS），如何处理音频播放、缓存与断点续播？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1647) 
+3. [第2935题：如何保障前端调用 AI 接口时的安全性与权限控制？你是否考虑过代理服务或签名机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1646) 
+4. [第2938题：如果你有一个业务组件库，希望打包输出为 esm + cjs + dts，有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1645) 
+5. [第2922题：你用过Cursor的哪些AI功能？举例说明你常用哪些快捷键或命令触发AI交互？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1644) 
+6. [第2936题：请设计一个面向设计师的“AI 助手”前端界面，可以生成文本、图像并自动插入到设计稿中](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1643) 
+7. [第2895题：gap 属性是用来设置什么的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1642) 
+8. [第2937题：AI 工具中，经常提到的 mcp 是什么，有哪些与前端方向结合的场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1641) 
+9. [第2930题：当前主流大模型 API（如 OpenAI、Claude、文心一言）在前端调用时需要注意哪些问题？如何做统一封装？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1640) 
+10. [第2929题：你知道什么是 AIGC 吗，是否有参与过相关工具的研发？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1639) 
-10. [第2928题：请设计一个能自动生成产品文案的前端小工具，简述如何设计 UI ，以及与后端 AI 服务的交互流程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1638) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
