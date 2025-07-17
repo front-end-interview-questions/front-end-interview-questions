@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2117题：ajax 和 xhr 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1653) 
-2. [第2120题：如何减少项目里的 if-else](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1652) 
-3. [第2121题：babel-runtime 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1651) 
-4. [第2931题：如何基于现有富文本编辑器（如 Slate、TipTap、Monaco）扩展支持 AIGC 插件？比如一键生成段落或续写？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1650) 
-5. [第2932题：如何在富文本中插入可控组件，如“可编辑 AI 卡片”、“模型输入块”等？会有哪些技术难点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1649) 
-6. [第2933题：如何封装一个 AI 图片生成组件，支持选择模型、输入 prompt、展示图像并支持本地保存？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1648) 
-7. [第2934题：假设要做一个 AI 语音生成工具（TTS），如何处理音频播放、缓存与断点续播？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1647) 
-8. [第2935题：如何保障前端调用 AI 接口时的安全性与权限控制？你是否考虑过代理服务或签名机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1646) 
-9. [第2938题：如果你有一个业务组件库，希望打包输出为 esm + cjs + dts，有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1645) 
-10. [第2922题：你用过Cursor的哪些AI功能？举例说明你常用哪些快捷键或命令触发AI交互？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1644) 
+1. [第2118题：做前端错误监控时，有什么办法能将报错的源码地址，包括代码行数也进行上报吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1654) 
+2. [第2117题：ajax 和 xhr 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1653) 
+3. [第2120题：如何减少项目里的 if-else](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1652) 
+4. [第2121题：babel-runtime 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1651) 
+5. [第2931题：如何基于现有富文本编辑器（如 Slate、TipTap、Monaco）扩展支持 AIGC 插件？比如一键生成段落或续写？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1650) 
+6. [第2932题：如何在富文本中插入可控组件，如“可编辑 AI 卡片”、“模型输入块”等？会有哪些技术难点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1649) 
+7. [第2933题：如何封装一个 AI 图片生成组件，支持选择模型、输入 prompt、展示图像并支持本地保存？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1648) 
+8. [第2934题：假设要做一个 AI 语音生成工具（TTS），如何处理音频播放、缓存与断点续播？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1647) 
+9. [第2935题：如何保障前端调用 AI 接口时的安全性与权限控制？你是否考虑过代理服务或签名机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1646) 
+10. [第2938题：如果你有一个业务组件库，希望打包输出为 esm + cjs + dts，有什么思路？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1645) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
