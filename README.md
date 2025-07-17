@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2939题：Map 的键是引用类型时，如何防止内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1659) 
-2. [第2113题：React 中的 useRef 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1658) 
-3. [第2114题：说说 React 中，scheduler 的调度机制原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1657) 
-4. [第2115题：设计一个技术方案，能在排查问题时，还原用户的操作流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1656) 
-5. [第2116题：axios 请求的底层依赖是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1655) 
-6. [第2118题：做前端错误监控时，有什么办法能将报错的源码地址，包括代码行数也进行上报吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1654) 
-7. [第2117题：ajax 和 xhr 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1653) 
-8. [第2120题：如何减少项目里的 if-else](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1652) 
-9. [第2121题：babel-runtime 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1651) 
-10. [第2931题：如何基于现有富文本编辑器（如 Slate、TipTap、Monaco）扩展支持 AIGC 插件？比如一键生成段落或续写？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1650) 
+1. [第2940题：为什么 WeakMap 的键不能是基本类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1660) 
+2. [第2939题：Map 的键是引用类型时，如何防止内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1659) 
+3. [第2113题：React 中的 useRef 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1658) 
+4. [第2114题：说说 React 中，scheduler 的调度机制原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1657) 
+5. [第2115题：设计一个技术方案，能在排查问题时，还原用户的操作流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1656) 
+6. [第2116题：axios 请求的底层依赖是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1655) 
+7. [第2118题：做前端错误监控时，有什么办法能将报错的源码地址，包括代码行数也进行上报吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1654) 
+8. [第2117题：ajax 和 xhr 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1653) 
+9. [第2120题：如何减少项目里的 if-else](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1652) 
+10. [第2121题：babel-runtime 有什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1651) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
