@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2941题：如何使用 WeakMap 封装私有属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1661) 
-2. [第2940题：为什么 WeakMap 的键不能是基本类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1660) 
-3. [第2939题：Map 的键是引用类型时，如何防止内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1659) 
-4. [第2113题：React 中的 useRef 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1658) 
-5. [第2114题：说说 React 中，scheduler 的调度机制原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1657) 
-6. [第2115题：设计一个技术方案，能在排查问题时，还原用户的操作流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1656) 
-7. [第2116题：axios 请求的底层依赖是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1655) 
-8. [第2118题：做前端错误监控时，有什么办法能将报错的源码地址，包括代码行数也进行上报吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1654) 
-9. [第2117题：ajax 和 xhr 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1653) 
-10. [第2120题：如何减少项目里的 if-else](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1652) 
+1. [第2942题：vue3 中 ref 和 reactive 有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1662) 
+2. [第2941题：如何使用 WeakMap 封装私有属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1661) 
+3. [第2940题：为什么 WeakMap 的键不能是基本类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1660) 
+4. [第2939题：Map 的键是引用类型时，如何防止内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1659) 
+5. [第2113题：React 中的 useRef 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1658) 
+6. [第2114题：说说 React 中，scheduler 的调度机制原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1657) 
+7. [第2115题：设计一个技术方案，能在排查问题时，还原用户的操作流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1656) 
+8. [第2116题：axios 请求的底层依赖是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1655) 
+9. [第2118题：做前端错误监控时，有什么办法能将报错的源码地址，包括代码行数也进行上报吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1654) 
+10. [第2117题：ajax 和 xhr 是什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1653) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
