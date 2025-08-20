@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2945题：在 html 页面渲染过程中，哪些因素可能会影响页面的渲染性能？如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1665) 
-2. [第2944题：如何实现一个可以监听任何事件的React Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1664) 
-3. [第2943题：如何避免setInterval可能导致的定时器堆积问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1663) 
-4. [第2942题：vue3 中 ref 和 reactive 有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1662) 
-5. [第2941题：如何使用 WeakMap 封装私有属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1661) 
-6. [第2940题：为什么 WeakMap 的键不能是基本类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1660) 
-7. [第2939题：Map 的键是引用类型时，如何防止内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1659) 
-8. [第2113题：React 中的 useRef 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1658) 
-9. [第2114题：说说 React 中，scheduler 的调度机制原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1657) 
-10. [第2115题：设计一个技术方案，能在排查问题时，还原用户的操作流程](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1656) 
+1. [第2946题：如何避免JavaScript代码对浏览器渲染的阻塞？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1666) 
+2. [第2945题：在 html 页面渲染过程中，哪些因素可能会影响页面的渲染性能？如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1665) 
+3. [第2944题：如何实现一个可以监听任何事件的React Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1664) 
+4. [第2943题：如何避免setInterval可能导致的定时器堆积问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1663) 
+5. [第2942题：vue3 中 ref 和 reactive 有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1662) 
+6. [第2941题：如何使用 WeakMap 封装私有属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1661) 
+7. [第2940题：为什么 WeakMap 的键不能是基本类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1660) 
+8. [第2939题：Map 的键是引用类型时，如何防止内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1659) 
+9. [第2113题：React 中的 useRef 是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1658) 
+10. [第2114题：说说 React 中，scheduler 的调度机制原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1657) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
