@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2951题：在 React 中，useEffect 钩子的作用是什么？它的参数有哪些？如何使用 useEffect 实现组件的副作用处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1672) 
-2. [第2951题：在 React 中，useEffect 钩子的作用是什么？它的参数有哪些？如何使用 useEffect 实现组件的副作用处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1671) 
-3. [第2950题：git pull 命令实际上是哪两个操作的融合？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1670) 
-4. [第2949题：函数的原型和对象的原型分别是什么？它们之间有何关联？结合代码进行说明。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1669) 
-5. [第2948题：JavaScript 中循环有哪些常见方法？它们在遍历不同数据结构时的适用情况如何？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1668) 
-6. [第2947题：不重复最大子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1667) 
-7. [第2946题：如何避免JavaScript代码对浏览器渲染的阻塞？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1666) 
-8. [第2945题：在 html 页面渲染过程中，哪些因素可能会影响页面的渲染性能？如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1665) 
-9. [第2944题：如何实现一个可以监听任何事件的React Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1664) 
-10. [第2943题：如何避免setInterval可能导致的定时器堆积问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1663) 
+1. [第2952题：当需要更改组件库中组件的主题时，有哪些常见的方法？请以你熟悉的组件库为例，说明如何实现主题定制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1673) 
+2. [第2951题：在 React 中，useEffect 钩子的作用是什么？它的参数有哪些？如何使用 useEffect 实现组件的副作用处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1672) 
+3. [第2951题：在 React 中，useEffect 钩子的作用是什么？它的参数有哪些？如何使用 useEffect 实现组件的副作用处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1671) 
+4. [第2950题：git pull 命令实际上是哪两个操作的融合？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1670) 
+5. [第2949题：函数的原型和对象的原型分别是什么？它们之间有何关联？结合代码进行说明。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1669) 
+6. [第2948题：JavaScript 中循环有哪些常见方法？它们在遍历不同数据结构时的适用情况如何？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1668) 
+7. [第2947题：不重复最大子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1667) 
+8. [第2946题：如何避免JavaScript代码对浏览器渲染的阻塞？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1666) 
+9. [第2945题：在 html 页面渲染过程中，哪些因素可能会影响页面的渲染性能？如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1665) 
+10. [第2944题：如何实现一个可以监听任何事件的React Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1664) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
