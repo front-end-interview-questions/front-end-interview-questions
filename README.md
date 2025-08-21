@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2948题：JavaScript 中循环有哪些常见方法？它们在遍历不同数据结构时的适用情况如何？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1668) 
-2. [第2947题：不重复最大子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1667) 
-3. [第2946题：如何避免JavaScript代码对浏览器渲染的阻塞？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1666) 
-4. [第2945题：在 html 页面渲染过程中，哪些因素可能会影响页面的渲染性能？如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1665) 
-5. [第2944题：如何实现一个可以监听任何事件的React Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1664) 
-6. [第2943题：如何避免setInterval可能导致的定时器堆积问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1663) 
-7. [第2942题：vue3 中 ref 和 reactive 有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1662) 
-8. [第2941题：如何使用 WeakMap 封装私有属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1661) 
-9. [第2940题：为什么 WeakMap 的键不能是基本类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1660) 
-10. [第2939题：Map 的键是引用类型时，如何防止内存泄漏？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1659) 
+1. [第2949题：函数的原型和对象的原型分别是什么？它们之间有何关联？结合代码进行说明。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1669) 
+2. [第2948题：JavaScript 中循环有哪些常见方法？它们在遍历不同数据结构时的适用情况如何？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1668) 
+3. [第2947题：不重复最大子串](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1667) 
+4. [第2946题：如何避免JavaScript代码对浏览器渲染的阻塞？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1666) 
+5. [第2945题：在 html 页面渲染过程中，哪些因素可能会影响页面的渲染性能？如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1665) 
+6. [第2944题：如何实现一个可以监听任何事件的React Hooks？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1664) 
+7. [第2943题：如何避免setInterval可能导致的定时器堆积问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1663) 
+8. [第2942题：vue3 中 ref 和 reactive 有什么区别?](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1662) 
+9. [第2941题：如何使用 WeakMap 封装私有属性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1661) 
+10. [第2940题：为什么 WeakMap 的键不能是基本类型？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1660) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
