@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2958题：如何通过bind或箭头函数固定this指向？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1679) 
-2. [第2957题：以下代码输出什么？解释原因](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1678) 
-3. [第2956题：如何用Promise.all实现并发请求？如何处理部分请求失败？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1677) 
-4. [第2955题：如何实现WebSocket的断线重连机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1676) 
-5. [第2954题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1675) 
-6. [第2953题：你都了解哪些 CSS 布局技术？它们各自的特点和适用场景是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1674) 
-7. [第2952题：当需要更改组件库中组件的主题时，有哪些常见的方法？请以你熟悉的组件库为例，说明如何实现主题定制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1673) 
-8. [第2951题：在 React 中，useEffect 钩子的作用是什么？它的参数有哪些？如何使用 useEffect 实现组件的副作用处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1672) 
-9. [第2951题：在 React 中，useEffect 钩子的作用是什么？它的参数有哪些？如何使用 useEffect 实现组件的副作用处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1671) 
-10. [第2950题：git pull 命令实际上是哪两个操作的融合？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1670) 
+1. [第2960题：Vue2中v-model的实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1682) 
+2. [第2961题：Vue3中v-model的改进是什么？如何用defineModel简化代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1681) 
+3. [第2959题：在Vue中，为什么推荐使用ref而非直接操作DOM？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1680) 
+4. [第2958题：如何通过bind或箭头函数固定this指向？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1679) 
+5. [第2957题：以下代码输出什么？解释原因](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1678) 
+6. [第2956题：如何用Promise.all实现并发请求？如何处理部分请求失败？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1677) 
+7. [第2955题：如何实现WebSocket的断线重连机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1676) 
+8. [第2954题：下面代码的输出是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1675) 
+9. [第2953题：你都了解哪些 CSS 布局技术？它们各自的特点和适用场景是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1674) 
+10. [第2952题：当需要更改组件库中组件的主题时，有哪些常见的方法？请以你熟悉的组件库为例，说明如何实现主题定制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1673) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
