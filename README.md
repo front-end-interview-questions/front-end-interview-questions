@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2964题：Next.js 中的 AppRouter 和 PageRouter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1685) 
-2. [第2963题：小程序如何实现rpx到px的转换？如何适配不同屏幕密度的设备（如Retina屏）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1684) 
-3. [第2962题：Vue2中为什么需要$set方法？如何用它解决对象新增属性的响应性问题？  ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1683) 
-4. [第2960题：Vue2中v-model的实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1682) 
-5. [第2961题：Vue3中v-model的改进是什么？如何用defineModel简化代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1681) 
-6. [第2959题：在Vue中，为什么推荐使用ref而非直接操作DOM？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1680) 
-7. [第2958题：如何通过bind或箭头函数固定this指向？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1679) 
-8. [第2957题：以下代码输出什么？解释原因](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1678) 
-9. [第2956题：如何用Promise.all实现并发请求？如何处理部分请求失败？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1677) 
-10. [第2955题：如何实现WebSocket的断线重连机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1676) 
+1. [第2965题：如何在前端项目中实现动态路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1686) 
+2. [第2964题：Next.js 中的 AppRouter 和 PageRouter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1685) 
+3. [第2963题：小程序如何实现rpx到px的转换？如何适配不同屏幕密度的设备（如Retina屏）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1684) 
+4. [第2962题：Vue2中为什么需要$set方法？如何用它解决对象新增属性的响应性问题？  ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1683) 
+5. [第2960题：Vue2中v-model的实现原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1682) 
+6. [第2961题：Vue3中v-model的改进是什么？如何用defineModel简化代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1681) 
+7. [第2959题：在Vue中，为什么推荐使用ref而非直接操作DOM？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1680) 
+8. [第2958题：如何通过bind或箭头函数固定this指向？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1679) 
+9. [第2957题：以下代码输出什么？解释原因](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1678) 
+10. [第2956题：如何用Promise.all实现并发请求？如何处理部分请求失败？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1677) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
