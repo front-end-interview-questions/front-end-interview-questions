@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2975题：多个项目共用组件时，如何保证版本一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1693) 
-2. [第2974题：JSON.stringify 遇到 bigint 的类型的数据，会怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1692) 
-3. [第2973题：说说 package.json 中 dependencies、devDependencies、peerDependencies 有哪些不同，分别适合什么场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1691) 
-4. [第2972题：Vue3 中的 Teleport 是什么，有哪些应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1690) 
-5. [第2968题：如何取消重复请求？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1689) 
-6. [第2967题：为什么需要Pinia或Vuex？如果不使用状态管理工具，如何实现跨组件通信？替代方案有哪些？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1688) 
-7. [第2966题：Vue3的addRoute与React Router的动态useRoutes有何区别？如何解决动态路由刷新后失效的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1687) 
-8. [第2965题：如何在前端项目中实现动态路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1686) 
-9. [第2964题：Next.js 中的 AppRouter 和 PageRouter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1685) 
-10. [第2963题：小程序如何实现rpx到px的转换？如何适配不同屏幕密度的设备（如Retina屏）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1684) 
+1. [第2976题：虚拟滚动如何动态计算可视区域？无限滚动如何结合Intersection Observer优化性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1694) 
+2. [第2975题：多个项目共用组件时，如何保证版本一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1693) 
+3. [第2974题：JSON.stringify 遇到 bigint 的类型的数据，会怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1692) 
+4. [第2973题：说说 package.json 中 dependencies、devDependencies、peerDependencies 有哪些不同，分别适合什么场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1691) 
+5. [第2972题：Vue3 中的 Teleport 是什么，有哪些应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1690) 
+6. [第2968题：如何取消重复请求？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1689) 
+7. [第2967题：为什么需要Pinia或Vuex？如果不使用状态管理工具，如何实现跨组件通信？替代方案有哪些？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1688) 
+8. [第2966题：Vue3的addRoute与React Router的动态useRoutes有何区别？如何解决动态路由刷新后失效的问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1687) 
+9. [第2965题：如何在前端项目中实现动态路由？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1686) 
+10. [第2964题：Next.js 中的 AppRouter 和 PageRouter 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1685) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
