@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2971题：Prompt 是什么，比如要实现一个搜索表单页面，你会用什么样的 Prompt？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1700) 
-2. [第2979题：如何优化前端AI模型的推理性能，避免界面卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1699) 
-3. [第2983题：谈谈你遇到过AI生成代码的Bug，以及如何解决的。
+1. [第2977题：你平时使用哪些AI编程工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1701) 
+2. [第2971题：Prompt 是什么，比如要实现一个搜索表单页面，你会用什么样的 Prompt？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1700) 
+3. [第2979题：如何优化前端AI模型的推理性能，避免界面卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1699) 
+4. [第2983题：谈谈你遇到过AI生成代码的Bug，以及如何解决的。
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1698) 
-4. [第2984题：  如果让你设计一个支持AI功能（如智能对话）的前端应用架构，你会考虑哪些方面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1697) 
-5. [第2985题：如何利用AI辅助进行前端性能优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1696) 
-6. [第2980题：在 AI 可以自动生成 80% 基础代码的今天，你认为前端工程师的核心价值在于哪里？
+5. [第2984题：  如果让你设计一个支持AI功能（如智能对话）的前端应用架构，你会考虑哪些方面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1697) 
+6. [第2985题：如何利用AI辅助进行前端性能优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1696) 
+7. [第2980题：在 AI 可以自动生成 80% 基础代码的今天，你认为前端工程师的核心价值在于哪里？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1695) 
-7. [第2976题：虚拟滚动如何动态计算可视区域？无限滚动如何结合Intersection Observer优化性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1694) 
-8. [第2975题：多个项目共用组件时，如何保证版本一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1693) 
-9. [第2974题：JSON.stringify 遇到 bigint 的类型的数据，会怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1692) 
-10. [第2973题：说说 package.json 中 dependencies、devDependencies、peerDependencies 有哪些不同，分别适合什么场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1691) 
+8. [第2976题：虚拟滚动如何动态计算可视区域？无限滚动如何结合Intersection Observer优化性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1694) 
+9. [第2975题：多个项目共用组件时，如何保证版本一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1693) 
+10. [第2974题：JSON.stringify 遇到 bigint 的类型的数据，会怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1692) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
