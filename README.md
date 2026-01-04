@@ -18,17 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2984题：  如果让你设计一个支持AI功能（如智能对话）的前端应用架构，你会考虑哪些方面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1697) 
-2. [第2985题：如何利用AI辅助进行前端性能优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1696) 
-3. [第2980题：在 AI 可以自动生成 80% 基础代码的今天，你认为前端工程师的核心价值在于哪里？
+1. [第2983题：谈谈你遇到过AI生成代码的Bug，以及如何解决的。
+](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1698) 
+2. [第2984题：  如果让你设计一个支持AI功能（如智能对话）的前端应用架构，你会考虑哪些方面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1697) 
+3. [第2985题：如何利用AI辅助进行前端性能优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1696) 
+4. [第2980题：在 AI 可以自动生成 80% 基础代码的今天，你认为前端工程师的核心价值在于哪里？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1695) 
-4. [第2976题：虚拟滚动如何动态计算可视区域？无限滚动如何结合Intersection Observer优化性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1694) 
-5. [第2975题：多个项目共用组件时，如何保证版本一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1693) 
-6. [第2974题：JSON.stringify 遇到 bigint 的类型的数据，会怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1692) 
-7. [第2973题：说说 package.json 中 dependencies、devDependencies、peerDependencies 有哪些不同，分别适合什么场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1691) 
-8. [第2972题：Vue3 中的 Teleport 是什么，有哪些应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1690) 
-9. [第2968题：如何取消重复请求？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1689) 
-10. [第2967题：为什么需要Pinia或Vuex？如果不使用状态管理工具，如何实现跨组件通信？替代方案有哪些？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1688) 
+5. [第2976题：虚拟滚动如何动态计算可视区域？无限滚动如何结合Intersection Observer优化性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1694) 
+6. [第2975题：多个项目共用组件时，如何保证版本一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1693) 
+7. [第2974题：JSON.stringify 遇到 bigint 的类型的数据，会怎么处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1692) 
+8. [第2973题：说说 package.json 中 dependencies、devDependencies、peerDependencies 有哪些不同，分别适合什么场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1691) 
+9. [第2972题：Vue3 中的 Teleport 是什么，有哪些应用场景？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1690) 
+10. [第2968题：如何取消重复请求？ ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1689) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
