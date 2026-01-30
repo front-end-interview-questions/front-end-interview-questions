@@ -18,18 +18,18 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2987题：React 的虚拟 DOM 解决了什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1703) 
-2. [第2969题：你清楚 AI、AGI、AIGC、NLP、LLM 分别是什么吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1702) 
-3. [第2977题：你平时使用哪些AI编程工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1701) 
-4. [第2971题：Prompt 是什么，比如要实现一个搜索表单页面，你会用什么样的 Prompt？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1700) 
-5. [第2979题：如何优化前端AI模型的推理性能，避免界面卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1699) 
-6. [第2983题：谈谈你遇到过AI生成代码的Bug，以及如何解决的。
+1. [第2986题：claude 中的 skills 和 mcp 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1704) 
+2. [第2987题：React 的虚拟 DOM 解决了什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1703) 
+3. [第2969题：你清楚 AI、AGI、AIGC、NLP、LLM 分别是什么吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1702) 
+4. [第2977题：你平时使用哪些AI编程工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1701) 
+5. [第2971题：Prompt 是什么，比如要实现一个搜索表单页面，你会用什么样的 Prompt？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1700) 
+6. [第2979题：如何优化前端AI模型的推理性能，避免界面卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1699) 
+7. [第2983题：谈谈你遇到过AI生成代码的Bug，以及如何解决的。
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1698) 
-7. [第2984题：  如果让你设计一个支持AI功能（如智能对话）的前端应用架构，你会考虑哪些方面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1697) 
-8. [第2985题：如何利用AI辅助进行前端性能优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1696) 
-9. [第2980题：在 AI 可以自动生成 80% 基础代码的今天，你认为前端工程师的核心价值在于哪里？
+8. [第2984题：  如果让你设计一个支持AI功能（如智能对话）的前端应用架构，你会考虑哪些方面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1697) 
+9. [第2985题：如何利用AI辅助进行前端性能优化](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1696) 
+10. [第2980题：在 AI 可以自动生成 80% 基础代码的今天，你认为前端工程师的核心价值在于哪里？
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1695) 
-10. [第2976题：虚拟滚动如何动态计算可视区域？无限滚动如何结合Intersection Observer优化性能？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1694) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
