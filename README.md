@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2970题：大家常提到的 Transformer 架构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1706) 
-2. [第2978题：如何保证AI生成代码的质量和符合项目规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1705) 
-3. [第2986题：claude 中的 skills 和 mcp 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1704) 
-4. [第2987题：React 的虚拟 DOM 解决了什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1703) 
-5. [第2969题：你清楚 AI、AGI、AIGC、NLP、LLM 分别是什么吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1702) 
-6. [第2977题：你平时使用哪些AI编程工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1701) 
-7. [第2971题：Prompt 是什么，比如要实现一个搜索表单页面，你会用什么样的 Prompt？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1700) 
-8. [第2979题：如何优化前端AI模型的推理性能，避免界面卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1699) 
-9. [第2983题：谈谈你遇到过AI生成代码的Bug，以及如何解决的。
+1. [第2982题：写一个 prompt，让AI手写一个符合Promise A+规范的Promise](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1707) 
+2. [第2970题：大家常提到的 Transformer 架构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1706) 
+3. [第2978题：如何保证AI生成代码的质量和符合项目规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1705) 
+4. [第2986题：claude 中的 skills 和 mcp 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1704) 
+5. [第2987题：React 的虚拟 DOM 解决了什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1703) 
+6. [第2969题：你清楚 AI、AGI、AIGC、NLP、LLM 分别是什么吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1702) 
+7. [第2977题：你平时使用哪些AI编程工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1701) 
+8. [第2971题：Prompt 是什么，比如要实现一个搜索表单页面，你会用什么样的 Prompt？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1700) 
+9. [第2979题：如何优化前端AI模型的推理性能，避免界面卡顿？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1699) 
+10. [第2983题：谈谈你遇到过AI生成代码的Bug，以及如何解决的。
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1698) 
-10. [第2984题：  如果让你设计一个支持AI功能（如智能对话）的前端应用架构，你会考虑哪些方面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1697) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
