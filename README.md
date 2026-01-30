@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2996题：平常你是如何进行代码调试的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1717) 
-2. [第2995题：实现一个 animate 方法，能够驱动元素从一个位置移动到另一个位置，要求支持动画的开始、暂停和取消功能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1716) 
-3. [第2994题：假设你正在开发一个 Vue 项目，需要在组件加载完成后执行一个数据初始化操作，并在组件销毁前清理一些资源（如定时器或事件监听）。你会使用哪些生命周期钩子来实现这些功能，并简述每个钩子的作用。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1715) 
-4. [第2993题：在Vue项目中，如何实现全局状态管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1714) 
-5. [第2992题：Vue路由的原理是什么？请简述Vue Router如何实现页面跳转和组件的动态加载。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1713) 
-6. [第2991题：小程序的页面加载流程是怎样的？请简要描述从用户点击小程序图标到页面显示的整个过程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1712) 
-7. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1711) 
-8. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1710) 
-9. [第2989题：分析微信小程序和微信内的 H5 网页在性能上的区别，以及导致这些区别的原因是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1709) 
-10. [第2988题：在 DOM 结构比较复杂的情况下，为什么操作虚拟 DOM 的性能比操作真实 DOM 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1708) 
+1. [第2997题：在前端开发中，你了解哪些与安全性相关的内容？（提示：除了 HTTP 和 HTTPS）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1718) 
+2. [第2996题：平常你是如何进行代码调试的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1717) 
+3. [第2995题：实现一个 animate 方法，能够驱动元素从一个位置移动到另一个位置，要求支持动画的开始、暂停和取消功能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1716) 
+4. [第2994题：假设你正在开发一个 Vue 项目，需要在组件加载完成后执行一个数据初始化操作，并在组件销毁前清理一些资源（如定时器或事件监听）。你会使用哪些生命周期钩子来实现这些功能，并简述每个钩子的作用。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1715) 
+5. [第2993题：在Vue项目中，如何实现全局状态管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1714) 
+6. [第2992题：Vue路由的原理是什么？请简述Vue Router如何实现页面跳转和组件的动态加载。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1713) 
+7. [第2991题：小程序的页面加载流程是怎样的？请简要描述从用户点击小程序图标到页面显示的整个过程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1712) 
+8. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1711) 
+9. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1710) 
+10. [第2989题：分析微信小程序和微信内的 H5 网页在性能上的区别，以及导致这些区别的原因是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1709) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
