@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2992题：Vue路由的原理是什么？请简述Vue Router如何实现页面跳转和组件的动态加载。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1713) 
-2. [第2991题：小程序的页面加载流程是怎样的？请简要描述从用户点击小程序图标到页面显示的整个过程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1712) 
-3. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1711) 
-4. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1710) 
-5. [第2989题：分析微信小程序和微信内的 H5 网页在性能上的区别，以及导致这些区别的原因是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1709) 
-6. [第2988题：在 DOM 结构比较复杂的情况下，为什么操作虚拟 DOM 的性能比操作真实 DOM 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1708) 
-7. [第2982题：写一个 prompt，让AI手写一个符合Promise A+规范的Promise](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1707) 
-8. [第2970题：大家常提到的 Transformer 架构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1706) 
-9. [第2978题：如何保证AI生成代码的质量和符合项目规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1705) 
-10. [第2986题：claude 中的 skills 和 mcp 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1704) 
+1. [第2993题：在Vue项目中，如何实现全局状态管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1714) 
+2. [第2992题：Vue路由的原理是什么？请简述Vue Router如何实现页面跳转和组件的动态加载。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1713) 
+3. [第2991题：小程序的页面加载流程是怎样的？请简要描述从用户点击小程序图标到页面显示的整个过程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1712) 
+4. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1711) 
+5. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1710) 
+6. [第2989题：分析微信小程序和微信内的 H5 网页在性能上的区别，以及导致这些区别的原因是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1709) 
+7. [第2988题：在 DOM 结构比较复杂的情况下，为什么操作虚拟 DOM 的性能比操作真实 DOM 好？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1708) 
+8. [第2982题：写一个 prompt，让AI手写一个符合Promise A+规范的Promise](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1707) 
+9. [第2970题：大家常提到的 Transformer 架构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1706) 
+10. [第2978题：如何保证AI生成代码的质量和符合项目规范？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1705) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
