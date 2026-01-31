@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3031题：怎么实现一个固定宽高比（如16:9）的容器](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1743) 
-2. [第3030题：SPA和MPA的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1742) 
-3. [第3028题：如何实现Webpack的按需加载与预加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1741) 
-4. [第3023题：如何实现大文件分片上传与断点续传](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1740) 
-5. [第3020题：常见的H5标签有哪些 ，你是怎么用的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1739) 
-6. [第3017题：使用 reduce 实现 map](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1738) 
-7. [第3016题：Vue.use 如何注册插件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1737) 
-8. [第3015题：Vue3和Vue2的响应式原理有什么差别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1736) 
-9. [第3014题：如何检测模块之间的循环依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1735) 
-10. [第3013题：如何设计模块以确保它只初始化一次？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1734) 
+1. [第3032题：canvas 有什么优化渲染性能的方案](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1744) 
+2. [第3031题：怎么实现一个固定宽高比（如16:9）的容器](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1743) 
+3. [第3030题：SPA和MPA的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1742) 
+4. [第3028题：如何实现Webpack的按需加载与预加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1741) 
+5. [第3023题：如何实现大文件分片上传与断点续传](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1740) 
+6. [第3020题：常见的H5标签有哪些 ，你是怎么用的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1739) 
+7. [第3017题：使用 reduce 实现 map](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1738) 
+8. [第3016题：Vue.use 如何注册插件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1737) 
+9. [第3015题：Vue3和Vue2的响应式原理有什么差别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1736) 
+10. [第3014题：如何检测模块之间的循环依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1735) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
