@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3001题：如何优化 pnpm 的分包策略？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1722) 
-2. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
-3. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
-4. [第2998题：如果发现JWT Token泄露，如何快速响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1719) 
-5. [第2997题：在前端开发中，你了解哪些与安全性相关的内容？（提示：除了 HTTP 和 HTTPS）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1718) 
-6. [第2996题：平常你是如何进行代码调试的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1717) 
-7. [第2995题：实现一个 animate 方法，能够驱动元素从一个位置移动到另一个位置，要求支持动画的开始、暂停和取消功能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1716) 
-8. [第2994题：假设你正在开发一个 Vue 项目，需要在组件加载完成后执行一个数据初始化操作，并在组件销毁前清理一些资源（如定时器或事件监听）。你会使用哪些生命周期钩子来实现这些功能，并简述每个钩子的作用。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1715) 
-9. [第2993题：在Vue项目中，如何实现全局状态管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1714) 
-10. [第2992题：Vue路由的原理是什么？请简述Vue Router如何实现页面跳转和组件的动态加载。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1713) 
+1. [第3002题：Vite 预构建的原理和作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1723) 
+2. [第3001题：如何优化 pnpm 的分包策略？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1722) 
+3. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
+4. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
+5. [第2998题：如果发现JWT Token泄露，如何快速响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1719) 
+6. [第2997题：在前端开发中，你了解哪些与安全性相关的内容？（提示：除了 HTTP 和 HTTPS）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1718) 
+7. [第2996题：平常你是如何进行代码调试的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1717) 
+8. [第2995题：实现一个 animate 方法，能够驱动元素从一个位置移动到另一个位置，要求支持动画的开始、暂停和取消功能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1716) 
+9. [第2994题：假设你正在开发一个 Vue 项目，需要在组件加载完成后执行一个数据初始化操作，并在组件销毁前清理一些资源（如定时器或事件监听）。你会使用哪些生命周期钩子来实现这些功能，并简述每个钩子的作用。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1715) 
+10. [第2993题：在Vue项目中，如何实现全局状态管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1714) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
