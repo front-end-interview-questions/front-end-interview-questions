@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3017题：使用 reduce 实现 map](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1738) 
-2. [第3016题：Vue.use 如何注册插件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1737) 
-3. [第3015题：Vue3和Vue2的响应式原理有什么差别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1736) 
-4. [第3014题：如何检测模块之间的循环依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1735) 
-5. [第3013题：如何设计模块以确保它只初始化一次？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1734) 
-6. [第3012题：从 yarn 迁移到 pnpm 的过程中，需要注意哪些问题？如何避免幽灵依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1733) 
-7. [第3010题：Hippy、React Native、Taro 和 uni-app 的区别是什么？它们各自的优势在哪里？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1732) 
-8. [第3011题：如何优化打包后的 JS bundle 体积？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1731) 
-9. [第3009题：如何编写 Babel 插件？Babel 的工作流程是怎样的？不同预设的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1730) 
-10. [第3008题：你了解 rspack 吗？它与 Webpack 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1729) 
+1. [第3020题：常见的H5标签有哪些 ，你是怎么用的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1739) 
+2. [第3017题：使用 reduce 实现 map](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1738) 
+3. [第3016题：Vue.use 如何注册插件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1737) 
+4. [第3015题：Vue3和Vue2的响应式原理有什么差别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1736) 
+5. [第3014题：如何检测模块之间的循环依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1735) 
+6. [第3013题：如何设计模块以确保它只初始化一次？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1734) 
+7. [第3012题：从 yarn 迁移到 pnpm 的过程中，需要注意哪些问题？如何避免幽灵依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1733) 
+8. [第3010题：Hippy、React Native、Taro 和 uni-app 的区别是什么？它们各自的优势在哪里？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1732) 
+9. [第3011题：如何优化打包后的 JS bundle 体积？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1731) 
+10. [第3009题：如何编写 Babel 插件？Babel 的工作流程是怎样的？不同预设的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1730) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
