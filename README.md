@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3006题：如何治理项目中的 barrels files？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1727) 
-2. [第3005题：在避免幽灵依赖上，有哪些实践？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1726) 
-3. [第3004题：Vite 开发服务器和浏览器之间是如何通信的（websocket + HTTP/1.1）？引入 HTTP/2 或 HTTP/3 会带来哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1725) 
-4. [第3003题：Vite 热更新（HMR）的原理是什么？从文件增量更新开始，整个过程是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1724) 
-5. [第3002题：Vite 预构建的原理和作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1723) 
-6. [第3001题：如何优化 pnpm 的分包策略？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1722) 
-7. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
-8. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
-9. [第2998题：如果发现JWT Token泄露，如何快速响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1719) 
-10. [第2997题：在前端开发中，你了解哪些与安全性相关的内容？（提示：除了 HTTP 和 HTTPS）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1718) 
+1. [第3007题：如何管理和优化 tsconfig？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1728) 
+2. [第3006题：如何治理项目中的 barrels files？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1727) 
+3. [第3005题：在避免幽灵依赖上，有哪些实践？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1726) 
+4. [第3004题：Vite 开发服务器和浏览器之间是如何通信的（websocket + HTTP/1.1）？引入 HTTP/2 或 HTTP/3 会带来哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1725) 
+5. [第3003题：Vite 热更新（HMR）的原理是什么？从文件增量更新开始，整个过程是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1724) 
+6. [第3002题：Vite 预构建的原理和作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1723) 
+7. [第3001题：如何优化 pnpm 的分包策略？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1722) 
+8. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
+9. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
+10. [第2998题：如果发现JWT Token泄露，如何快速响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1719) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
