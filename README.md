@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3008题：你了解 rspack 吗？它与 Webpack 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1729) 
-2. [第3007题：如何管理和优化 tsconfig？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1728) 
-3. [第3006题：如何治理项目中的 barrels files？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1727) 
-4. [第3005题：在避免幽灵依赖上，有哪些实践？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1726) 
-5. [第3004题：Vite 开发服务器和浏览器之间是如何通信的（websocket + HTTP/1.1）？引入 HTTP/2 或 HTTP/3 会带来哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1725) 
-6. [第3003题：Vite 热更新（HMR）的原理是什么？从文件增量更新开始，整个过程是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1724) 
-7. [第3002题：Vite 预构建的原理和作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1723) 
-8. [第3001题：如何优化 pnpm 的分包策略？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1722) 
-9. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
-10. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
+1. [第3009题：如何编写 Babel 插件？Babel 的工作流程是怎样的？不同预设的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1730) 
+2. [第3008题：你了解 rspack 吗？它与 Webpack 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1729) 
+3. [第3007题：如何管理和优化 tsconfig？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1728) 
+4. [第3006题：如何治理项目中的 barrels files？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1727) 
+5. [第3005题：在避免幽灵依赖上，有哪些实践？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1726) 
+6. [第3004题：Vite 开发服务器和浏览器之间是如何通信的（websocket + HTTP/1.1）？引入 HTTP/2 或 HTTP/3 会带来哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1725) 
+7. [第3003题：Vite 热更新（HMR）的原理是什么？从文件增量更新开始，整个过程是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1724) 
+8. [第3002题：Vite 预构建的原理和作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1723) 
+9. [第3001题：如何优化 pnpm 的分包策略？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1722) 
+10. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
