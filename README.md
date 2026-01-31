@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
-2. [第2998题：如果发现JWT Token泄露，如何快速响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1719) 
-3. [第2997题：在前端开发中，你了解哪些与安全性相关的内容？（提示：除了 HTTP 和 HTTPS）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1718) 
-4. [第2996题：平常你是如何进行代码调试的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1717) 
-5. [第2995题：实现一个 animate 方法，能够驱动元素从一个位置移动到另一个位置，要求支持动画的开始、暂停和取消功能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1716) 
-6. [第2994题：假设你正在开发一个 Vue 项目，需要在组件加载完成后执行一个数据初始化操作，并在组件销毁前清理一些资源（如定时器或事件监听）。你会使用哪些生命周期钩子来实现这些功能，并简述每个钩子的作用。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1715) 
-7. [第2993题：在Vue项目中，如何实现全局状态管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1714) 
-8. [第2992题：Vue路由的原理是什么？请简述Vue Router如何实现页面跳转和组件的动态加载。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1713) 
-9. [第2991题：小程序的页面加载流程是怎样的？请简要描述从用户点击小程序图标到页面显示的整个过程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1712) 
-10. [第2990题：对英文句子进行逆序处理（例如：how old are you => you are old how）。分析该算法的空间复杂度，并说明如何将空间复杂度降到 O(1)。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1711) 
+1. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
+2. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
+3. [第2998题：如果发现JWT Token泄露，如何快速响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1719) 
+4. [第2997题：在前端开发中，你了解哪些与安全性相关的内容？（提示：除了 HTTP 和 HTTPS）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1718) 
+5. [第2996题：平常你是如何进行代码调试的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1717) 
+6. [第2995题：实现一个 animate 方法，能够驱动元素从一个位置移动到另一个位置，要求支持动画的开始、暂停和取消功能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1716) 
+7. [第2994题：假设你正在开发一个 Vue 项目，需要在组件加载完成后执行一个数据初始化操作，并在组件销毁前清理一些资源（如定时器或事件监听）。你会使用哪些生命周期钩子来实现这些功能，并简述每个钩子的作用。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1715) 
+8. [第2993题：在Vue项目中，如何实现全局状态管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1714) 
+9. [第2992题：Vue路由的原理是什么？请简述Vue Router如何实现页面跳转和组件的动态加载。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1713) 
+10. [第2991题：小程序的页面加载流程是怎样的？请简要描述从用户点击小程序图标到页面显示的整个过程。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1712) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
