@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3028题：如何实现Webpack的按需加载与预加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1741) 
-2. [第3023题：如何实现大文件分片上传与断点续传](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1740) 
-3. [第3020题：常见的H5标签有哪些 ，你是怎么用的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1739) 
-4. [第3017题：使用 reduce 实现 map](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1738) 
-5. [第3016题：Vue.use 如何注册插件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1737) 
-6. [第3015题：Vue3和Vue2的响应式原理有什么差别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1736) 
-7. [第3014题：如何检测模块之间的循环依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1735) 
-8. [第3013题：如何设计模块以确保它只初始化一次？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1734) 
-9. [第3012题：从 yarn 迁移到 pnpm 的过程中，需要注意哪些问题？如何避免幽灵依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1733) 
-10. [第3010题：Hippy、React Native、Taro 和 uni-app 的区别是什么？它们各自的优势在哪里？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1732) 
+1. [第3030题：SPA和MPA的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1742) 
+2. [第3028题：如何实现Webpack的按需加载与预加载？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1741) 
+3. [第3023题：如何实现大文件分片上传与断点续传](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1740) 
+4. [第3020题：常见的H5标签有哪些 ，你是怎么用的](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1739) 
+5. [第3017题：使用 reduce 实现 map](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1738) 
+6. [第3016题：Vue.use 如何注册插件](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1737) 
+7. [第3015题：Vue3和Vue2的响应式原理有什么差别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1736) 
+8. [第3014题：如何检测模块之间的循环依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1735) 
+9. [第3013题：如何设计模块以确保它只初始化一次？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1734) 
+10. [第3012题：从 yarn 迁移到 pnpm 的过程中，需要注意哪些问题？如何避免幽灵依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1733) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
