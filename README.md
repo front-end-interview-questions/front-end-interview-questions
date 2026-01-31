@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3003题：Vite 热更新（HMR）的原理是什么？从文件增量更新开始，整个过程是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1724) 
-2. [第3002题：Vite 预构建的原理和作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1723) 
-3. [第3001题：如何优化 pnpm 的分包策略？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1722) 
-4. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
-5. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
-6. [第2998题：如果发现JWT Token泄露，如何快速响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1719) 
-7. [第2997题：在前端开发中，你了解哪些与安全性相关的内容？（提示：除了 HTTP 和 HTTPS）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1718) 
-8. [第2996题：平常你是如何进行代码调试的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1717) 
-9. [第2995题：实现一个 animate 方法，能够驱动元素从一个位置移动到另一个位置，要求支持动画的开始、暂停和取消功能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1716) 
-10. [第2994题：假设你正在开发一个 Vue 项目，需要在组件加载完成后执行一个数据初始化操作，并在组件销毁前清理一些资源（如定时器或事件监听）。你会使用哪些生命周期钩子来实现这些功能，并简述每个钩子的作用。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1715) 
+1. [第3004题：Vite 开发服务器和浏览器之间是如何通信的（websocket + HTTP/1.1）？引入 HTTP/2 或 HTTP/3 会带来哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1725) 
+2. [第3003题：Vite 热更新（HMR）的原理是什么？从文件增量更新开始，整个过程是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1724) 
+3. [第3002题：Vite 预构建的原理和作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1723) 
+4. [第3001题：如何优化 pnpm 的分包策略？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1722) 
+5. [第3000题：Webpack的Tree Shaking与Vite的Dead Code Elimination有何异同？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1721) 
+6. [第2999题：Hash模式如何影响SEO？如何通过预渲染优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1720) 
+7. [第2998题：如果发现JWT Token泄露，如何快速响应？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1719) 
+8. [第2997题：在前端开发中，你了解哪些与安全性相关的内容？（提示：除了 HTTP 和 HTTPS）](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1718) 
+9. [第2996题：平常你是如何进行代码调试的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1717) 
+10. [第2995题：实现一个 animate 方法，能够驱动元素从一个位置移动到另一个位置，要求支持动画的开始、暂停和取消功能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1716) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
