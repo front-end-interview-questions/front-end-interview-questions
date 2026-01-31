@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3010题：Hippy、React Native、Taro 和 uni-app 的区别是什么？它们各自的优势在哪里？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1732) 
-2. [第3011题：如何优化打包后的 JS bundle 体积？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1731) 
-3. [第3009题：如何编写 Babel 插件？Babel 的工作流程是怎样的？不同预设的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1730) 
-4. [第3008题：你了解 rspack 吗？它与 Webpack 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1729) 
-5. [第3007题：如何管理和优化 tsconfig？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1728) 
-6. [第3006题：如何治理项目中的 barrels files？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1727) 
-7. [第3005题：在避免幽灵依赖上，有哪些实践？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1726) 
-8. [第3004题：Vite 开发服务器和浏览器之间是如何通信的（websocket + HTTP/1.1）？引入 HTTP/2 或 HTTP/3 会带来哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1725) 
-9. [第3003题：Vite 热更新（HMR）的原理是什么？从文件增量更新开始，整个过程是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1724) 
-10. [第3002题：Vite 预构建的原理和作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1723) 
+1. [第3012题：从 yarn 迁移到 pnpm 的过程中，需要注意哪些问题？如何避免幽灵依赖？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1733) 
+2. [第3010题：Hippy、React Native、Taro 和 uni-app 的区别是什么？它们各自的优势在哪里？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1732) 
+3. [第3011题：如何优化打包后的 JS bundle 体积？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1731) 
+4. [第3009题：如何编写 Babel 插件？Babel 的工作流程是怎样的？不同预设的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1730) 
+5. [第3008题：你了解 rspack 吗？它与 Webpack 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1729) 
+6. [第3007题：如何管理和优化 tsconfig？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1728) 
+7. [第3006题：如何治理项目中的 barrels files？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1727) 
+8. [第3005题：在避免幽灵依赖上，有哪些实践？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1726) 
+9. [第3004题：Vite 开发服务器和浏览器之间是如何通信的（websocket + HTTP/1.1）？引入 HTTP/2 或 HTTP/3 会带来哪些改进？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1725) 
+10. [第3003题：Vite 热更新（HMR）的原理是什么？从文件增量更新开始，整个过程是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1724) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
