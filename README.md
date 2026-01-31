@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3038题：有了解 AI 的使用和一些前沿概念吗](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1751) 
-2. [第3037题：有一个需要支持10万条数据渲染的表格组件，你会如何设计和优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1750) 
-3. [第3036题：实现一个支持撤销/重做功能的React Hook，并说明设计思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1749) 
-4. [第3035题：如果需要做图片懒加载，并且图片数量很多，你会怎么做呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1748) 
-5. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1747) 
-6. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1746) 
-7. [第3033题：如果需要完成一个协同文档的系统，你会如何进行架构设计呢](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1745) 
-8. [第3032题：canvas 有什么优化渲染性能的方案](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1744) 
-9. [第3031题：怎么实现一个固定宽高比（如16:9）的容器](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1743) 
-10. [第3030题：SPA和MPA的区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1742) 
+1. [第3039题：最大公共前缀](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1752) 
+2. [第3038题：有了解 AI 的使用和一些前沿概念吗](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1751) 
+3. [第3037题：有一个需要支持10万条数据渲染的表格组件，你会如何设计和优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1750) 
+4. [第3036题：实现一个支持撤销/重做功能的React Hook，并说明设计思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1749) 
+5. [第3035题：如果需要做图片懒加载，并且图片数量很多，你会怎么做呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1748) 
+6. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1747) 
+7. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1746) 
+8. [第3033题：如果需要完成一个协同文档的系统，你会如何进行架构设计呢](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1745) 
+9. [第3032题：canvas 有什么优化渲染性能的方案](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1744) 
+10. [第3031题：怎么实现一个固定宽高比（如16:9）的容器](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1743) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
