@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3041题：开发一个即时通讯系统的前端页面时，你会如何设计消息的存储和同步机制？如何处理用户切换设备后的消息同步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1754) 
-2. [第3040题：说说流式输出的原理及其应用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1753) 
-3. [第3039题：最大公共前缀](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1752) 
-4. [第3038题：有了解 AI 的使用和一些前沿概念吗](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1751) 
-5. [第3037题：有一个需要支持10万条数据渲染的表格组件，你会如何设计和优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1750) 
-6. [第3036题：实现一个支持撤销/重做功能的React Hook，并说明设计思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1749) 
-7. [第3035题：如果需要做图片懒加载，并且图片数量很多，你会怎么做呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1748) 
-8. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1747) 
-9. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1746) 
-10. [第3033题：如果需要完成一个协同文档的系统，你会如何进行架构设计呢](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1745) 
+1. [第3042题：在即时通讯场景中，在同步消息时，如果出现网络延迟或部分设备未在线，你会如何确保消息的最终一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1755) 
+2. [第3041题：开发一个即时通讯系统的前端页面时，你会如何设计消息的存储和同步机制？如何处理用户切换设备后的消息同步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1754) 
+3. [第3040题：说说流式输出的原理及其应用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1753) 
+4. [第3039题：最大公共前缀](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1752) 
+5. [第3038题：有了解 AI 的使用和一些前沿概念吗](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1751) 
+6. [第3037题：有一个需要支持10万条数据渲染的表格组件，你会如何设计和优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1750) 
+7. [第3036题：实现一个支持撤销/重做功能的React Hook，并说明设计思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1749) 
+8. [第3035题：如果需要做图片懒加载，并且图片数量很多，你会怎么做呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1748) 
+9. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1747) 
+10. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1746) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
