@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3046题：Vue的Diff为何采用同层比较，而非跨层？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1759) 
-2. [第3045题：webpack 中的 Loader ，链式调用顺序会影响编译结果吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1758) 
-3. [第3044题：async function 返回的 Promise 状态何时变为 resolved？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1757) 
-4. [第3043题：在前端项目中，如何设计前端与后端的数据交互机制？请说明数据传输格式、接口设计原则以及如何优化性能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1756) 
-5. [第3042题：在即时通讯场景中，在同步消息时，如果出现网络延迟或部分设备未在线，你会如何确保消息的最终一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1755) 
-6. [第3041题：开发一个即时通讯系统的前端页面时，你会如何设计消息的存储和同步机制？如何处理用户切换设备后的消息同步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1754) 
-7. [第3040题：说说流式输出的原理及其应用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1753) 
-8. [第3039题：最大公共前缀](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1752) 
-9. [第3038题：有了解 AI 的使用和一些前沿概念吗](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1751) 
-10. [第3037题：有一个需要支持10万条数据渲染的表格组件，你会如何设计和优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1750) 
+1. [第3047题：如何拦截`arr[0] = 1`这类操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1760) 
+2. [第3046题：Vue的Diff为何采用同层比较，而非跨层？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1759) 
+3. [第3045题：webpack 中的 Loader ，链式调用顺序会影响编译结果吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1758) 
+4. [第3044题：async function 返回的 Promise 状态何时变为 resolved？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1757) 
+5. [第3043题：在前端项目中，如何设计前端与后端的数据交互机制？请说明数据传输格式、接口设计原则以及如何优化性能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1756) 
+6. [第3042题：在即时通讯场景中，在同步消息时，如果出现网络延迟或部分设备未在线，你会如何确保消息的最终一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1755) 
+7. [第3041题：开发一个即时通讯系统的前端页面时，你会如何设计消息的存储和同步机制？如何处理用户切换设备后的消息同步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1754) 
+8. [第3040题：说说流式输出的原理及其应用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1753) 
+9. [第3039题：最大公共前缀](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1752) 
+10. [第3038题：有了解 AI 的使用和一些前沿概念吗](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1751) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
