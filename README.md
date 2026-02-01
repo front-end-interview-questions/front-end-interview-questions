@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3053题：为何`setup()`中直接解构`props`会丢失响应性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1766) 
-2. [第3052题：Vue 中，多个组件复用同一响应式对象时，如何避免不必要的重新渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1765) 
-3. [第3051题：Vue2中，为什么在`beforeCreate`阶段，无法访问`data`？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1764) 
-4. [第3050题：如果页面含 100 个第三方资源，你会如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1763) 
-5. [第3049题：`setup`函数中同步修改响应式数据，会触发子组件的`onBeforeUpdate`吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1762) 
-6. [第3048题：Vue3 中，动态绑定v-bind:class="{ active: isActive }"会被编译成什么样的JS代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1761) 
-7. [第3047题：如何拦截`arr[0] = 1`这类操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1760) 
-8. [第3046题：Vue的Diff为何采用同层比较，而非跨层？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1759) 
-9. [第3045题：webpack 中的 Loader ，链式调用顺序会影响编译结果吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1758) 
-10. [第3044题：async function 返回的 Promise 状态何时变为 resolved？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1757) 
+1. [第3054题：实现函数parallelRequests(urls, maxConcurrent)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1767) 
+2. [第3053题：为何`setup()`中直接解构`props`会丢失响应性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1766) 
+3. [第3052题：Vue 中，多个组件复用同一响应式对象时，如何避免不必要的重新渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1765) 
+4. [第3051题：Vue2中，为什么在`beforeCreate`阶段，无法访问`data`？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1764) 
+5. [第3050题：如果页面含 100 个第三方资源，你会如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1763) 
+6. [第3049题：`setup`函数中同步修改响应式数据，会触发子组件的`onBeforeUpdate`吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1762) 
+7. [第3048题：Vue3 中，动态绑定v-bind:class="{ active: isActive }"会被编译成什么样的JS代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1761) 
+8. [第3047题：如何拦截`arr[0] = 1`这类操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1760) 
+9. [第3046题：Vue的Diff为何采用同层比较，而非跨层？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1759) 
+10. [第3045题：webpack 中的 Loader ，链式调用顺序会影响编译结果吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1758) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
