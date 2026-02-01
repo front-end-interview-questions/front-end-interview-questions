@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3043题：在前端项目中，如何设计前端与后端的数据交互机制？请说明数据传输格式、接口设计原则以及如何优化性能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1756) 
-2. [第3042题：在即时通讯场景中，在同步消息时，如果出现网络延迟或部分设备未在线，你会如何确保消息的最终一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1755) 
-3. [第3041题：开发一个即时通讯系统的前端页面时，你会如何设计消息的存储和同步机制？如何处理用户切换设备后的消息同步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1754) 
-4. [第3040题：说说流式输出的原理及其应用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1753) 
-5. [第3039题：最大公共前缀](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1752) 
-6. [第3038题：有了解 AI 的使用和一些前沿概念吗](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1751) 
-7. [第3037题：有一个需要支持10万条数据渲染的表格组件，你会如何设计和优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1750) 
-8. [第3036题：实现一个支持撤销/重做功能的React Hook，并说明设计思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1749) 
-9. [第3035题：如果需要做图片懒加载，并且图片数量很多，你会怎么做呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1748) 
-10. [第3034题：怎么根据当前滚动位置，实现目录中对应节点自动高亮？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1747) 
+1. [第3044题：async function 返回的 Promise 状态何时变为 resolved？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1757) 
+2. [第3043题：在前端项目中，如何设计前端与后端的数据交互机制？请说明数据传输格式、接口设计原则以及如何优化性能。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1756) 
+3. [第3042题：在即时通讯场景中，在同步消息时，如果出现网络延迟或部分设备未在线，你会如何确保消息的最终一致性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1755) 
+4. [第3041题：开发一个即时通讯系统的前端页面时，你会如何设计消息的存储和同步机制？如何处理用户切换设备后的消息同步问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1754) 
+5. [第3040题：说说流式输出的原理及其应用场景](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1753) 
+6. [第3039题：最大公共前缀](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1752) 
+7. [第3038题：有了解 AI 的使用和一些前沿概念吗](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1751) 
+8. [第3037题：有一个需要支持10万条数据渲染的表格组件，你会如何设计和优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1750) 
+9. [第3036题：实现一个支持撤销/重做功能的React Hook，并说明设计思路](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1749) 
+10. [第3035题：如果需要做图片懒加载，并且图片数量很多，你会怎么做呢？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1748) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
