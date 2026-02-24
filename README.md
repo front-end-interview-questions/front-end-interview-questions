@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3024题：谈谈 React 与 React Native 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1771) 
-2. [第3022题：Taro 如何实现 React 到小程序代码的转换？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1770) 
-3. [第3021题：解释 uni-app 的编译原理和渲染机制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1769) 
-4. [第3018题：混合开发（Hybrid）的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1768) 
-5. [第3054题：实现函数parallelRequests(urls, maxConcurrent)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1767) 
-6. [第3053题：为何`setup()`中直接解构`props`会丢失响应性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1766) 
-7. [第3052题：Vue 中，多个组件复用同一响应式对象时，如何避免不必要的重新渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1765) 
-8. [第3051题：Vue2中，为什么在`beforeCreate`阶段，无法访问`data`？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1764) 
-9. [第3050题：如果页面含 100 个第三方资源，你会如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1763) 
-10. [第3049题：`setup`函数中同步修改响应式数据，会触发子组件的`onBeforeUpdate`吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1762) 
+1. [第3026题：跨端应用常见的性能瓶颈有哪些？优化方案是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1772) 
+2. [第3024题：谈谈 React 与 React Native 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1771) 
+3. [第3022题：Taro 如何实现 React 到小程序代码的转换？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1770) 
+4. [第3021题：解释 uni-app 的编译原理和渲染机制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1769) 
+5. [第3018题：混合开发（Hybrid）的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1768) 
+6. [第3054题：实现函数parallelRequests(urls, maxConcurrent)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1767) 
+7. [第3053题：为何`setup()`中直接解构`props`会丢失响应性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1766) 
+8. [第3052题：Vue 中，多个组件复用同一响应式对象时，如何避免不必要的重新渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1765) 
+9. [第3051题：Vue2中，为什么在`beforeCreate`阶段，无法访问`data`？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1764) 
+10. [第3050题：如果页面含 100 个第三方资源，你会如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1763) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
