@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3021题：解释 uni-app 的编译原理和渲染机制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1769) 
-2. [第3018题：混合开发（Hybrid）的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1768) 
-3. [第3054题：实现函数parallelRequests(urls, maxConcurrent)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1767) 
-4. [第3053题：为何`setup()`中直接解构`props`会丢失响应性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1766) 
-5. [第3052题：Vue 中，多个组件复用同一响应式对象时，如何避免不必要的重新渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1765) 
-6. [第3051题：Vue2中，为什么在`beforeCreate`阶段，无法访问`data`？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1764) 
-7. [第3050题：如果页面含 100 个第三方资源，你会如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1763) 
-8. [第3049题：`setup`函数中同步修改响应式数据，会触发子组件的`onBeforeUpdate`吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1762) 
-9. [第3048题：Vue3 中，动态绑定v-bind:class="{ active: isActive }"会被编译成什么样的JS代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1761) 
-10. [第3047题：如何拦截`arr[0] = 1`这类操作](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1760) 
+1. [第3022题：Taro 如何实现 React 到小程序代码的转换？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1770) 
+2. [第3021题：解释 uni-app 的编译原理和渲染机制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1769) 
+3. [第3018题：混合开发（Hybrid）的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1768) 
+4. [第3054题：实现函数parallelRequests(urls, maxConcurrent)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1767) 
+5. [第3053题：为何`setup()`中直接解构`props`会丢失响应性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1766) 
+6. [第3052题：Vue 中，多个组件复用同一响应式对象时，如何避免不必要的重新渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1765) 
+7. [第3051题：Vue2中，为什么在`beforeCreate`阶段，无法访问`data`？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1764) 
+8. [第3050题：如果页面含 100 个第三方资源，你会如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1763) 
+9. [第3049题：`setup`函数中同步修改响应式数据，会触发子组件的`onBeforeUpdate`吗？为什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1762) 
+10. [第3048题：Vue3 中，动态绑定v-bind:class="{ active: isActive }"会被编译成什么样的JS代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1761) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
