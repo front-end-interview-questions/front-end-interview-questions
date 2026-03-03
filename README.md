@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3060题：小程序可以做哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1780) 
-2. [第3059题：如果在项目中需要使用到动态表单，你会怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1779) 
-3. [第3058题：说说 Hooks 的依赖数组原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1778) 
-4. [第3057题：说说 Class 语法糖的底层实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1777) 
-5. [第3056题：如何使用 WeakMap 解决循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1776) 
-6. [第3055题：你了解 Git 的 Worktree 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1775) 
-7. [第3029题：跨平台的开发中，如何处理不同平台的 API 差异？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1774) 
-8. [第3027题：小程序中 setData 的性能问题如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1773) 
-9. [第3026题：跨端应用常见的性能瓶颈有哪些？优化方案是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1772) 
-10. [第3024题：谈谈 React 与 React Native 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1771) 
+1. [第3061题：项目中是否有必要自己封装请求库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1781) 
+2. [第3060题：小程序可以做哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1780) 
+3. [第3059题：如果在项目中需要使用到动态表单，你会怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1779) 
+4. [第3058题：说说 Hooks 的依赖数组原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1778) 
+5. [第3057题：说说 Class 语法糖的底层实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1777) 
+6. [第3056题：如何使用 WeakMap 解决循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1776) 
+7. [第3055题：你了解 Git 的 Worktree 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1775) 
+8. [第3029题：跨平台的开发中，如何处理不同平台的 API 差异？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1774) 
+9. [第3027题：小程序中 setData 的性能问题如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1773) 
+10. [第3026题：跨端应用常见的性能瓶颈有哪些？优化方案是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1772) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
