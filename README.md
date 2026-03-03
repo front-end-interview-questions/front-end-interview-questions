@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3055题：你了解 Git 的 Worktree 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1775) 
-2. [第3029题：跨平台的开发中，如何处理不同平台的 API 差异？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1774) 
-3. [第3027题：小程序中 setData 的性能问题如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1773) 
-4. [第3026题：跨端应用常见的性能瓶颈有哪些？优化方案是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1772) 
-5. [第3024题：谈谈 React 与 React Native 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1771) 
-6. [第3022题：Taro 如何实现 React 到小程序代码的转换？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1770) 
-7. [第3021题：解释 uni-app 的编译原理和渲染机制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1769) 
-8. [第3018题：混合开发（Hybrid）的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1768) 
-9. [第3054题：实现函数parallelRequests(urls, maxConcurrent)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1767) 
-10. [第3053题：为何`setup()`中直接解构`props`会丢失响应性？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1766) 
+1. [第3056题：如何使用 WeakMap 解决循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1776) 
+2. [第3055题：你了解 Git 的 Worktree 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1775) 
+3. [第3029题：跨平台的开发中，如何处理不同平台的 API 差异？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1774) 
+4. [第3027题：小程序中 setData 的性能问题如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1773) 
+5. [第3026题：跨端应用常见的性能瓶颈有哪些？优化方案是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1772) 
+6. [第3024题：谈谈 React 与 React Native 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1771) 
+7. [第3022题：Taro 如何实现 React 到小程序代码的转换？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1770) 
+8. [第3021题：解释 uni-app 的编译原理和渲染机制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1769) 
+9. [第3018题：混合开发（Hybrid）的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1768) 
+10. [第3054题：实现函数parallelRequests(urls, maxConcurrent)](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1767) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
