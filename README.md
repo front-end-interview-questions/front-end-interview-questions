@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3057题：说说 Class 语法糖的底层实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1777) 
-2. [第3056题：如何使用 WeakMap 解决循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1776) 
-3. [第3055题：你了解 Git 的 Worktree 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1775) 
-4. [第3029题：跨平台的开发中，如何处理不同平台的 API 差异？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1774) 
-5. [第3027题：小程序中 setData 的性能问题如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1773) 
-6. [第3026题：跨端应用常见的性能瓶颈有哪些？优化方案是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1772) 
-7. [第3024题：谈谈 React 与 React Native 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1771) 
-8. [第3022题：Taro 如何实现 React 到小程序代码的转换？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1770) 
-9. [第3021题：解释 uni-app 的编译原理和渲染机制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1769) 
-10. [第3018题：混合开发（Hybrid）的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1768) 
+1. [第3058题：说说 Hooks 的依赖数组原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1778) 
+2. [第3057题：说说 Class 语法糖的底层实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1777) 
+3. [第3056题：如何使用 WeakMap 解决循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1776) 
+4. [第3055题：你了解 Git 的 Worktree 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1775) 
+5. [第3029题：跨平台的开发中，如何处理不同平台的 API 差异？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1774) 
+6. [第3027题：小程序中 setData 的性能问题如何优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1773) 
+7. [第3026题：跨端应用常见的性能瓶颈有哪些？优化方案是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1772) 
+8. [第3024题：谈谈 React 与 React Native 的区别](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1771) 
+9. [第3022题：Taro 如何实现 React 到小程序代码的转换？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1770) 
+10. [第3021题：解释 uni-app 的编译原理和渲染机制。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1769) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
