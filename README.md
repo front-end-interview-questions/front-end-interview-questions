@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3064题：Tailwind 的响应式断点（如 `md:`）底层如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1784) 
-2. [第3063题：Tailwind 是怎么解决样式冲突的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1783) 
-3. [第3062题：字符串解码](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1782) 
-4. [第3061题：项目中是否有必要自己封装请求库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1781) 
-5. [第3060题：小程序可以做哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1780) 
-6. [第3059题：如果在项目中需要使用到动态表单，你会怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1779) 
-7. [第3058题：说说 Hooks 的依赖数组原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1778) 
-8. [第3057题：说说 Class 语法糖的底层实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1777) 
-9. [第3056题：如何使用 WeakMap 解决循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1776) 
-10. [第3055题：你了解 Git 的 Worktree 吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1775) 
+1. [第3065题：`requestAnimationFrame` 与 `requestIdleCallback` 在渲染优化中的执行时机差异？谁优先触发？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1785) 
+2. [第3064题：Tailwind 的响应式断点（如 `md:`）底层如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1784) 
+3. [第3063题：Tailwind 是怎么解决样式冲突的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1783) 
+4. [第3062题：字符串解码](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1782) 
+5. [第3061题：项目中是否有必要自己封装请求库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1781) 
+6. [第3060题：小程序可以做哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1780) 
+7. [第3059题：如果在项目中需要使用到动态表单，你会怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1779) 
+8. [第3058题：说说 Hooks 的依赖数组原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1778) 
+9. [第3057题：说说 Class 语法糖的底层实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1777) 
+10. [第3056题：如何使用 WeakMap 解决循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1776) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
