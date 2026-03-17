@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3065题：`requestAnimationFrame` 与 `requestIdleCallback` 在渲染优化中的执行时机差异？谁优先触发？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1785) 
-2. [第3064题：Tailwind 的响应式断点（如 `md:`）底层如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1784) 
-3. [第3063题：Tailwind 是怎么解决样式冲突的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1783) 
-4. [第3062题：字符串解码](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1782) 
-5. [第3061题：项目中是否有必要自己封装请求库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1781) 
-6. [第3060题：小程序可以做哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1780) 
-7. [第3059题：如果在项目中需要使用到动态表单，你会怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1779) 
-8. [第3058题：说说 Hooks 的依赖数组原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1778) 
-9. [第3057题：说说 Class 语法糖的底层实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1777) 
-10. [第3056题：如何使用 WeakMap 解决循环引用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1776) 
+1. [第3066题：响应式开发中，如何避免窗口大小监听导致的重排抖动？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1786) 
+2. [第3065题：`requestAnimationFrame` 与 `requestIdleCallback` 在渲染优化中的执行时机差异？谁优先触发？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1785) 
+3. [第3064题：Tailwind 的响应式断点（如 `md:`）底层如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1784) 
+4. [第3063题：Tailwind 是怎么解决样式冲突的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1783) 
+5. [第3062题：字符串解码](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1782) 
+6. [第3061题：项目中是否有必要自己封装请求库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1781) 
+7. [第3060题：小程序可以做哪些性能优化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1780) 
+8. [第3059题：如果在项目中需要使用到动态表单，你会怎么实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1779) 
+9. [第3058题：说说 Hooks 的依赖数组原理](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1778) 
+10. [第3057题：说说 Class 语法糖的底层实现](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1777) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
@@ -594,7 +594,7 @@
 16. [第569题：谈谈你对浏览器中进程和线程的理解](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/518) 
 17. [第570题：html文档渲染过程，css文件和js文件的下载，是否会阻塞渲染？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/519) 
 18. [第571题：CSS中的 “flex:1;” 是什么意思？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/520) 
-19. [第572题：mete标签中的viewport 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/521) 
+19. [第572题：meta 标签中的viewport 有什么用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/521) 
 20. [第573题：虚拟DOM一定更快吗？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/522) 
 21. [第574题：html和css中的图片加载与渲染规则是什么样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/523) 
 22. [第575题：base64编码图片，为什么会让数据量变大？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/524) 
