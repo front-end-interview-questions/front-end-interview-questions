@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3282题：前端如何实现多 Agent 协作界面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1799) 
-2. [第3283题：如何设计 Agent 的会话历史管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1798) 
-3. [第3284题：如何实现 Agent 的 Token 实时统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1797) 
-4. [第3285题：如何实现 Agent 的 Memory 可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1796) 
-5. [第3286题：如何设计一个企业级 AI Agent 平台？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1795) 
-6. [第3128题：大模型的计费规则一般会区分“输入（命中缓存）”、“输入（未命中缓存）”、“输出”，它们有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1794) 
-7. [第3130题：Vibe Coding 和 Spec Coding 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1793) 
-8. [第3129题：如果公司想用大模型，但又担心暴露隐私数据，该怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1792) 
-9. [第3115题：各种大模型场景给出的 Coding plan 套餐中，Tokens 和 Credits 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1791) 
-10. [第3156题：现在大模型已经能高效生成界面代码，有人认为前端会被AI颠覆，也有人认为这只是工具革新。你更倾向哪种观点？你认为前端未来3-5年真正的机会点或转型方向是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1790) 
+1. [第3280题：如何实现 Agent 的工具调用可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1801) 
+2. [第3281题：如何实现 Agent Workflow 的流程图展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1800) 
+3. [第3282题：前端如何实现多 Agent 协作界面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1799) 
+4. [第3283题：如何设计 Agent 的会话历史管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1798) 
+5. [第3284题：如何实现 Agent 的 Token 实时统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1797) 
+6. [第3285题：如何实现 Agent 的 Memory 可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1796) 
+7. [第3286题：如何设计一个企业级 AI Agent 平台？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1795) 
+8. [第3128题：大模型的计费规则一般会区分“输入（命中缓存）”、“输入（未命中缓存）”、“输出”，它们有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1794) 
+9. [第3130题：Vibe Coding 和 Spec Coding 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1793) 
+10. [第3129题：如果公司想用大模型，但又担心暴露隐私数据，该怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1792) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
