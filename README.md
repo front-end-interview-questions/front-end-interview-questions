@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3128题：大模型的计费规则一般会区分“输入（命中缓存）”、“输入（未命中缓存）”、“输出”，它们有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1794) 
-2. [第3130题：Vibe Coding 和 Spec Coding 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1793) 
-3. [第3129题：如果公司想用大模型，但又担心暴露隐私数据，该怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1792) 
-4. [第3115题：各种大模型场景给出的 Coding plan 套餐中，Tokens 和 Credits 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1791) 
-5. [第3156题：现在大模型已经能高效生成界面代码，有人认为前端会被AI颠覆，也有人认为这只是工具革新。你更倾向哪种观点？你认为前端未来3-5年真正的机会点或转型方向是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1790) 
-6. [第3137题：说说Agent应用的优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1789) 
-7. [第3067题：实现发布订阅模式](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1788) 
-8. [第2381题：HTTP/2 的多路复用（Multiplexing），对比 HTTP/1.1 的长连接优化，它是如何解决队头阻塞的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1787) 
-9. [第3066题：响应式开发中，如何避免窗口大小监听导致的重排抖动？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1786) 
-10. [第3065题：`requestAnimationFrame` 与 `requestIdleCallback` 在渲染优化中的执行时机差异？谁优先触发？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1785) 
+1. [第3286题：如何设计一个企业级 AI Agent 平台？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1795) 
+2. [第3128题：大模型的计费规则一般会区分“输入（命中缓存）”、“输入（未命中缓存）”、“输出”，它们有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1794) 
+3. [第3130题：Vibe Coding 和 Spec Coding 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1793) 
+4. [第3129题：如果公司想用大模型，但又担心暴露隐私数据，该怎么解决？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1792) 
+5. [第3115题：各种大模型场景给出的 Coding plan 套餐中，Tokens 和 Credits 分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1791) 
+6. [第3156题：现在大模型已经能高效生成界面代码，有人认为前端会被AI颠覆，也有人认为这只是工具革新。你更倾向哪种观点？你认为前端未来3-5年真正的机会点或转型方向是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1790) 
+7. [第3137题：说说Agent应用的优缺点？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1789) 
+8. [第3067题：实现发布订阅模式](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1788) 
+9. [第2381题：HTTP/2 的多路复用（Multiplexing），对比 HTTP/1.1 的长连接优化，它是如何解决队头阻塞的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1787) 
+10. [第3066题：响应式开发中，如何避免窗口大小监听导致的重排抖动？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1786) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
