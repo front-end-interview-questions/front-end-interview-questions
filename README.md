@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3270题：AI Coding Agent 如何进行代码审查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1811) 
-2. [第3271题：AI Coding Agent 如何调用终端工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1810) 
-3. [第3272题：AI Coding Agent 如何实现自动测试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1809) 
-4. [第3273题：AI Coding Agent 如何实现自主修复 Bug？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1808) 
-5. [第3274题：Vibe Coding 与 Spec Coding 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1807) 
-6. [第3275题：前端如何实现 Agent 对话系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1806) 
-7. [第3276题：SSE 与 WebSocket 在 Agent 应用中如何选择？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1805) 
-8. [第3277题：如何实现 ChatGPT 类似的流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1804) 
-9. [第3278题：如何实现 Agent 的思考过程展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1803) 
-10. [第3279题：Agent 应用中的消息状态有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1802) 
+1. [第3265题：AI Coding Agent 如何理解大型代码库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1813) 
+2. [第3267题：为什么 AI Coding Agent 需要 Git Worktree？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1812) 
+3. [第3270题：AI Coding Agent 如何进行代码审查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1811) 
+4. [第3271题：AI Coding Agent 如何调用终端工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1810) 
+5. [第3272题：AI Coding Agent 如何实现自动测试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1809) 
+6. [第3273题：AI Coding Agent 如何实现自主修复 Bug？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1808) 
+7. [第3274题：Vibe Coding 与 Spec Coding 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1807) 
+8. [第3275题：前端如何实现 Agent 对话系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1806) 
+9. [第3276题：SSE 与 WebSocket 在 Agent 应用中如何选择？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1805) 
+10. [第3277题：如何实现 ChatGPT 类似的流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1804) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
