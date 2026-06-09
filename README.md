@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3245题：Agent 的评测体系如何设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1824) 
-2. [第3248题：如何降低 Agent 的推理成本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1823) 
-3. [第3242题：如何设计 Agent 的日志系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1822) 
-4. [第3262题：Agent 在企业落地时最大的安全挑战是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1821) 
-5. [第3250题：Agent 如何实现流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1820) 
-6. [第3244题：如何定位 Agent 的错误决策？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1819) 
-7. [第3246题：Agent 的 Token 消耗如何统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1818) 
-8. [第3249题：如何实现 Agent 的缓存机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1817) 
-9. [第3247题：如何优化 Agent 的响应速度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1816) 
-10. [第3247题：如何优化 Agent 的响应速度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1815) 
+1. [第3260题：Agent 如何防止无限循环调用工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1825) 
+2. [第3245题：Agent 的评测体系如何设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1824) 
+3. [第3248题：如何降低 Agent 的推理成本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1823) 
+4. [第3242题：如何设计 Agent 的日志系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1822) 
+5. [第3262题：Agent 在企业落地时最大的安全挑战是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1821) 
+6. [第3250题：Agent 如何实现流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1820) 
+7. [第3244题：如何定位 Agent 的错误决策？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1819) 
+8. [第3246题：Agent 的 Token 消耗如何统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1818) 
+9. [第3249题：如何实现 Agent 的缓存机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1817) 
+10. [第3247题：如何优化 Agent 的响应速度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1816) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
