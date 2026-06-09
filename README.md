@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3232题：了解哪些 Agent 开发框架？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1833) 
-2. [第3253题：Prompt Injection 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1832) 
-3. [第3257题：如何避免 Agent 泄露敏感信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1831) 
-4. [第3258题：如何限制 Agent 的操作范围？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1830) 
-5. [第3269题：AI Coding Agent 如何避免误修改代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1829) 
-6. [第3266题：AI Coding Agent 如何实现代码修改？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1828) 
-7. [第3263题：Cursor 的 Agent 模式与 Chat 模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1827) 
-8. [第3261题：如何设计 Agent 的人工审核机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1826) 
-9. [第3260题：Agent 如何防止无限循环调用工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1825) 
-10. [第3245题：Agent 的评测体系如何设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1824) 
+1. [第3231题：多 Agent 架构存在哪些挑战？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1834) 
+2. [第3232题：了解哪些 Agent 开发框架？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1833) 
+3. [第3253题：Prompt Injection 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1832) 
+4. [第3257题：如何避免 Agent 泄露敏感信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1831) 
+5. [第3258题：如何限制 Agent 的操作范围？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1830) 
+6. [第3269题：AI Coding Agent 如何避免误修改代码？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1829) 
+7. [第3266题：AI Coding Agent 如何实现代码修改？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1828) 
+8. [第3263题：Cursor 的 Agent 模式与 Chat 模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1827) 
+9. [第3261题：如何设计 Agent 的人工审核机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1826) 
+10. [第3260题：Agent 如何防止无限循环调用工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1825) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
