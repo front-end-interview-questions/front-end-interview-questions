@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3273题：AI Coding Agent 如何实现自主修复 Bug？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1808) 
-2. [第3274题：Vibe Coding 与 Spec Coding 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1807) 
-3. [第3275题：前端如何实现 Agent 对话系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1806) 
-4. [第3276题：SSE 与 WebSocket 在 Agent 应用中如何选择？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1805) 
-5. [第3277题：如何实现 ChatGPT 类似的流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1804) 
-6. [第3278题：如何实现 Agent 的思考过程展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1803) 
-7. [第3279题：Agent 应用中的消息状态有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1802) 
-8. [第3280题：如何实现 Agent 的工具调用可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1801) 
-9. [第3281题：如何实现 Agent Workflow 的流程图展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1800) 
-10. [第3282题：前端如何实现多 Agent 协作界面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1799) 
+1. [第3271题：AI Coding Agent 如何调用终端工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1810) 
+2. [第3272题：AI Coding Agent 如何实现自动测试？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1809) 
+3. [第3273题：AI Coding Agent 如何实现自主修复 Bug？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1808) 
+4. [第3274题：Vibe Coding 与 Spec Coding 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1807) 
+5. [第3275题：前端如何实现 Agent 对话系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1806) 
+6. [第3276题：SSE 与 WebSocket 在 Agent 应用中如何选择？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1805) 
+7. [第3277题：如何实现 ChatGPT 类似的流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1804) 
+8. [第3278题：如何实现 Agent 的思考过程展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1803) 
+9. [第3279题：Agent 应用中的消息状态有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1802) 
+10. [第3280题：如何实现 Agent 的工具调用可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1801) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
