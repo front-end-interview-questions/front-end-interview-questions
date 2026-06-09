@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3278题：如何实现 Agent 的思考过程展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1803) 
-2. [第3279题：Agent 应用中的消息状态有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1802) 
-3. [第3280题：如何实现 Agent 的工具调用可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1801) 
-4. [第3281题：如何实现 Agent Workflow 的流程图展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1800) 
-5. [第3282题：前端如何实现多 Agent 协作界面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1799) 
-6. [第3283题：如何设计 Agent 的会话历史管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1798) 
-7. [第3284题：如何实现 Agent 的 Token 实时统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1797) 
-8. [第3285题：如何实现 Agent 的 Memory 可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1796) 
-9. [第3286题：如何设计一个企业级 AI Agent 平台？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1795) 
-10. [第3128题：大模型的计费规则一般会区分“输入（命中缓存）”、“输入（未命中缓存）”、“输出”，它们有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1794) 
+1. [第3276题：SSE 与 WebSocket 在 Agent 应用中如何选择？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1805) 
+2. [第3277题：如何实现 ChatGPT 类似的流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1804) 
+3. [第3278题：如何实现 Agent 的思考过程展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1803) 
+4. [第3279题：Agent 应用中的消息状态有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1802) 
+5. [第3280题：如何实现 Agent 的工具调用可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1801) 
+6. [第3281题：如何实现 Agent Workflow 的流程图展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1800) 
+7. [第3282题：前端如何实现多 Agent 协作界面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1799) 
+8. [第3283题：如何设计 Agent 的会话历史管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1798) 
+9. [第3284题：如何实现 Agent 的 Token 实时统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1797) 
+10. [第3285题：如何实现 Agent 的 Memory 可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1796) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
