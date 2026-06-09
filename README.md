@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3276题：SSE 与 WebSocket 在 Agent 应用中如何选择？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1805) 
-2. [第3277题：如何实现 ChatGPT 类似的流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1804) 
-3. [第3278题：如何实现 Agent 的思考过程展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1803) 
-4. [第3279题：Agent 应用中的消息状态有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1802) 
-5. [第3280题：如何实现 Agent 的工具调用可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1801) 
-6. [第3281题：如何实现 Agent Workflow 的流程图展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1800) 
-7. [第3282题：前端如何实现多 Agent 协作界面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1799) 
-8. [第3283题：如何设计 Agent 的会话历史管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1798) 
-9. [第3284题：如何实现 Agent 的 Token 实时统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1797) 
-10. [第3285题：如何实现 Agent 的 Memory 可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1796) 
+1. [第3275题：前端如何实现 Agent 对话系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1806) 
+2. [第3276题：SSE 与 WebSocket 在 Agent 应用中如何选择？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1805) 
+3. [第3277题：如何实现 ChatGPT 类似的流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1804) 
+4. [第3278题：如何实现 Agent 的思考过程展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1803) 
+5. [第3279题：Agent 应用中的消息状态有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1802) 
+6. [第3280题：如何实现 Agent 的工具调用可视化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1801) 
+7. [第3281题：如何实现 Agent Workflow 的流程图展示？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1800) 
+8. [第3282题：前端如何实现多 Agent 协作界面？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1799) 
+9. [第3283题：如何设计 Agent 的会话历史管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1798) 
+10. [第3284题：如何实现 Agent 的 Token 实时统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1797) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
