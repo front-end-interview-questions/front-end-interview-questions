@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3244题：如何定位 Agent 的错误决策？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1819) 
-2. [第3246题：Agent 的 Token 消耗如何统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1818) 
-3. [第3249题：如何实现 Agent 的缓存机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1817) 
-4. [第3247题：如何优化 Agent 的响应速度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1816) 
-5. [第3247题：如何优化 Agent 的响应速度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1815) 
-6. [第3264题：Claude Code 的工作原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1814) 
-7. [第3265题：AI Coding Agent 如何理解大型代码库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1813) 
-8. [第3267题：为什么 AI Coding Agent 需要 Git Worktree？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1812) 
-9. [第3270题：AI Coding Agent 如何进行代码审查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1811) 
-10. [第3271题：AI Coding Agent 如何调用终端工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1810) 
+1. [第3250题：Agent 如何实现流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1820) 
+2. [第3244题：如何定位 Agent 的错误决策？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1819) 
+3. [第3246题：Agent 的 Token 消耗如何统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1818) 
+4. [第3249题：如何实现 Agent 的缓存机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1817) 
+5. [第3247题：如何优化 Agent 的响应速度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1816) 
+6. [第3247题：如何优化 Agent 的响应速度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1815) 
+7. [第3264题：Claude Code 的工作原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1814) 
+8. [第3265题：AI Coding Agent 如何理解大型代码库？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1813) 
+9. [第3267题：为什么 AI Coding Agent 需要 Git Worktree？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1812) 
+10. [第3270题：AI Coding Agent 如何进行代码审查？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1811) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
