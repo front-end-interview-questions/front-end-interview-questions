@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3260题：Agent 如何防止无限循环调用工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1825) 
-2. [第3245题：Agent 的评测体系如何设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1824) 
-3. [第3248题：如何降低 Agent 的推理成本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1823) 
-4. [第3242题：如何设计 Agent 的日志系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1822) 
-5. [第3262题：Agent 在企业落地时最大的安全挑战是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1821) 
-6. [第3250题：Agent 如何实现流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1820) 
-7. [第3244题：如何定位 Agent 的错误决策？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1819) 
-8. [第3246题：Agent 的 Token 消耗如何统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1818) 
-9. [第3249题：如何实现 Agent 的缓存机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1817) 
-10. [第3247题：如何优化 Agent 的响应速度？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1816) 
+1. [第3263题：Cursor 的 Agent 模式与 Chat 模式有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1827) 
+2. [第3261题：如何设计 Agent 的人工审核机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1826) 
+3. [第3260题：Agent 如何防止无限循环调用工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1825) 
+4. [第3245题：Agent 的评测体系如何设计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1824) 
+5. [第3248题：如何降低 Agent 的推理成本？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1823) 
+6. [第3242题：如何设计 Agent 的日志系统？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1822) 
+7. [第3262题：Agent 在企业落地时最大的安全挑战是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1821) 
+8. [第3250题：Agent 如何实现流式输出？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1820) 
+9. [第3244题：如何定位 Agent 的错误决策？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1819) 
+10. [第3246题：Agent 的 Token 消耗如何统计？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1818) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
