@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3213题：MCP Client 与 MCP Server 的职责分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1866) 
-2. [第3212题：MCP 的核心价值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1865) 
-3. [第3211题：MCP 出现之前 Agent 是如何接入工具的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1864) 
-4. [第3210题：什么是 MCP？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1863) 
-5. [第3220题：什么是 Multi-Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1862) 
-6. [第3221题：为什么需要多个 Agent 协同工作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1861) 
-7. [第3222题：多 Agent 的常见架构有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1860) 
-8. [第3223题：Supervisor Agent 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1859) 
-9. [第3224题：Planner Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1858) 
-10. [第3225题：Executor Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1857) 
+1. [第3218题：MCP 与传统 REST API 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1869) 
+2. [第3219题：MCP 为什么被认为是 AI 时代的 USB-C？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1868) 
+3. [第3214题：MCP 的通信流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1867) 
+4. [第3213题：MCP Client 与 MCP Server 的职责分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1866) 
+5. [第3212题：MCP 的核心价值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1865) 
+6. [第3211题：MCP 出现之前 Agent 是如何接入工具的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1864) 
+7. [第3210题：什么是 MCP？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1863) 
+8. [第3220题：什么是 Multi-Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1862) 
+9. [第3221题：为什么需要多个 Agent 协同工作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1861) 
+10. [第3222题：多 Agent 的常见架构有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1860) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
