@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3254题：如何防御 Prompt Injection？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1839) 
-2. [第3256题：Agent 调用工具时有哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1838) 
-3. [第3259题：Agent 如何实现 RBAC 权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1837) 
-4. [第3268题：AI Coding Agent 如何实现任务规划？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1836) 
-5. [第3235题：为什么 LangGraph 更适合 Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1835) 
-6. [第3231题：多 Agent 架构存在哪些挑战？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1834) 
-7. [第3232题：了解哪些 Agent 开发框架？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1833) 
-8. [第3253题：Prompt Injection 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1832) 
-9. [第3257题：如何避免 Agent 泄露敏感信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1831) 
-10. [第3258题：如何限制 Agent 的操作范围？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1830) 
+1. [第3252题：Agent 如何实现版本管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1840) 
+2. [第3254题：如何防御 Prompt Injection？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1839) 
+3. [第3256题：Agent 调用工具时有哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1838) 
+4. [第3259题：Agent 如何实现 RBAC 权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1837) 
+5. [第3268题：AI Coding Agent 如何实现任务规划？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1836) 
+6. [第3235题：为什么 LangGraph 更适合 Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1835) 
+7. [第3231题：多 Agent 架构存在哪些挑战？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1834) 
+8. [第3232题：了解哪些 Agent 开发框架？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1833) 
+9. [第3253题：Prompt Injection 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1832) 
+10. [第3257题：如何避免 Agent 泄露敏感信息？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1831) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
