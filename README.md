@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3233题：谈谈 LangChain 的核心设计思想。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1851) 
-2. [第3234题：LangGraph 与 LangChain 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1850) 
-3. [第3236题：CrewAI 的核心能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1849) 
-4. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
-5. [第3238题：OpenAI Agents SDK 的特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1847) 
-6. [第3239题：Dify 的 Agent 编排能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1846) 
-7. [第3240题：Coze 的 Agent 开发模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1845) 
-8. [第3243题：Agent 的 Trace（链路追踪）如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1844) 
-9. [第3255题：Jailbreak 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1843) 
-10. [第3241题：FastGPT 的知识库架构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1842) 
+1. [第3230题：多 Agent 如何实现结果汇总？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1852) 
+2. [第3233题：谈谈 LangChain 的核心设计思想。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1851) 
+3. [第3234题：LangGraph 与 LangChain 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1850) 
+4. [第3236题：CrewAI 的核心能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1849) 
+5. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
+6. [第3238题：OpenAI Agents SDK 的特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1847) 
+7. [第3239题：Dify 的 Agent 编排能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1846) 
+8. [第3240题：Coze 的 Agent 开发模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1845) 
+9. [第3243题：Agent 的 Trace（链路追踪）如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1844) 
+10. [第3255题：Jailbreak 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1843) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
