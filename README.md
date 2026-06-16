@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3226题：多 Agent 之间如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1856) 
-2. [第3227题：多 Agent 如何共享上下文？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1855) 
-3. [第3228题：多 Agent 如何避免任务冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1854) 
-4. [第3229题：多 Agent 如何实现任务拆解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1853) 
-5. [第3230题：多 Agent 如何实现结果汇总？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1852) 
-6. [第3233题：谈谈 LangChain 的核心设计思想。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1851) 
-7. [第3234题：LangGraph 与 LangChain 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1850) 
-8. [第3236题：CrewAI 的核心能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1849) 
-9. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
-10. [第3238题：OpenAI Agents SDK 的特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1847) 
+1. [第3225题：Executor Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1857) 
+2. [第3226题：多 Agent 之间如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1856) 
+3. [第3227题：多 Agent 如何共享上下文？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1855) 
+4. [第3228题：多 Agent 如何避免任务冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1854) 
+5. [第3229题：多 Agent 如何实现任务拆解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1853) 
+6. [第3230题：多 Agent 如何实现结果汇总？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1852) 
+7. [第3233题：谈谈 LangChain 的核心设计思想。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1851) 
+8. [第3234题：LangGraph 与 LangChain 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1850) 
+9. [第3236题：CrewAI 的核心能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1849) 
+10. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
