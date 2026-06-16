@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3236题：CrewAI 的核心能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1849) 
-2. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
-3. [第3238题：OpenAI Agents SDK 的特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1847) 
-4. [第3239题：Dify 的 Agent 编排能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1846) 
-5. [第3240题：Coze 的 Agent 开发模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1845) 
-6. [第3243题：Agent 的 Trace（链路追踪）如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1844) 
-7. [第3255题：Jailbreak 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1843) 
-8. [第3241题：FastGPT 的知识库架构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1842) 
-9. [第3251题：Agent 如何实现会话恢复？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1841) 
-10. [第3252题：Agent 如何实现版本管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1840) 
+1. [第3234题：LangGraph 与 LangChain 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1850) 
+2. [第3236题：CrewAI 的核心能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1849) 
+3. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
+4. [第3238题：OpenAI Agents SDK 的特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1847) 
+5. [第3239题：Dify 的 Agent 编排能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1846) 
+6. [第3240题：Coze 的 Agent 开发模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1845) 
+7. [第3243题：Agent 的 Trace（链路追踪）如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1844) 
+8. [第3255题：Jailbreak 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1843) 
+9. [第3241题：FastGPT 的知识库架构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1842) 
+10. [第3251题：Agent 如何实现会话恢复？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1841) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
