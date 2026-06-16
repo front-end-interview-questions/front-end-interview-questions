@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3223题：Supervisor Agent 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1859) 
-2. [第3224题：Planner Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1858) 
-3. [第3225题：Executor Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1857) 
-4. [第3226题：多 Agent 之间如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1856) 
-5. [第3227题：多 Agent 如何共享上下文？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1855) 
-6. [第3228题：多 Agent 如何避免任务冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1854) 
-7. [第3229题：多 Agent 如何实现任务拆解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1853) 
-8. [第3230题：多 Agent 如何实现结果汇总？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1852) 
-9. [第3233题：谈谈 LangChain 的核心设计思想。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1851) 
-10. [第3234题：LangGraph 与 LangChain 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1850) 
+1. [第3221题：为什么需要多个 Agent 协同工作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1861) 
+2. [第3222题：多 Agent 的常见架构有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1860) 
+3. [第3223题：Supervisor Agent 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1859) 
+4. [第3224题：Planner Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1858) 
+5. [第3225题：Executor Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1857) 
+6. [第3226题：多 Agent 之间如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1856) 
+7. [第3227题：多 Agent 如何共享上下文？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1855) 
+8. [第3228题：多 Agent 如何避免任务冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1854) 
+9. [第3229题：多 Agent 如何实现任务拆解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1853) 
+10. [第3230题：多 Agent 如何实现结果汇总？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1852) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
