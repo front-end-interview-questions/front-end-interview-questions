@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3241题：FastGPT 的知识库架构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1842) 
-2. [第3251题：Agent 如何实现会话恢复？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1841) 
-3. [第3252题：Agent 如何实现版本管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1840) 
-4. [第3254题：如何防御 Prompt Injection？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1839) 
-5. [第3256题：Agent 调用工具时有哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1838) 
-6. [第3259题：Agent 如何实现 RBAC 权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1837) 
-7. [第3268题：AI Coding Agent 如何实现任务规划？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1836) 
-8. [第3235题：为什么 LangGraph 更适合 Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1835) 
-9. [第3231题：多 Agent 架构存在哪些挑战？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1834) 
-10. [第3232题：了解哪些 Agent 开发框架？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1833) 
+1. [第3243题：Agent 的 Trace（链路追踪）如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1844) 
+2. [第3255题：Jailbreak 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1843) 
+3. [第3241题：FastGPT 的知识库架构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1842) 
+4. [第3251题：Agent 如何实现会话恢复？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1841) 
+5. [第3252题：Agent 如何实现版本管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1840) 
+6. [第3254题：如何防御 Prompt Injection？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1839) 
+7. [第3256题：Agent 调用工具时有哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1838) 
+8. [第3259题：Agent 如何实现 RBAC 权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1837) 
+9. [第3268题：AI Coding Agent 如何实现任务规划？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1836) 
+10. [第3235题：为什么 LangGraph 更适合 Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1835) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
