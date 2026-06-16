@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3228题：多 Agent 如何避免任务冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1854) 
-2. [第3229题：多 Agent 如何实现任务拆解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1853) 
-3. [第3230题：多 Agent 如何实现结果汇总？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1852) 
-4. [第3233题：谈谈 LangChain 的核心设计思想。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1851) 
-5. [第3234题：LangGraph 与 LangChain 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1850) 
-6. [第3236题：CrewAI 的核心能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1849) 
-7. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
-8. [第3238题：OpenAI Agents SDK 的特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1847) 
-9. [第3239题：Dify 的 Agent 编排能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1846) 
-10. [第3240题：Coze 的 Agent 开发模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1845) 
+1. [第3226题：多 Agent 之间如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1856) 
+2. [第3227题：多 Agent 如何共享上下文？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1855) 
+3. [第3228题：多 Agent 如何避免任务冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1854) 
+4. [第3229题：多 Agent 如何实现任务拆解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1853) 
+5. [第3230题：多 Agent 如何实现结果汇总？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1852) 
+6. [第3233题：谈谈 LangChain 的核心设计思想。](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1851) 
+7. [第3234题：LangGraph 与 LangChain 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1850) 
+8. [第3236题：CrewAI 的核心能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1849) 
+9. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
+10. [第3238题：OpenAI Agents SDK 的特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1847) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
