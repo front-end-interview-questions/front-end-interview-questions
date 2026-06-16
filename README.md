@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3220题：什么是 Multi-Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1862) 
-2. [第3221题：为什么需要多个 Agent 协同工作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1861) 
-3. [第3222题：多 Agent 的常见架构有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1860) 
-4. [第3223题：Supervisor Agent 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1859) 
-5. [第3224题：Planner Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1858) 
-6. [第3225题：Executor Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1857) 
-7. [第3226题：多 Agent 之间如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1856) 
-8. [第3227题：多 Agent 如何共享上下文？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1855) 
-9. [第3228题：多 Agent 如何避免任务冲突？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1854) 
-10. [第3229题：多 Agent 如何实现任务拆解？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1853) 
+1. [第3212题：MCP 的核心价值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1865) 
+2. [第3211题：MCP 出现之前 Agent 是如何接入工具的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1864) 
+3. [第3210题：什么是 MCP？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1863) 
+4. [第3220题：什么是 Multi-Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1862) 
+5. [第3221题：为什么需要多个 Agent 协同工作？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1861) 
+6. [第3222题：多 Agent 的常见架构有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1860) 
+7. [第3223题：Supervisor Agent 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1859) 
+8. [第3224题：Planner Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1858) 
+9. [第3225题：Executor Agent 的职责是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1857) 
+10. [第3226题：多 Agent 之间如何通信？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1856) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
