@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3239题：Dify 的 Agent 编排能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1846) 
-2. [第3240题：Coze 的 Agent 开发模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1845) 
-3. [第3243题：Agent 的 Trace（链路追踪）如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1844) 
-4. [第3255题：Jailbreak 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1843) 
-5. [第3241题：FastGPT 的知识库架构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1842) 
-6. [第3251题：Agent 如何实现会话恢复？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1841) 
-7. [第3252题：Agent 如何实现版本管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1840) 
-8. [第3254题：如何防御 Prompt Injection？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1839) 
-9. [第3256题：Agent 调用工具时有哪些安全风险？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1838) 
-10. [第3259题：Agent 如何实现 RBAC 权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1837) 
+1. [第3237题：AutoGen 的架构特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1848) 
+2. [第3238题：OpenAI Agents SDK 的特点是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1847) 
+3. [第3239题：Dify 的 Agent 编排能力有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1846) 
+4. [第3240题：Coze 的 Agent 开发模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1845) 
+5. [第3243题：Agent 的 Trace（链路追踪）如何实现？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1844) 
+6. [第3255题：Jailbreak 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1843) 
+7. [第3241题：FastGPT 的知识库架构是怎样的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1842) 
+8. [第3251题：Agent 如何实现会话恢复？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1841) 
+9. [第3252题：Agent 如何实现版本管理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1840) 
+10. [第3254题：如何防御 Prompt Injection？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1839) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
