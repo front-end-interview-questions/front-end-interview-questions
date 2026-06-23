@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3215题：MCP 与 Function Calling 的关系是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1872) 
-2. [第3216题：MCP 如何实现工具发现（Discovery）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1871) 
-3. [第3217题：MCP 如何实现权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1870) 
-4. [第3218题：MCP 与传统 REST API 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1869) 
-5. [第3219题：MCP 为什么被认为是 AI 时代的 USB-C？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1868) 
-6. [第3214题：MCP 的通信流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1867) 
-7. [第3213题：MCP Client 与 MCP Server 的职责分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1866) 
-8. [第3212题：MCP 的核心价值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1865) 
-9. [第3211题：MCP 出现之前 Agent 是如何接入工具的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1864) 
-10. [第3210题：什么是 MCP？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1863) 
+1. [第3209题：Agent Workflow 如何进行监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1873) 
+2. [第3215题：MCP 与 Function Calling 的关系是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1872) 
+3. [第3216题：MCP 如何实现工具发现（Discovery）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1871) 
+4. [第3217题：MCP 如何实现权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1870) 
+5. [第3218题：MCP 与传统 REST API 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1869) 
+6. [第3219题：MCP 为什么被认为是 AI 时代的 USB-C？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1868) 
+7. [第3214题：MCP 的通信流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1867) 
+8. [第3213题：MCP Client 与 MCP Server 的职责分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1866) 
+9. [第3212题：MCP 的核心价值是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1865) 
+10. [第3211题：MCP 出现之前 Agent 是如何接入工具的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1864) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
