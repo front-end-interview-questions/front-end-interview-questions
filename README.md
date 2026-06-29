@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3190题：Embedding 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1885) 
-2. [第3189题：RAG 的整体架构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1884) 
-3. [第3199题：Agent 与 RAG 结合时的典型流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1883) 
-4. [第3203题：什么场景适合 Workflow？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1882) 
-5. [第3202题：DAG 工作流是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1881) 
-6. [第3201题：工作流（Workflow）与自主 Agent 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1880) 
-7. [第3200题：什么是 Agent Workflow？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1879) 
-8. [第3204题：什么场景适合 Autonomous Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1878) 
-9. [第3205题：如何设计一个多步骤 Agent 工作流？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1877) 
-10. [第3206题：Agent Workflow 如何实现重试机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1876) 
+1. [第3192题：Chunk 的切分策略有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1887) 
+2. [第3191题：向量数据库的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1886) 
+3. [第3190题：Embedding 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1885) 
+4. [第3189题：RAG 的整体架构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1884) 
+5. [第3199题：Agent 与 RAG 结合时的典型流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1883) 
+6. [第3203题：什么场景适合 Workflow？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1882) 
+7. [第3202题：DAG 工作流是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1881) 
+8. [第3201题：工作流（Workflow）与自主 Agent 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1880) 
+9. [第3200题：什么是 Agent Workflow？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1879) 
+10. [第3204题：什么场景适合 Autonomous Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1878) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
