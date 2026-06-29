@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3207题：如何实现 Agent 的状态持久化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1875) 
-2. [第3208题：如何实现 Agent 的断点续执行？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1874) 
-3. [第3209题：Agent Workflow 如何进行监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1873) 
-4. [第3215题：MCP 与 Function Calling 的关系是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1872) 
-5. [第3216题：MCP 如何实现工具发现（Discovery）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1871) 
-6. [第3217题：MCP 如何实现权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1870) 
-7. [第3218题：MCP 与传统 REST API 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1869) 
-8. [第3219题：MCP 为什么被认为是 AI 时代的 USB-C？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1868) 
-9. [第3214题：MCP 的通信流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1867) 
-10. [第3213题：MCP Client 与 MCP Server 的职责分别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1866) 
+1. [第3205题：如何设计一个多步骤 Agent 工作流？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1877) 
+2. [第3206题：Agent Workflow 如何实现重试机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1876) 
+3. [第3207题：如何实现 Agent 的状态持久化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1875) 
+4. [第3208题：如何实现 Agent 的断点续执行？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1874) 
+5. [第3209题：Agent Workflow 如何进行监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1873) 
+6. [第3215题：MCP 与 Function Calling 的关系是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1872) 
+7. [第3216题：MCP 如何实现工具发现（Discovery）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1871) 
+8. [第3217题：MCP 如何实现权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1870) 
+9. [第3218题：MCP 与传统 REST API 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1869) 
+10. [第3219题：MCP 为什么被认为是 AI 时代的 USB-C？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1868) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
