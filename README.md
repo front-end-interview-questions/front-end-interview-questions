@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3201题：工作流（Workflow）与自主 Agent 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1880) 
-2. [第3200题：什么是 Agent Workflow？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1879) 
-3. [第3204题：什么场景适合 Autonomous Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1878) 
-4. [第3205题：如何设计一个多步骤 Agent 工作流？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1877) 
-5. [第3206题：Agent Workflow 如何实现重试机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1876) 
-6. [第3207题：如何实现 Agent 的状态持久化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1875) 
-7. [第3208题：如何实现 Agent 的断点续执行？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1874) 
-8. [第3209题：Agent Workflow 如何进行监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1873) 
-9. [第3215题：MCP 与 Function Calling 的关系是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1872) 
-10. [第3216题：MCP 如何实现工具发现（Discovery）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1871) 
+1. [第3203题：什么场景适合 Workflow？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1882) 
+2. [第3202题：DAG 工作流是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1881) 
+3. [第3201题：工作流（Workflow）与自主 Agent 的区别是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1880) 
+4. [第3200题：什么是 Agent Workflow？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1879) 
+5. [第3204题：什么场景适合 Autonomous Agent？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1878) 
+6. [第3205题：如何设计一个多步骤 Agent 工作流？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1877) 
+7. [第3206题：Agent Workflow 如何实现重试机制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1876) 
+8. [第3207题：如何实现 Agent 的状态持久化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1875) 
+9. [第3208题：如何实现 Agent 的断点续执行？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1874) 
+10. [第3209题：Agent Workflow 如何进行监控？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1873) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
