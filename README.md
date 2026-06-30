@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3187题：什么是 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1891) 
-2. [第3188题：为什么 Agent 经常需要结合 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1890) 
-3. [第3194题：TopK 参数如何影响检索效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1889) 
-4. [第3193题：Chunk 过大或过小会带来什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1888) 
-5. [第3192题：Chunk 的切分策略有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1887) 
-6. [第3191题：向量数据库的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1886) 
-7. [第3190题：Embedding 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1885) 
-8. [第3189题：RAG 的整体架构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1884) 
-9. [第3199题：Agent 与 RAG 结合时的典型流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1883) 
-10. [第3203题：什么场景适合 Workflow？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1882) 
+1. [第3197题：如何评估 RAG 的召回率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1893) 
+2. [第3198题：如何解决知识库内容更新问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1892) 
+3. [第3187题：什么是 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1891) 
+4. [第3188题：为什么 Agent 经常需要结合 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1890) 
+5. [第3194题：TopK 参数如何影响检索效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1889) 
+6. [第3193题：Chunk 过大或过小会带来什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1888) 
+7. [第3192题：Chunk 的切分策略有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1887) 
+8. [第3191题：向量数据库的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1886) 
+9. [第3190题：Embedding 是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1885) 
+10. [第3189题：RAG 的整体架构是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1884) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
