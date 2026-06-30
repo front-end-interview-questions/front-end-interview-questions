@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3184题：工具调用结果过长时如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1902) 
-2. [第3185题：如何实现工具权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1901) 
-3. [第3183题：如何设计工具描述（Tool Description）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1900) 
-4. [第3182题：Agent 如何选择最合适的工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1899) 
-5. [第3181题：如何避免 Agent 频繁调用无关工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1898) 
-6. [第3180题：一个 Agent 如何管理多个工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1897) 
-7. [第3186题：Tool Calling 与 API Gateway 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1896) 
-8. [第3195题：Rerank 的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1895) 
-9. [第3196题：Hybrid Search（混合检索）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1894) 
-10. [第3197题：如何评估 RAG 的召回率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1893) 
+1. [第3179题：Agent 如何处理工具调用失败的情况？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1903) 
+2. [第3184题：工具调用结果过长时如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1902) 
+3. [第3185题：如何实现工具权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1901) 
+4. [第3183题：如何设计工具描述（Tool Description）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1900) 
+5. [第3182题：Agent 如何选择最合适的工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1899) 
+6. [第3181题：如何避免 Agent 频繁调用无关工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1898) 
+7. [第3180题：一个 Agent 如何管理多个工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1897) 
+8. [第3186题：Tool Calling 与 API Gateway 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1896) 
+9. [第3195题：Rerank 的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1895) 
+10. [第3196题：Hybrid Search（混合检索）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1894) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
