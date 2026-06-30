@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3172题：什么是上下文窗口（Context Window）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1918) 
-2. [第3164题：Agent 的记忆（Memory）机制有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1917) 
-3. [第3163题：什么是 Reasoning（推理）能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1916) 
-4. [第3162题：什么是 Planning（规划）能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1915) 
-5. [第3161题：Agent 的 ReAct 模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1914) 
-6. [第3160题：为什么大模型需要 Agent，而不是直接回答用户问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1913) 
-7. [第3159题：AI Agent 与 Workflow 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1912) 
-8. [第3158题：Agent 的核心组成部分有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1911) 
-9. [第3157题：什么是 AI Agent？它与传统 ChatBot 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1910) 
-10. [第3173题：如何解决 Agent 的上下文长度限制问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1909) 
+1. [第3165题：短期记忆和长期记忆有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1922) 
+2. [第3169题：Agent 如何判断是否需要调用工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1921) 
+3. [第3170题：Prompt Engineering 在 Agent 中起什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1920) 
+4. [第3171题：System Prompt 对 Agent 的行为有什么影响？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1919) 
+5. [第3172题：什么是上下文窗口（Context Window）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1918) 
+6. [第3164题：Agent 的记忆（Memory）机制有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1917) 
+7. [第3163题：什么是 Reasoning（推理）能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1916) 
+8. [第3162题：什么是 Planning（规划）能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1915) 
+9. [第3161题：Agent 的 ReAct 模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1914) 
+10. [第3160题：为什么大模型需要 Agent，而不是直接回答用户问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1913) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
