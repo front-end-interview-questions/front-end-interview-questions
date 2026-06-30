@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3195题：Rerank 的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1895) 
-2. [第3196题：Hybrid Search（混合检索）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1894) 
-3. [第3197题：如何评估 RAG 的召回率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1893) 
-4. [第3198题：如何解决知识库内容更新问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1892) 
-5. [第3187题：什么是 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1891) 
-6. [第3188题：为什么 Agent 经常需要结合 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1890) 
-7. [第3194题：TopK 参数如何影响检索效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1889) 
-8. [第3193题：Chunk 过大或过小会带来什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1888) 
-9. [第3192题：Chunk 的切分策略有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1887) 
-10. [第3191题：向量数据库的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1886) 
+1. [第3186题：Tool Calling 与 API Gateway 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1896) 
+2. [第3195题：Rerank 的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1895) 
+3. [第3196题：Hybrid Search（混合检索）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1894) 
+4. [第3197题：如何评估 RAG 的召回率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1893) 
+5. [第3198题：如何解决知识库内容更新问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1892) 
+6. [第3187题：什么是 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1891) 
+7. [第3188题：为什么 Agent 经常需要结合 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1890) 
+8. [第3194题：TopK 参数如何影响检索效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1889) 
+9. [第3193题：Chunk 过大或过小会带来什么问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1888) 
+10. [第3192题：Chunk 的切分策略有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1887) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
