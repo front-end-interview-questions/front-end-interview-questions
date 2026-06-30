@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3160题：为什么大模型需要 Agent，而不是直接回答用户问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1913) 
-2. [第3159题：AI Agent 与 Workflow 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1912) 
-3. [第3158题：Agent 的核心组成部分有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1911) 
-4. [第3157题：什么是 AI Agent？它与传统 ChatBot 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1910) 
-5. [第3173题：如何解决 Agent 的上下文长度限制问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1909) 
-6. [第3174题：为什么 Agent 容易出现幻觉（Hallucination）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1908) 
-7. [第3175题：如何降低 Agent 的幻觉率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1907) 
-8. [第3176题：Temperature 参数对 Agent 的影响是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1906) 
-9. [第3177题：Agent 调用外部工具的完整流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1905) 
-10. [第3178题：Tool Schema 为什么通常使用 JSON Schema？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1904) 
+1. [第3163题：什么是 Reasoning（推理）能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1916) 
+2. [第3162题：什么是 Planning（规划）能力？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1915) 
+3. [第3161题：Agent 的 ReAct 模式是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1914) 
+4. [第3160题：为什么大模型需要 Agent，而不是直接回答用户问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1913) 
+5. [第3159题：AI Agent 与 Workflow 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1912) 
+6. [第3158题：Agent 的核心组成部分有哪些？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1911) 
+7. [第3157题：什么是 AI Agent？它与传统 ChatBot 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1910) 
+8. [第3173题：如何解决 Agent 的上下文长度限制问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1909) 
+9. [第3174题：为什么 Agent 容易出现幻觉（Hallucination）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1908) 
+10. [第3175题：如何降低 Agent 的幻觉率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1907) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
