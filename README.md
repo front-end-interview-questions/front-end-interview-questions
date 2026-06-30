@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3181题：如何避免 Agent 频繁调用无关工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1898) 
-2. [第3180题：一个 Agent 如何管理多个工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1897) 
-3. [第3186题：Tool Calling 与 API Gateway 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1896) 
-4. [第3195题：Rerank 的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1895) 
-5. [第3196题：Hybrid Search（混合检索）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1894) 
-6. [第3197题：如何评估 RAG 的召回率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1893) 
-7. [第3198题：如何解决知识库内容更新问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1892) 
-8. [第3187题：什么是 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1891) 
-9. [第3188题：为什么 Agent 经常需要结合 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1890) 
-10. [第3194题：TopK 参数如何影响检索效果？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1889) 
+1. [第3182题：Agent 如何选择最合适的工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1899) 
+2. [第3181题：如何避免 Agent 频繁调用无关工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1898) 
+3. [第3180题：一个 Agent 如何管理多个工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1897) 
+4. [第3186题：Tool Calling 与 API Gateway 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1896) 
+5. [第3195题：Rerank 的作用是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1895) 
+6. [第3196题：Hybrid Search（混合检索）是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1894) 
+7. [第3197题：如何评估 RAG 的召回率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1893) 
+8. [第3198题：如何解决知识库内容更新问题？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1892) 
+9. [第3187题：什么是 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1891) 
+10. [第3188题：为什么 Agent 经常需要结合 RAG？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1890) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
