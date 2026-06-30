@@ -18,16 +18,16 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3177题：Agent 调用外部工具的完整流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1905) 
-2. [第3178题：Tool Schema 为什么通常使用 JSON Schema？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1904) 
-3. [第3179题：Agent 如何处理工具调用失败的情况？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1903) 
-4. [第3184题：工具调用结果过长时如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1902) 
-5. [第3185题：如何实现工具权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1901) 
-6. [第3183题：如何设计工具描述（Tool Description）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1900) 
-7. [第3182题：Agent 如何选择最合适的工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1899) 
-8. [第3181题：如何避免 Agent 频繁调用无关工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1898) 
-9. [第3180题：一个 Agent 如何管理多个工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1897) 
-10. [第3186题：Tool Calling 与 API Gateway 有什么关系？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1896) 
+1. [第3175题：如何降低 Agent 的幻觉率？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1907) 
+2. [第3176题：Temperature 参数对 Agent 的影响是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1906) 
+3. [第3177题：Agent 调用外部工具的完整流程是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1905) 
+4. [第3178题：Tool Schema 为什么通常使用 JSON Schema？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1904) 
+5. [第3179题：Agent 如何处理工具调用失败的情况？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1903) 
+6. [第3184题：工具调用结果过长时如何处理？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1902) 
+7. [第3185题：如何实现工具权限控制？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1901) 
+8. [第3183题：如何设计工具描述（Tool Description）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1900) 
+9. [第3182题：Agent 如何选择最合适的工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1899) 
+10. [第3181题：如何避免 Agent 频繁调用无关工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1898) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
