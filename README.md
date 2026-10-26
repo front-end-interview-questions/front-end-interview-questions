@@ -18,17 +18,17 @@
 
 <!-- recentUpdateIssueTable -->
 
-1. [第3288题：AI给出的答案和你自己的判断冲突时，最后你会怎么决定？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1929) 
-2. [第3289题：AI 生成的代码，你是怎么做 Code Review 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1928) 
-3. [第3290题：过去半年，你使用 AI 或者工作的方式，发生过什么变化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1927) 
-4. [第3287题：NestJs、Nust.js、Next.js 这几个框架有什么区别
+1. [第3292题：商品热度可视化（热力图）是如何实现的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1930) 
+2. [第3288题：AI给出的答案和你自己的判断冲突时，最后你会怎么决定？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1929) 
+3. [第3289题：AI 生成的代码，你是怎么做 Code Review 的？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1928) 
+4. [第3290题：过去半年，你使用 AI 或者工作的方式，发生过什么变化？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1927) 
+5. [第3287题：NestJs、Nust.js、Next.js 这几个框架有什么区别
 ](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1926) 
-5. [第3167题：Function Calling 的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1925) 
-6. [第3168题：Tool Calling 与 Function Calling 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1924) 
-7. [第3166题：Agent 为什么需要状态管理（State）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1923) 
-8. [第3165题：短期记忆和长期记忆有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1922) 
-9. [第3169题：Agent 如何判断是否需要调用工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1921) 
-10. [第3170题：Prompt Engineering 在 Agent 中起什么作用？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1920) 
+6. [第3167题：Function Calling 的原理是什么？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1925) 
+7. [第3168题：Tool Calling 与 Function Calling 有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1924) 
+8. [第3166题：Agent 为什么需要状态管理（State）？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1923) 
+9. [第3165题：短期记忆和长期记忆有什么区别？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1922) 
+10. [第3169题：Agent 如何判断是否需要调用工具？](https://github.com/front-end-interview-questions/front-end-interview-questions/issues/1921) 
 <!-- recentUpdateIssueTable -->
 
 ## 完整题目列表
